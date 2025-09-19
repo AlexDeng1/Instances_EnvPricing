@@ -1,0 +1,1999 @@
+traveller_id,wt_css_o,wt_css_d,cs_duration,walking_duration,public_duration,bicycling_duration,driving_duration,cs_distance,walking_distance,public_distance,bicycling_distance,driving_distance
+t0,5 mins,6 mins,19 mins,1 hour 35 mins,27 mins,26 mins,22 mins,6.7 km,6.8 km,7.5 km,7.9 km,7.5 km
+t1,5 mins,4 mins,19 mins,1 hour 13 mins,21 mins,18 mins,17 mins,6.3 km,5.2 km,5.4 km,5.3 km,5.3 km
+t2,5 mins,9 mins,15 mins,51 mins,17 mins,13 mins,14 mins,4.6 km,3.6 km,4.1 km,3.9 km,4.9 km
+t3,2 mins,5 mins,19 mins,1 hour 21 mins,18 mins,21 mins,16 mins,6.3 km,5.8 km,6.5 km,6.3 km,5.9 km
+t4,1 min,3 mins,16 mins,1 hour 13 mins,17 mins,20 mins,14 mins,5.5 km,5.2 km,6.6 km,5.4 km,5.4 km
+t5,5 mins,2 mins,16 mins,1 hour 2 mins,26 mins,17 mins,18 mins,5.0 km,4.4 km,5.3 km,4.8 km,5.9 km
+t6,2 mins,3 mins,20 mins,1 hour 27 mins,16 mins,22 mins,18 mins,6.2 km,6.2 km,6.9 km,6.1 km,6.0 km
+t7,5 mins,6 mins,22 mins,1 hour 40 mins,32 mins,24 mins,23 mins,7.9 km,7.2 km,10.0 km,7.1 km,8.5 km
+t8,4 mins,4 mins,15 mins,49 mins,22 mins,14 mins,12 mins,4.3 km,3.5 km,4.4 km,3.9 km,3.9 km
+t9,8 mins,5 mins,17 mins,1 hour 14 mins,24 mins,20 mins,15 mins,6.4 km,5.3 km,7.3 km,5.7 km,5.3 km
+t10,5 mins,9 mins,21 mins,1 hour 34 mins,30 mins,22 mins,24 mins,7.5 km,6.7 km,8.1 km,6.8 km,8.9 km
+t11,6 mins,5 mins,9 mins,27 mins,18 mins,9 mins,7 mins,2.2 km,1.9 km,2.4 km,2.5 km,2.1 km
+t12,6 mins,8 mins,20 mins,1 hour 29 mins,24 mins,23 mins,19 mins,7.1 km,6.4 km,9.6 km,6.8 km,6.9 km
+t13,1 min,3 mins,24 mins,2 hours 3 mins,24 mins,30 mins,21 mins,9.5 km,8.8 km,9.3 km,8.6 km,9.2 km
+t14,4 mins,8 mins,5 mins,18 mins,9 mins,4 mins,5 mins,0.9 km,1.3 km,1.3 km,1.3 km,1.3 km
+t15,6 mins,5 mins,22 mins,1 hour 53 mins,31 mins,30 mins,23 mins,9.4 km,8.0 km,8.7 km,8.6 km,9.5 km
+t16,1 min,1 min,12 mins,41 mins,13 mins,13 mins,12 mins,3.3 km,3.0 km,3.1 km,3.4 km,4.2 km
+t17,5 mins,3 mins,18 mins,1 hour 25 mins,37 mins,22 mins,20 mins,7.0 km,6.2 km,9.5 km,6.5 km,7.9 km
+t18,5 mins,5 mins,19 mins,1 hour 16 mins,28 mins,19 mins,22 mins,6.4 km,5.4 km,6.0 km,5.6 km,6.9 km
+t19,6 mins,8 mins,20 mins,1 hour 33 mins,30 mins,24 mins,21 mins,6.5 km,6.7 km,9.1 km,7.0 km,7.6 km
+t20,2 mins,6 mins,15 mins,59 mins,22 mins,15 mins,15 mins,5.0 km,4.2 km,5.6 km,4.5 km,4.8 km
+t21,6 mins,5 mins,23 mins,1 hour 36 mins,26 mins,24 mins,22 mins,8.2 km,6.9 km,6.9 km,7.2 km,8.1 km
+t22,8 mins,5 mins,18 mins,1 hour 9 mins,24 mins,20 mins,18 mins,5.9 km,4.9 km,5.7 km,6.0 km,5.9 km
+t23,6 mins,2 mins,7 mins,27 mins,9 mins,7 mins,8 mins,1.6 km,1.9 km,1.7 km,1.8 km,1.8 km
+t24,5 mins,3 mins,15 mins,1 hour 0 mins,20 mins,16 mins,16 mins,4.6 km,4.3 km,4.3 km,4.7 km,4.9 km
+t25,6 mins,14 mins,7 mins,36 mins,13 mins,10 mins,9 mins,1.9 km,2.6 km,2.8 km,2.7 km,2.6 km
+t26,8 mins,6 mins,24 mins,2 hours 4 mins,31 mins,32 mins,22 mins,9.7 km,8.9 km,10.4 km,9.4 km,9.4 km
+t27,6 mins,4 mins,23 mins,2 hours 1 min,32 mins,30 mins,24 mins,8.7 km,8.7 km,10.4 km,8.9 km,9.0 km
+t28,5 mins,5 mins,21 mins,2 hours 13 mins,46 mins,35 mins,23 mins,9.8 km,9.6 km,13.3 km,10.5 km,10.4 km
+t29,6 mins,4 mins,23 mins,1 hour 51 mins,41 mins,28 mins,25 mins,9.3 km,8.0 km,8.9 km,8.2 km,9.4 km
+t30,3 mins,1 min,10 mins,40 mins,21 mins,11 mins,9 mins,3.0 km,2.9 km,3.8 km,3.0 km,3.0 km
+t31,5 mins,6 mins,20 mins,1 hour 44 mins,33 mins,29 mins,20 mins,8.8 km,7.5 km,10.1 km,8.3 km,8.6 km
+t32,3 mins,13 mins,12 mins,1 hour 12 mins,30 mins,20 mins,15 mins,4.5 km,5.2 km,6.4 km,5.5 km,5.5 km
+t33,3 mins,5 mins,26 mins,2 hours 24 mins,49 mins,39 mins,27 mins,12.4 km,10.4 km,15.4 km,11.1 km,12.5 km
+t34,5 mins,5 mins,12 mins,1 hour 13 mins,32 mins,20 mins,16 mins,5.6 km,5.3 km,7.4 km,5.7 km,6.5 km
+t35,6 mins,3 mins,22 mins,2 hours 9 mins,45 mins,36 mins,24 mins,10.0 km,9.3 km,15.9 km,10.1 km,10.2 km
+t36,3 mins,10 mins,21 mins,1 hour 44 mins,42 mins,28 mins,18 mins,9.4 km,7.6 km,11.9 km,7.8 km,8.3 km
+t37,5 mins,5 mins,10 mins,1 hour 1 min,24 mins,16 mins,11 mins,4.7 km,4.4 km,5.0 km,4.8 km,5.2 km
+t38,5 mins,12 mins,7 mins,38 mins,16 mins,11 mins,8 mins,2.6 km,2.7 km,3.2 km,3.1 km,4.2 km
+t39,6 mins,7 mins,15 mins,1 hour 18 mins,39 mins,21 mins,21 mins,5.3 km,5.6 km,6.6 km,5.9 km,6.4 km
+t40,6 mins,3 mins,15 mins,1 hour 37 mins,39 mins,26 mins,18 mins,7.8 km,7.0 km,9.0 km,7.0 km,7.9 km
+t41,5 mins,6 mins,4 mins,24 mins,20 mins,7 mins,4 mins,1.5 km,1.7 km,2.2 km,1.7 km,1.7 km
+t42,3 mins,2 mins,23 mins,1 hour 58 mins,40 mins,30 mins,23 mins,9.9 km,8.5 km,12.0 km,8.8 km,9.9 km
+t43,5 mins,5 mins,28 mins,2 hours 36 mins,49 mins,40 mins,30 mins,11.4 km,11.2 km,17.3 km,11.4 km,11.8 km
+t44,7 mins,6 mins,21 mins,1 hour 40 mins,23 mins,26 mins,23 mins,7.1 km,7.1 km,8.3 km,7.1 km,7.6 km
+t45,1 min,6 mins,9 mins,46 mins,24 mins,11 mins,10 mins,3.4 km,3.3 km,5.0 km,3.3 km,4.0 km
+t46,9 mins,2 mins,20 mins,1 hour 38 mins,26 mins,25 mins,22 mins,7.4 km,7.0 km,7.5 km,7.7 km,7.5 km
+t47,9 mins,4 mins,23 mins,1 hour 48 mins,30 mins,27 mins,24 mins,8.6 km,7.7 km,8.5 km,7.8 km,8.1 km
+t48,9 mins,2 mins,20 mins,1 hour 31 mins,21 mins,24 mins,22 mins,7.3 km,6.5 km,6.9 km,6.5 km,7.8 km
+t49,1 min,7 mins,11 mins,47 mins,20 mins,10 mins,15 mins,3.4 km,3.5 km,4.2 km,3.2 km,4.0 km
+t50,7 mins,11 mins,19 mins,1 hour 25 mins,31 mins,23 mins,19 mins,6.3 km,6.1 km,9.9 km,6.7 km,7.3 km
+t51,7 mins,4 mins,18 mins,1 hour 29 mins,20 mins,23 mins,20 mins,6.7 km,6.4 km,7.7 km,6.3 km,7.2 km
+t52,7 mins,9 mins,16 mins,1 hour 11 mins,29 mins,18 mins,17 mins,5.4 km,5.1 km,5.5 km,5.2 km,5.4 km
+t53,7 mins,5 mins,10 mins,36 mins,23 mins,11 mins,9 mins,3.2 km,2.6 km,3.3 km,3.2 km,2.7 km
+t54,1 min,4 mins,8 mins,30 mins,9 mins,8 mins,8 mins,2.3 km,2.2 km,2.7 km,2.1 km,2.1 km
+t55,7 mins,2 mins,9 mins,37 mins,22 mins,11 mins,9 mins,2.9 km,2.7 km,3.2 km,3.1 km,2.8 km
+t56,7 mins,6 mins,10 mins,48 mins,20 mins,12 mins,11 mins,3.5 km,3.4 km,4.4 km,3.5 km,3.8 km
+t57,7 mins,9 mins,22 mins,1 hour 46 mins,31 mins,26 mins,24 mins,8.4 km,7.6 km,9.0 km,7.9 km,9.1 km
+t58,1 min,8 mins,21 mins,1 hour 44 mins,28 mins,27 mins,21 mins,8.1 km,7.5 km,10.2 km,7.8 km,7.9 km
+t59,7 mins,8 mins,20 mins,1 hour 37 mins,30 mins,25 mins,21 mins,8.5 km,7.0 km,10.6 km,7.5 km,7.9 km
+t60,2 mins,6 mins,26 mins,2 hours 8 mins,40 mins,34 mins,28 mins,9.2 km,9.2 km,10.4 km,10.1 km,9.7 km
+t61,3 mins,8 mins,24 mins,1 hour 38 mins,34 mins,25 mins,23 mins,7.7 km,7.1 km,7.3 km,7.3 km,8.0 km
+t62,1 min,8 mins,23 mins,1 hour 54 mins,31 mins,28 mins,22 mins,8.3 km,8.2 km,9.6 km,8.1 km,9.8 km
+t63,6 mins,1 min,11 mins,1 hour 2 mins,25 mins,19 mins,13 mins,4.7 km,4.5 km,5.2 km,5.5 km,5.6 km
+t64,2 mins,4 mins,24 mins,2 hours 5 mins,44 mins,34 mins,23 mins,10.1 km,9.0 km,10.8 km,9.9 km,9.9 km
+t65,2 mins,7 mins,25 mins,2 hours 24 mins,54 mins,37 mins,25 mins,12.0 km,10.4 km,11.8 km,10.7 km,23.3 km
+t66,6 mins,4 mins,14 mins,1 hour 2 mins,20 mins,18 mins,16 mins,4.2 km,4.5 km,4.8 km,4.9 km,5.9 km
+t67,6 mins,8 mins,19 mins,1 hour 22 mins,31 mins,22 mins,19 mins,5.8 km,5.9 km,6.8 km,6.3 km,7.8 km
+t68,6 mins,6 mins,10 mins,38 mins,11 mins,11 mins,10 mins,3.2 km,2.8 km,2.9 km,3.2 km,4.0 km
+t69,1 min,3 mins,23 mins,2 hours 4 mins,29 mins,31 mins,24 mins,10.3 km,8.9 km,9.9 km,8.8 km,10.6 km
+t70,3 mins,7 mins,9 mins,31 mins,14 mins,9 mins,8 mins,3.4 km,2.3 km,2.3 km,2.3 km,3.0 km
+t71,6 mins,5 mins,24 mins,1 hour 48 mins,35 mins,29 mins,26 mins,7.8 km,7.8 km,8.7 km,8.6 km,10.2 km
+t72,3 mins,3 mins,23 mins,1 hour 35 mins,37 mins,25 mins,22 mins,7.5 km,6.8 km,8.1 km,7.2 km,7.1 km
+t73,6 mins,8 mins,19 mins,1 hour 48 mins,38 mins,29 mins,21 mins,8.5 km,7.8 km,7.9 km,8.1 km,11.4 km
+t74,6 mins,2 mins,26 mins,2 hours 5 mins,39 mins,32 mins,27 mins,9.4 km,8.9 km,11.9 km,9.5 km,11.1 km
+t75,2 mins,6 mins,27 mins,1 hour 53 mins,46 mins,29 mins,26 mins,9.4 km,8.1 km,10.1 km,8.2 km,8.9 km
+t76,2 mins,10 mins,26 mins,1 hour 59 mins,46 mins,31 mins,27 mins,10.1 km,8.6 km,10.2 km,8.9 km,9.4 km
+t77,6 mins,7 mins,21 mins,1 hour 54 mins,37 mins,31 mins,21 mins,8.9 km,8.2 km,8.5 km,9.1 km,11.7 km
+t78,6 mins,7 mins,19 mins,1 hour 9 mins,31 mins,20 mins,16 mins,6.6 km,5.0 km,6.3 km,5.5 km,5.6 km
+t79,8 mins,6 mins,23 mins,1 hour 41 mins,32 mins,26 mins,22 mins,7.9 km,7.3 km,8.2 km,7.8 km,7.4 km
+t80,8 mins,4 mins,23 mins,1 hour 27 mins,42 mins,21 mins,20 mins,8.6 km,6.2 km,8.6 km,6.4 km,6.4 km
+t81,6 mins,7 mins,15 mins,1 hour 26 mins,30 mins,21 mins,15 mins,6.0 km,6.3 km,9.7 km,6.5 km,6.7 km
+t82,6 mins,6 mins,20 mins,1 hour 0 mins,27 mins,15 mins,17 mins,7.2 km,4.3 km,4.7 km,4.5 km,5.0 km
+t83,6 mins,6 mins,20 mins,1 hour 16 mins,29 mins,20 mins,19 mins,8.8 km,5.5 km,7.2 km,6.1 km,6.6 km
+t84,2 mins,5 mins,8 mins,27 mins,16 mins,6 mins,8 mins,2.0 km,2.0 km,2.8 km,2.1 km,2.6 km
+t85,4 mins,5 mins,19 mins,1 hour 24 mins,38 mins,22 mins,19 mins,6.7 km,6.1 km,7.5 km,6.3 km,6.8 km
+t86,6 mins,4 mins,23 mins,1 hour 44 mins,25 mins,27 mins,23 mins,8.4 km,7.5 km,8.5 km,7.6 km,7.8 km
+t87,2 mins,7 mins,23 mins,1 hour 41 mins,41 mins,27 mins,24 mins,8.6 km,7.2 km,9.8 km,7.6 km,8.9 km
+t88,7 mins,4 mins,14 mins,53 mins,26 mins,14 mins,13 mins,4.2 km,3.8 km,4.3 km,3.9 km,3.7 km
+t89,4 mins,7 mins,23 mins,1 hour 47 mins,42 mins,31 mins,25 mins,10.4 km,7.7 km,11.7 km,9.1 km,10.7 km
+t90,2 mins,6 mins,16 mins,1 hour 11 mins,30 mins,18 mins,15 mins,5.6 km,5.1 km,6.1 km,5.3 km,5.5 km
+t91,8 mins,5 mins,18 mins,56 mins,30 mins,14 mins,16 mins,5.0 km,4.0 km,6.0 km,4.0 km,4.3 km
+t92,7 mins,8 mins,18 mins,1 hour 17 mins,32 mins,20 mins,18 mins,6.9 km,5.5 km,6.8 km,5.9 km,5.9 km
+t93,8 mins,5 mins,21 mins,1 hour 32 mins,34 mins,24 mins,20 mins,8.6 km,6.6 km,8.5 km,6.8 km,6.8 km
+t94,8 mins,3 mins,9 mins,23 mins,12 mins,6 mins,6 mins,2.5 km,1.7 km,1.9 km,1.7 km,1.7 km
+t95,8 mins,6 mins,14 mins,58 mins,25 mins,14 mins,13 mins,5.4 km,4.2 km,5.6 km,4.2 km,4.4 km
+t96,2 mins,3 mins,28 mins,2 hours 33 mins,53 mins,38 mins,28 mins,12.0 km,11.0 km,12.9 km,11.4 km,12.1 km
+t97,8 mins,10 mins,25 mins,1 hour 50 mins,45 mins,27 mins,25 mins,9.8 km,7.8 km,9.9 km,7.9 km,8.8 km
+t98,8 mins,4 mins,24 mins,1 hour 38 mins,34 mins,26 mins,23 mins,10.7 km,7.0 km,8.7 km,7.6 km,10.2 km
+t99,2 mins,6 mins,12 mins,58 mins,22 mins,15 mins,13 mins,4.9 km,4.2 km,4.8 km,4.3 km,4.6 km
+t100,3 mins,11 mins,13 mins,47 mins,22 mins,11 mins,12 mins,4.1 km,3.3 km,5.0 km,3.4 km,3.7 km
+t101,3 mins,7 mins,18 mins,1 hour 23 mins,34 mins,21 mins,16 mins,6.1 km,6.0 km,6.4 km,6.2 km,6.1 km
+t102,3 mins,7 mins,8 mins,30 mins,19 mins,7 mins,10 mins,2.1 km,2.1 km,2.3 km,2.3 km,2.6 km
+t103,3 mins,3 mins,22 mins,1 hour 57 mins,26 mins,28 mins,20 mins,9.1 km,8.4 km,8.6 km,8.3 km,8.8 km
+t104,6 mins,7 mins,7 mins,20 mins,13 mins,6 mins,5 mins,1.9 km,1.4 km,1.8 km,1.9 km,1.5 km
+t105,3 mins,5 mins,14 mins,1 hour 12 mins,36 mins,18 mins,14 mins,5.1 km,5.1 km,6.8 km,5.4 km,5.4 km
+t106,6 mins,6 mins,13 mins,48 mins,25 mins,13 mins,12 mins,4.6 km,3.4 km,5.0 km,4.1 km,4.5 km
+t107,3 mins,9 mins,8 mins,42 mins,30 mins,11 mins,10 mins,3.0 km,3.0 km,5.5 km,3.0 km,3.1 km
+t108,3 mins,3 mins,14 mins,1 hour 12 mins,22 mins,19 mins,15 mins,5.3 km,5.1 km,6.9 km,5.6 km,5.6 km
+t109,3 mins,8 mins,7 mins,28 mins,15 mins,9 mins,7 mins,2.2 km,2.0 km,2.2 km,2.4 km,2.4 km
+t110,3 mins,4 mins,5 mins,10 mins,9 mins,3 mins,3 mins,1.3 km,0.8 km,1.0 km,0.8 km,0.8 km
+t111,3 mins,6 mins,19 mins,1 hour 22 mins,29 mins,21 mins,19 mins,7.0 km,5.8 km,7.7 km,6.0 km,7.0 km
+t112,3 mins,8 mins,18 mins,1 hour 22 mins,18 mins,21 mins,18 mins,5.8 km,5.9 km,6.3 km,5.9 km,5.9 km
+t113,3 mins,3 mins,11 mins,27 mins,8 mins,7 mins,8 mins,2.8 km,1.8 km,1.7 km,2.1 km,2.1 km
+t114,6 mins,11 mins,17 mins,1 hour 34 mins,30 mins,22 mins,16 mins,6.6 km,6.8 km,7.3 km,6.8 km,6.8 km
+t115,3 mins,5 mins,13 mins,57 mins,24 mins,14 mins,13 mins,4.1 km,4.0 km,4.9 km,4.1 km,4.1 km
+t116,3 mins,9 mins,20 mins,1 hour 34 mins,31 mins,23 mins,20 mins,7.2 km,6.7 km,7.1 km,6.7 km,6.7 km
+t117,4 mins,4 mins,23 mins,1 hour 39 mins,28 mins,25 mins,21 mins,8.2 km,7.1 km,11.6 km,7.4 km,7.7 km
+t118,6 mins,8 mins,19 mins,1 hour 30 mins,19 mins,23 mins,20 mins,6.7 km,6.4 km,7.1 km,6.3 km,6.3 km
+t119,6 mins,1 min,14 mins,1 hour 13 mins,31 mins,22 mins,12 mins,6.5 km,5.4 km,7.2 km,6.5 km,6.1 km
+t120,8 mins,2 mins,6 mins,18 mins,12 mins,5 mins,4 mins,1.8 km,1.3 km,1.5 km,1.5 km,1.3 km
+t121,8 mins,6 mins,24 mins,2 hours 17 mins,48 mins,34 mins,23 mins,10.1 km,9.7 km,11.3 km,9.8 km,9.8 km
+t122,4 mins,5 mins,21 mins,1 hour 26 mins,23 mins,23 mins,19 mins,7.1 km,6.1 km,8.4 km,7.0 km,6.9 km
+t123,4 mins,10 mins,9 mins,24 mins,14 mins,7 mins,6 mins,2.6 km,1.7 km,1.8 km,1.7 km,1.9 km
+t124,8 mins,1 min,23 mins,1 hour 48 mins,32 mins,26 mins,23 mins,8.0 km,7.7 km,9.6 km,7.6 km,8.1 km
+t125,8 mins,11 mins,18 mins,1 hour 20 mins,35 mins,20 mins,18 mins,5.7 km,5.7 km,7.1 km,6.1 km,6.4 km
+t126,8 mins,6 mins,21 mins,1 hour 34 mins,23 mins,23 mins,21 mins,6.5 km,6.8 km,7.4 km,6.6 km,6.7 km
+t127,8 mins,1 min,22 mins,1 hour 41 mins,31 mins,24 mins,22 mins,7.8 km,7.2 km,7.8 km,7.3 km,8.0 km
+t128,6 mins,9 mins,11 mins,45 mins,21 mins,10 mins,10 mins,3.6 km,3.3 km,3.6 km,3.0 km,3.4 km
+t129,6 mins,4 mins,21 mins,1 hour 33 mins,32 mins,24 mins,20 mins,7.5 km,6.6 km,8.1 km,7.0 km,7.4 km
+t130,8 mins,4 mins,17 mins,1 hour 7 mins,31 mins,17 mins,16 mins,5.3 km,4.8 km,6.1 km,5.2 km,5.2 km
+t131,8 mins,8 mins,15 mins,1 hour 3 mins,27 mins,15 mins,14 mins,4.8 km,4.5 km,4.8 km,4.3 km,4.3 km
+t132,6 mins,3 mins,22 mins,1 hour 24 mins,34 mins,22 mins,19 mins,7.1 km,6.0 km,7.0 km,6.3 km,6.3 km
+t133,7 mins,7 mins,6 mins,29 mins,14 mins,7 mins,6 mins,1.9 km,2.1 km,2.8 km,2.1 km,2.3 km
+t134,4 mins,5 mins,21 mins,1 hour 28 mins,43 mins,21 mins,20 mins,6.3 km,6.3 km,9.1 km,6.3 km,6.4 km
+t135,4 mins,5 mins,22 mins,1 hour 31 mins,29 mins,23 mins,20 mins,6.7 km,6.5 km,7.9 km,6.4 km,6.7 km
+t136,7 mins,4 mins,21 mins,1 hour 25 mins,28 mins,20 mins,20 mins,6.2 km,6.1 km,6.7 km,6.2 km,6.2 km
+t137,7 mins,6 mins,17 mins,1 hour 10 mins,26 mins,18 mins,18 mins,5.7 km,5.1 km,7.0 km,5.5 km,6.1 km
+t138,7 mins,5 mins,9 mins,40 mins,17 mins,10 mins,9 mins,2.6 km,2.9 km,2.9 km,2.8 km,3.1 km
+t139,4 mins,3 mins,12 mins,46 mins,17 mins,13 mins,10 mins,4.0 km,3.3 km,3.7 km,4.0 km,3.7 km
+t140,7 mins,8 mins,4 mins,17 mins,15 mins,5 mins,5 mins,1.2 km,1.2 km,1.8 km,1.4 km,1.4 km
+t141,4 mins,5 mins,17 mins,1 hour 12 mins,26 mins,18 mins,16 mins,5.1 km,5.1 km,5.6 km,5.1 km,5.4 km
+t142,4 mins,3 mins,12 mins,1 hour 0 mins,33 mins,14 mins,10 mins,5.0 km,4.3 km,5.4 km,4.4 km,4.6 km
+t143,7 mins,5 mins,21 mins,1 hour 35 mins,30 mins,24 mins,21 mins,7.0 km,6.7 km,8.2 km,7.5 km,6.9 km
+t144,4 mins,7 mins,19 mins,1 hour 23 mins,28 mins,20 mins,18 mins,5.8 km,6.0 km,6.6 km,5.9 km,6.2 km
+t145,7 mins,9 mins,27 mins,2 hours 7 mins,28 mins,32 mins,24 mins,8.5 km,9.1 km,10.5 km,9.3 km,10.2 km
+t146,4 mins,7 mins,25 mins,2 hours 3 mins,37 mins,31 mins,21 mins,9.3 km,8.9 km,9.9 km,9.4 km,10.5 km
+t147,2 mins,11 mins,23 mins,1 hour 47 mins,35 mins,32 mins,24 mins,8.1 km,7.7 km,10.5 km,7.9 km,8.7 km
+t148,2 mins,3 mins,18 mins,1 hour 21 mins,27 mins,22 mins,18 mins,5.9 km,5.9 km,10.3 km,6.6 km,6.9 km
+t149,6 mins,7 mins,11 mins,39 mins,16 mins,12 mins,10 mins,3.7 km,2.8 km,4.2 km,3.0 km,3.0 km
+t150,6 mins,8 mins,14 mins,1 hour 12 mins,22 mins,19 mins,15 mins,5.1 km,5.2 km,6.5 km,5.3 km,6.0 km
+t151,3 mins,5 mins,6 mins,17 mins,8 mins,5 mins,5 mins,1.9 km,1.3 km,1.4 km,1.5 km,1.5 km
+t152,2 mins,5 mins,23 mins,1 hour 46 mins,25 mins,28 mins,22 mins,7.8 km,7.6 km,9.2 km,7.9 km,8.4 km
+t153,2 mins,3 mins,25 mins,2 hours 3 mins,29 mins,32 mins,27 mins,9.3 km,8.8 km,10.0 km,9.3 km,10.4 km
+t154,3 mins,6 mins,26 mins,2 hours 16 mins,31 mins,32 mins,26 mins,10.1 km,9.8 km,11.8 km,9.8 km,10.1 km
+t155,2 mins,10 mins,22 mins,1 hour 47 mins,30 mins,28 mins,22 mins,9.2 km,7.8 km,11.3 km,8.4 km,9.2 km
+t156,6 mins,2 mins,22 mins,1 hour 43 mins,28 mins,24 mins,22 mins,7.7 km,7.5 km,8.0 km,7.5 km,7.6 km
+t157,3 mins,4 mins,18 mins,1 hour 12 mins,21 mins,17 mins,17 mins,6.6 km,5.1 km,5.7 km,5.2 km,6.1 km
+t158,3 mins,5 mins,20 mins,1 hour 22 mins,24 mins,19 mins,18 mins,6.6 km,5.9 km,5.7 km,5.9 km,6.0 km
+t159,6 mins,6 mins,21 mins,1 hour 20 mins,26 mins,22 mins,19 mins,7.0 km,5.7 km,6.1 km,6.4 km,6.3 km
+t160,6 mins,2 mins,19 mins,1 hour 40 mins,25 mins,26 mins,19 mins,7.1 km,7.2 km,8.8 km,7.5 km,7.7 km
+t161,6 mins,4 mins,20 mins,1 hour 31 mins,22 mins,25 mins,19 mins,7.4 km,6.6 km,7.9 km,6.9 km,6.8 km
+t162,2 mins,6 mins,22 mins,1 hour 46 mins,25 mins,28 mins,23 mins,8.0 km,7.6 km,9.2 km,7.9 km,8.4 km
+t163,2 mins,8 mins,18 mins,1 hour 12 mins,20 mins,20 mins,19 mins,6.1 km,5.3 km,5.8 km,5.5 km,7.6 km
+t164,2 mins,4 mins,4 mins,19 mins,8 mins,5 mins,4 mins,1.2 km,1.3 km,1.5 km,1.5 km,1.3 km
+t165,6 mins,3 mins,15 mins,1 hour 9 mins,25 mins,20 mins,16 mins,5.0 km,4.9 km,6.4 km,5.2 km,5.2 km
+t166,6 mins,4 mins,26 mins,2 hours 31 mins,38 mins,40 mins,25 mins,10.9 km,10.8 km,11.7 km,11.1 km,11.3 km
+t167,7 mins,6 mins,9 mins,33 mins,15 mins,9 mins,9 mins,2.6 km,2.4 km,2.6 km,2.4 km,2.6 km
+t168,7 mins,7 mins,11 mins,57 mins,34 mins,15 mins,10 mins,5.2 km,4.2 km,8.3 km,4.3 km,4.6 km
+t169,4 mins,5 mins,9 mins,45 mins,15 mins,13 mins,9 mins,3.7 km,3.3 km,3.8 km,3.6 km,3.7 km
+t170,4 mins,13 mins,12 mins,59 mins,26 mins,15 mins,14 mins,3.9 km,4.3 km,5.8 km,4.4 km,4.8 km
+t171,7 mins,11 mins,20 mins,1 hour 27 mins,36 mins,22 mins,21 mins,7.2 km,6.2 km,8.1 km,6.3 km,7.8 km
+t172,4 mins,9 mins,23 mins,2 hours 0 mins,34 mins,32 mins,24 mins,10.5 km,8.6 km,10.9 km,9.3 km,10.8 km
+t173,7 mins,3 mins,20 mins,1 hour 36 mins,39 mins,27 mins,19 mins,8.3 km,6.9 km,11.5 km,7.6 km,8.4 km
+t174,4 mins,8 mins,5 mins,18 mins,10 mins,5 mins,4 mins,1.8 km,1.4 km,1.4 km,1.4 km,1.4 km
+t175,7 mins,4 mins,24 mins,2 hours 3 mins,35 mins,32 mins,24 mins,10.8 km,8.9 km,11.5 km,9.2 km,10.6 km
+t176,4 mins,7 mins,18 mins,1 hour 9 mins,26 mins,18 mins,15 mins,5.7 km,5.0 km,5.9 km,5.3 km,5.3 km
+t177,7 mins,11 mins,17 mins,1 hour 49 mins,45 mins,28 mins,20 mins,8.5 km,7.9 km,10.3 km,8.0 km,9.1 km
+t178,4 mins,6 mins,17 mins,1 hour 16 mins,34 mins,23 mins,15 mins,7.7 km,5.5 km,8.7 km,6.7 km,7.0 km
+t179,7 mins,3 mins,4 mins,8 mins,8 mins,2 mins,2 mins,1.5 km,0.6 km,0.6 km,0.6 km,0.6 km
+t180,7 mins,1 min,24 mins,2 hours 7 mins,43 mins,31 mins,26 mins,9.8 km,9.1 km,13.2 km,9.2 km,10.5 km
+t181,8 mins,6 mins,19 mins,1 hour 34 mins,38 mins,25 mins,22 mins,6.6 km,6.8 km,7.7 km,7.9 km,7.5 km
+t182,4 mins,6 mins,6 mins,38 mins,22 mins,9 mins,9 mins,2.3 km,2.8 km,3.7 km,2.8 km,2.8 km
+t183,4 mins,5 mins,18 mins,1 hour 23 mins,25 mins,22 mins,19 mins,7.0 km,5.9 km,6.5 km,6.0 km,6.7 km
+t184,8 mins,3 mins,16 mins,1 hour 17 mins,39 mins,21 mins,18 mins,5.4 km,5.5 km,7.8 km,6.0 km,5.7 km
+t185,4 mins,3 mins,8 mins,40 mins,18 mins,11 mins,9 mins,3.1 km,2.9 km,3.4 km,3.2 km,3.4 km
+t186,4 mins,7 mins,15 mins,50 mins,16 mins,13 mins,14 mins,5.2 km,3.5 km,3.5 km,3.7 km,3.9 km
+t187,4 mins,7 mins,8 mins,38 mins,15 mins,11 mins,12 mins,2.9 km,2.7 km,3.0 km,2.7 km,3.3 km
+t188,8 mins,4 mins,22 mins,1 hour 43 mins,41 mins,28 mins,24 mins,7.9 km,7.4 km,10.2 km,8.8 km,8.8 km
+t189,4 mins,6 mins,14 mins,44 mins,15 mins,13 mins,13 mins,3.8 km,3.1 km,2.9 km,3.7 km,3.7 km
+t190,8 mins,2 mins,22 mins,2 hours 0 mins,51 mins,30 mins,25 mins,8.7 km,8.6 km,10.6 km,9.6 km,9.3 km
+t191,4 mins,12 mins,10 mins,1 hour 1 min,20 mins,17 mins,14 mins,4.2 km,4.5 km,7.0 km,5.2 km,5.6 km
+t192,8 mins,6 mins,14 mins,1 hour 6 mins,33 mins,17 mins,17 mins,4.9 km,4.7 km,5.9 km,5.2 km,5.4 km
+t193,8 mins,2 mins,5 mins,17 mins,11 mins,6 mins,6 mins,0.9 km,1.2 km,1.3 km,1.2 km,1.2 km
+t194,8 mins,2 mins,5 mins,32 mins,15 mins,9 mins,8 mins,1.7 km,2.3 km,3.1 km,2.6 km,2.3 km
+t195,8 mins,2 mins,14 mins,1 hour 15 mins,35 mins,23 mins,15 mins,6.7 km,5.4 km,8.7 km,6.5 km,6.8 km
+t196,5 mins,5 mins,15 mins,1 hour 5 mins,27 mins,16 mins,14 mins,5.3 km,4.8 km,5.5 km,5.1 km,5.0 km
+t197,7 mins,6 mins,26 mins,2 hours 23 mins,50 mins,36 mins,28 mins,11.1 km,10.3 km,15.2 km,11.2 km,11.2 km
+t198,5 mins,5 mins,14 mins,51 mins,24 mins,15 mins,14 mins,5.1 km,3.7 km,5.6 km,4.6 km,4.6 km
+t199,7 mins,8 mins,9 mins,22 mins,12 mins,5 mins,6 mins,3.1 km,1.6 km,1.5 km,1.8 km,1.8 km
+t200,1 min,3 mins,15 mins,1 hour 13 mins,28 mins,18 mins,16 mins,6.4 km,5.4 km,5.9 km,5.6 km,5.6 km
+t201,1 min,7 mins,10 mins,45 mins,22 mins,13 mins,11 mins,4.5 km,3.3 km,4.0 km,4.2 km,3.9 km
+t202,7 mins,4 mins,23 mins,1 hour 40 mins,34 mins,27 mins,20 mins,8.6 km,7.2 km,8.4 km,7.9 km,7.9 km
+t203,5 mins,3 mins,13 mins,1 hour 10 mins,31 mins,17 mins,12 mins,5.9 km,5.0 km,7.4 km,5.1 km,5.1 km
+t204,7 mins,5 mins,22 mins,1 hour 48 mins,32 mins,26 mins,25 mins,7.8 km,7.9 km,11.1 km,8.0 km,9.3 km
+t205,1 min,6 mins,12 mins,54 mins,26 mins,17 mins,13 mins,4.2 km,3.8 km,4.0 km,4.5 km,4.3 km
+t206,5 mins,6 mins,19 mins,1 hour 26 mins,28 mins,22 mins,18 mins,8.3 km,6.3 km,7.1 km,6.6 km,7.6 km
+t207,1 min,8 mins,17 mins,1 hour 25 mins,41 mins,21 mins,18 mins,6.2 km,6.2 km,14.3 km,6.3 km,6.3 km
+t208,7 mins,7 mins,11 mins,48 mins,22 mins,11 mins,10 mins,3.7 km,3.5 km,4.3 km,3.7 km,3.5 km
+t209,1 min,2 mins,27 mins,2 hours 10 mins,49 mins,35 mins,28 mins,10.1 km,9.4 km,14.2 km,10.4 km,10.4 km
+t210,7 mins,5 mins,20 mins,1 hour 31 mins,33 mins,24 mins,20 mins,6.8 km,6.6 km,7.3 km,7.0 km,7.0 km
+t211,5 mins,4 mins,16 mins,1 hour 3 mins,29 mins,18 mins,15 mins,5.3 km,4.6 km,5.6 km,5.4 km,6.5 km
+t212,5 mins,6 mins,15 mins,1 hour 11 mins,24 mins,18 mins,15 mins,5.6 km,5.2 km,7.8 km,5.4 km,5.4 km
+t213,5 mins,6 mins,7 mins,37 mins,21 mins,8 mins,8 mins,3.0 km,2.7 km,3.8 km,2.7 km,3.2 km
+t214,5 mins,2 mins,14 mins,1 hour 16 mins,28 mins,19 mins,15 mins,6.5 km,5.5 km,7.6 km,5.7 km,6.5 km
+t215,5 mins,8 mins,19 mins,1 hour 31 mins,33 mins,22 mins,20 mins,8.5 km,6.7 km,7.9 km,6.9 km,9.1 km
+t216,5 mins,2 mins,21 mins,1 hour 46 mins,33 mins,29 mins,19 mins,9.4 km,7.7 km,8.9 km,8.2 km,8.9 km
+t217,7 mins,3 mins,11 mins,1 hour 4 mins,23 mins,15 mins,12 mins,5.0 km,4.6 km,5.5 km,4.6 km,4.6 km
+t218,7 mins,2 mins,19 mins,1 hour 33 mins,37 mins,25 mins,20 mins,7.4 km,6.8 km,7.2 km,7.0 km,8.6 km
+t219,5 mins,1 min,28 mins,2 hours 24 mins,51 mins,40 mins,28 mins,12.8 km,10.5 km,11.7 km,11.4 km,13.0 km
+t220,5 mins,6 mins,17 mins,1 hour 35 mins,40 mins,24 mins,17 mins,7.9 km,7.0 km,10.7 km,7.0 km,7.8 km
+t221,5 mins,13 mins,20 mins,1 hour 22 mins,30 mins,21 mins,19 mins,7.1 km,6.0 km,8.9 km,6.2 km,6.2 km
+t222,5 mins,8 mins,14 mins,1 hour 5 mins,25 mins,17 mins,15 mins,6.2 km,4.7 km,5.7 km,5.1 km,6.1 km
+t223,5 mins,6 mins,13 mins,49 mins,24 mins,11 mins,11 mins,4.5 km,3.6 km,4.6 km,3.7 km,3.7 km
+t224,5 mins,3 mins,11 mins,1 hour 6 mins,30 mins,15 mins,11 mins,5.2 km,4.8 km,6.7 km,4.8 km,4.8 km
+t225,7 mins,5 mins,23 mins,1 hour 45 mins,34 mins,26 mins,23 mins,8.6 km,7.7 km,10.1 km,7.7 km,10.0 km
+t226,5 mins,1 min,20 mins,1 hour 49 mins,52 mins,27 mins,20 mins,9.5 km,7.8 km,10.8 km,8.3 km,9.2 km
+t227,7 mins,2 mins,11 mins,1 hour 8 mins,26 mins,19 mins,11 mins,6.3 km,4.9 km,9.9 km,5.6 km,5.9 km
+t228,5 mins,6 mins,7 mins,58 mins,19 mins,14 mins,10 mins,3.6 km,4.2 km,4.3 km,4.3 km,4.3 km
+t229,5 mins,7 mins,13 mins,52 mins,24 mins,16 mins,12 mins,5.5 km,3.8 km,4.9 km,4.6 km,5.3 km
+t230,4 mins,6 mins,18 mins,1 hour 21 mins,34 mins,22 mins,17 mins,8.0 km,5.9 km,7.5 km,6.8 km,7.1 km
+t231,7 mins,6 mins,12 mins,59 mins,21 mins,16 mins,11 mins,5.6 km,4.2 km,4.3 km,4.6 km,5.1 km
+t232,4 mins,1 min,23 mins,1 hour 46 mins,41 mins,27 mins,23 mins,10.8 km,7.8 km,10.4 km,8.5 km,10.9 km
+t233,7 mins,7 mins,17 mins,1 hour 6 mins,25 mins,19 mins,20 mins,7.2 km,4.8 km,6.5 km,5.7 km,7.9 km
+t234,7 mins,3 mins,17 mins,1 hour 12 mins,27 mins,21 mins,18 mins,7.7 km,5.2 km,9.0 km,6.5 km,7.3 km
+t235,7 mins,4 mins,11 mins,52 mins,21 mins,15 mins,14 mins,5.1 km,3.8 km,4.2 km,4.6 km,6.1 km
+t236,4 mins,6 mins,15 mins,1 hour 0 mins,25 mins,14 mins,15 mins,6.6 km,4.4 km,5.2 km,4.7 km,5.9 km
+t237,7 mins,4 mins,18 mins,1 hour 13 mins,28 mins,22 mins,17 mins,7.5 km,5.2 km,9.0 km,6.8 km,6.8 km
+t238,4 mins,2 mins,26 mins,2 hours 24 mins,52 mins,34 mins,26 mins,12.0 km,10.5 km,11.0 km,10.3 km,10.7 km
+t239,7 mins,6 mins,9 mins,36 mins,16 mins,11 mins,10 mins,4.3 km,2.6 km,2.9 km,3.4 km,3.8 km
+t240,7 mins,6 mins,19 mins,1 hour 44 mins,29 mins,26 mins,19 mins,8.7 km,7.6 km,8.2 km,7.8 km,8.3 km
+t241,4 mins,5 mins,19 mins,1 hour 20 mins,25 mins,20 mins,19 mins,6.6 km,5.8 km,7.6 km,6.1 km,7.2 km
+t242,4 mins,5 mins,13 mins,58 mins,26 mins,16 mins,13 mins,5.9 km,4.2 km,4.7 km,4.7 km,4.7 km
+t243,4 mins,6 mins,10 mins,50 mins,27 mins,14 mins,12 mins,4.5 km,3.7 km,4.9 km,4.5 km,5.2 km
+t244,6 mins,15 mins,20 mins,1 hour 53 mins,41 mins,32 mins,21 mins,9.3 km,8.2 km,9.9 km,9.4 km,10.0 km
+t245,6 mins,6 mins,20 mins,1 hour 32 mins,33 mins,27 mins,20 mins,8.6 km,6.7 km,7.7 km,7.8 km,9.2 km
+t246,6 mins,11 mins,17 mins,1 hour 16 mins,37 mins,25 mins,17 mins,6.7 km,5.5 km,6.1 km,5.9 km,7.0 km
+t247,7 mins,5 mins,21 mins,2 hours 1 min,35 mins,30 mins,22 mins,9.2 km,8.7 km,9.8 km,8.9 km,9.8 km
+t248,6 mins,4 mins,8 mins,32 mins,10 mins,8 mins,8 mins,3.6 km,2.4 km,2.8 km,2.4 km,3.6 km
+t249,6 mins,6 mins,17 mins,1 hour 44 mins,32 mins,28 mins,20 mins,7.8 km,7.6 km,8.5 km,8.0 km,8.2 km
+t250,6 mins,6 mins,13 mins,1 hour 0 mins,23 mins,15 mins,12 mins,6.0 km,4.4 km,4.9 km,4.7 km,5.3 km
+t251,6 mins,2 mins,18 mins,1 hour 42 mins,38 mins,31 mins,22 mins,9.5 km,7.4 km,11.6 km,8.8 km,9.5 km
+t252,6 mins,6 mins,18 mins,1 hour 31 mins,36 mins,24 mins,21 mins,7.8 km,6.6 km,7.2 km,6.9 km,7.9 km
+t253,6 mins,5 mins,18 mins,1 hour 31 mins,34 mins,27 mins,21 mins,9.3 km,6.6 km,7.4 km,7.9 km,9.4 km
+t254,7 mins,7 mins,13 mins,47 mins,22 mins,16 mins,11 mins,5.8 km,3.4 km,4.5 km,5.2 km,5.0 km
+t255,6 mins,8 mins,12 mins,44 mins,14 mins,13 mins,13 mins,4.4 km,3.2 km,3.8 km,3.3 km,4.2 km
+t256,6 mins,7 mins,18 mins,1 hour 32 mins,32 mins,25 mins,18 mins,7.7 km,6.7 km,7.3 km,7.1 km,8.0 km
+t257,6 mins,9 mins,7 mins,33 mins,14 mins,10 mins,9 mins,3.4 km,2.4 km,3.0 km,2.5 km,3.1 km
+t258,7 mins,5 mins,15 mins,1 hour 9 mins,32 mins,22 mins,16 mins,6.6 km,5.1 km,8.6 km,6.4 km,6.4 km
+t259,6 mins,5 mins,18 mins,1 hour 26 mins,27 mins,23 mins,20 mins,6.6 km,6.2 km,7.0 km,6.8 km,7.3 km
+t260,6 mins,4 mins,17 mins,1 hour 26 mins,35 mins,23 mins,17 mins,7.6 km,6.2 km,7.6 km,6.7 km,8.3 km
+t261,6 mins,8 mins,20 mins,1 hour 16 mins,40 mins,22 mins,16 mins,7.4 km,5.6 km,8.6 km,6.6 km,6.4 km
+t262,6 mins,5 mins,8 mins,43 mins,21 mins,11 mins,9 mins,3.5 km,3.1 km,4.2 km,3.1 km,3.3 km
+t263,6 mins,2 mins,14 mins,42 mins,24 mins,16 mins,13 mins,6.0 km,3.0 km,4.8 km,4.6 km,4.0 km
+t264,8 mins,5 mins,16 mins,1 hour 8 mins,34 mins,19 mins,14 mins,5.3 km,5.0 km,7.0 km,5.6 km,5.6 km
+t265,8 mins,6 mins,21 mins,1 hour 28 mins,31 mins,23 mins,19 mins,8.4 km,6.4 km,9.3 km,6.8 km,7.9 km
+t266,4 mins,6 mins,20 mins,1 hour 54 mins,42 mins,31 mins,23 mins,8.7 km,8.3 km,10.3 km,8.8 km,10.4 km
+t267,8 mins,4 mins,11 mins,52 mins,29 mins,15 mins,11 mins,4.2 km,3.9 km,5.5 km,4.4 km,5.0 km
+t268,4 mins,9 mins,15 mins,1 hour 14 mins,32 mins,20 mins,14 mins,6.3 km,5.4 km,6.3 km,6.1 km,6.1 km
+t269,4 mins,4 mins,20 mins,1 hour 41 mins,44 mins,25 mins,17 mins,8.4 km,7.4 km,9.7 km,7.7 km,7.8 km
+t270,8 mins,4 mins,11 mins,51 mins,22 mins,14 mins,10 mins,4.8 km,3.8 km,4.3 km,4.3 km,4.3 km
+t271,4 mins,7 mins,4 mins,1 min,1 min,2 mins,3 mins,0.7 km,65 m,65 m,0.7 km,0.6 km
+t272,4 mins,3 mins,16 mins,1 hour 8 mins,33 mins,19 mins,13 mins,5.6 km,5.0 km,8.5 km,5.8 km,5.8 km
+t273,8 mins,3 mins,7 mins,32 mins,19 mins,10 mins,7 mins,2.3 km,2.3 km,3.2 km,3.4 km,3.4 km
+t274,4 mins,3 mins,21 mins,1 hour 22 mins,27 mins,22 mins,18 mins,7.3 km,6.0 km,7.9 km,7.0 km,6.9 km
+t275,4 mins,11 mins,16 mins,1 hour 10 mins,38 mins,24 mins,16 mins,5.6 km,5.1 km,7.4 km,6.1 km,5.8 km
+t276,8 mins,3 mins,18 mins,1 hour 13 mins,31 mins,19 mins,16 mins,6.3 km,5.3 km,6.5 km,5.9 km,6.3 km
+t277,4 mins,8 mins,19 mins,1 hour 31 mins,27 mins,22 mins,18 mins,7.7 km,6.6 km,9.5 km,6.8 km,8.0 km
+t278,8 mins,8 mins,16 mins,28 mins,19 mins,8 mins,13 mins,4.6 km,2.1 km,4.0 km,2.4 km,3.6 km
+t279,8 mins,1 min,13 mins,51 mins,26 mins,13 mins,13 mins,4.2 km,3.8 km,5.2 km,4.0 km,4.5 km
+t280,7 mins,6 mins,20 mins,56 mins,29 mins,19 mins,21 mins,6.6 km,4.5 km,7.9 km,6.0 km,7.2 km
+t281,6 mins,2 mins,14 mins,55 mins,26 mins,13 mins,14 mins,4.0 km,4.0 km,5.2 km,4.1 km,3.9 km
+t282,8 mins,4 mins,25 mins,1 hour 34 mins,29 mins,25 mins,25 mins,8.0 km,6.8 km,8.4 km,7.8 km,8.0 km
+t283,6 mins,12 mins,18 mins,1 hour 30 mins,23 mins,24 mins,21 mins,6.7 km,6.5 km,7.0 km,6.8 km,7.5 km
+t284,7 mins,4 mins,14 mins,24 mins,17 mins,7 mins,13 mins,3.4 km,1.8 km,2.8 km,1.8 km,3.2 km
+t285,7 mins,3 mins,12 mins,45 mins,17 mins,11 mins,11 mins,4.4 km,3.4 km,4.1 km,3.2 km,4.4 km
+t286,6 mins,3 mins,27 mins,2 hours 2 mins,34 mins,31 mins,26 mins,10.6 km,8.7 km,9.7 km,9.3 km,10.4 km
+t287,8 mins,8 mins,21 mins,1 hour 13 mins,33 mins,19 mins,21 mins,8.4 km,5.3 km,10.2 km,5.5 km,7.7 km
+t288,7 mins,4 mins,19 mins,45 mins,27 mins,14 mins,18 mins,5.6 km,3.6 km,6.0 km,4.2 km,5.4 km
+t289,7 mins,7 mins,21 mins,1 hour 17 mins,29 mins,20 mins,20 mins,6.3 km,5.5 km,6.1 km,6.6 km,6.2 km
+t290,6 mins,10 mins,19 mins,1 hour 12 mins,31 mins,19 mins,19 mins,6.6 km,5.2 km,6.9 km,5.6 km,6.3 km
+t291,7 mins,6 mins,22 mins,1 hour 6 mins,33 mins,21 mins,23 mins,7.0 km,5.1 km,8.3 km,5.9 km,7.1 km
+t292,8 mins,5 mins,12 mins,40 mins,20 mins,10 mins,12 mins,3.2 km,2.9 km,3.5 km,3.3 km,3.2 km
+t293,8 mins,9 mins,14 mins,39 mins,25 mins,10 mins,15 mins,4.4 km,2.8 km,4.7 km,3.1 km,4.6 km
+t294,3 mins,3 mins,16 mins,1 hour 3 mins,13 mins,16 mins,15 mins,5.7 km,4.5 km,5.2 km,4.6 km,5.3 km
+t295,1 min,8 mins,6 mins,9 mins,9 mins,3 mins,7 mins,1.9 km,0.6 km,0.6 km,0.6 km,2.4 km
+t296,6 mins,6 mins,6 mins,25 mins,14 mins,5 mins,6 mins,1.4 km,1.8 km,2.0 km,1.8 km,1.7 km
+t297,8 mins,4 mins,8 mins,32 mins,23 mins,10 mins,9 mins,2.1 km,2.3 km,2.4 km,2.4 km,2.6 km
+t298,5 mins,1 min,19 mins,1 hour 18 mins,31 mins,20 mins,18 mins,6.0 km,5.6 km,7.5 km,5.9 km,6.2 km
+t299,8 mins,4 mins,17 mins,1 hour 10 mins,29 mins,17 mins,18 mins,6.0 km,5.0 km,5.3 km,5.1 km,6.6 km
+t300,3 mins,3 mins,15 mins,42 mins,17 mins,10 mins,14 mins,4.6 km,3.0 km,3.0 km,3.1 km,3.7 km
+t301,6 mins,4 mins,19 mins,1 hour 14 mins,30 mins,18 mins,17 mins,7.1 km,5.4 km,8.8 km,5.3 km,6.2 km
+t302,4 mins,3 mins,14 mins,55 mins,20 mins,14 mins,12 mins,5.1 km,3.9 km,5.6 km,4.0 km,3.8 km
+t303,2 mins,6 mins,21 mins,1 hour 21 mins,22 mins,20 mins,19 mins,7.1 km,5.8 km,6.8 km,6.2 km,5.9 km
+t304,8 mins,3 mins,23 mins,2 hours 3 mins,34 mins,32 mins,24 mins,9.6 km,8.8 km,9.3 km,9.4 km,9.7 km
+t305,1 min,6 mins,6 mins,26 mins,9 mins,8 mins,7 mins,1.6 km,1.8 km,1.8 km,1.9 km,1.9 km
+t306,3 mins,9 mins,19 mins,1 hour 22 mins,28 mins,21 mins,18 mins,6.4 km,5.9 km,7.9 km,6.1 km,6.4 km
+t307,1 min,3 mins,18 mins,1 hour 24 mins,28 mins,20 mins,17 mins,6.9 km,6.2 km,8.6 km,6.1 km,6.2 km
+t308,2 mins,8 mins,10 mins,38 mins,14 mins,12 mins,9 mins,3.0 km,2.7 km,2.9 km,2.8 km,2.8 km
+t309,1 min,2 mins,15 mins,44 mins,18 mins,11 mins,14 mins,4.3 km,3.1 km,3.5 km,3.2 km,3.5 km
+t310,2 mins,10 mins,18 mins,1 hour 5 mins,26 mins,16 mins,18 mins,7.5 km,4.7 km,8.3 km,4.7 km,5.8 km
+t311,1 min,7 mins,14 mins,33 mins,11 mins,8 mins,11 mins,4.6 km,2.3 km,2.5 km,2.4 km,2.8 km
+t312,2 mins,7 mins,8 mins,23 mins,11 mins,5 mins,7 mins,2.2 km,1.6 km,1.9 km,1.7 km,2.2 km
+t313,8 mins,10 mins,17 mins,1 hour 8 mins,33 mins,18 mins,14 mins,6.3 km,4.9 km,6.3 km,5.0 km,5.3 km
+t314,1 min,3 mins,15 mins,1 hour 1 min,17 mins,17 mins,14 mins,5.4 km,4.3 km,5.4 km,4.8 km,4.8 km
+t315,2 mins,13 mins,3 mins,16 mins,16 mins,5 mins,5 mins,0.6 km,1.2 km,1.2 km,1.3 km,1.3 km
+t316,4 mins,6 mins,10 mins,17 mins,7 mins,6 mins,5 mins,2.3 km,1.2 km,1.3 km,1.3 km,1.3 km
+t317,3 mins,6 mins,4 mins,13 mins,10 mins,10 mins,10 mins,0.9 km,0.9 km,1.9 km,1.5 km,3.0 km
+t318,6 mins,6 mins,15 mins,57 mins,25 mins,14 mins,13 mins,4.5 km,4.1 km,4.8 km,4.1 km,4.3 km
+t319,2 mins,3 mins,18 mins,1 hour 3 mins,17 mins,16 mins,16 mins,5.6 km,4.5 km,5.4 km,4.8 km,5.3 km
+t320,5 mins,8 mins,10 mins,36 mins,20 mins,10 mins,11 mins,3.4 km,2.6 km,3.3 km,2.6 km,3.7 km
+t321,8 mins,5 mins,21 mins,1 hour 28 mins,37 mins,21 mins,18 mins,7.9 km,6.5 km,9.0 km,6.9 km,7.2 km
+t322,8 mins,4 mins,17 mins,56 mins,26 mins,14 mins,16 mins,4.8 km,4.0 km,4.3 km,4.1 km,5.1 km
+t323,14 mins,2 mins,13 mins,37 mins,22 mins,10 mins,13 mins,4.2 km,2.6 km,4.6 km,3.0 km,3.2 km
+t324,14 mins,6 mins,8 mins,26 mins,16 mins,7 mins,7 mins,2.5 km,1.9 km,3.0 km,1.9 km,2.2 km
+t325,13 mins,3 mins,17 mins,1 hour 26 mins,33 mins,22 mins,16 mins,6.2 km,6.2 km,6.7 km,6.4 km,6.4 km
+t326,13 mins,6 mins,5 mins,22 mins,17 mins,7 mins,5 mins,1.2 km,1.5 km,2.3 km,1.9 km,1.5 km
+t327,13 mins,5 mins,20 mins,1 hour 28 mins,35 mins,21 mins,17 mins,8.6 km,6.5 km,8.0 km,6.6 km,6.9 km
+t328,13 mins,4 mins,11 mins,35 mins,21 mins,9 mins,8 mins,3.7 km,2.6 km,4.3 km,2.7 km,2.8 km
+t329,1 min,2 mins,15 mins,1 hour 8 mins,25 mins,17 mins,16 mins,5.2 km,4.9 km,7.7 km,5.0 km,5.3 km
+t330,14 mins,3 mins,10 mins,34 mins,16 mins,11 mins,12 mins,2.6 km,2.4 km,2.7 km,3.1 km,3.4 km
+t331,13 mins,6 mins,13 mins,50 mins,22 mins,16 mins,15 mins,3.7 km,3.6 km,5.1 km,4.9 km,4.8 km
+t332,14 mins,7 mins,8 mins,44 mins,18 mins,12 mins,13 mins,2.6 km,3.1 km,4.0 km,3.9 km,3.8 km
+t333,1 min,4 mins,15 mins,1 hour 10 mins,26 mins,17 mins,18 mins,5.1 km,5.0 km,7.8 km,5.1 km,5.6 km
+t334,1 min,4 mins,19 mins,1 hour 21 mins,37 mins,19 mins,18 mins,6.0 km,5.9 km,7.3 km,6.2 km,6.5 km
+t335,13 mins,2 mins,17 mins,1 hour 9 mins,28 mins,19 mins,15 mins,5.8 km,4.9 km,6.8 km,5.2 km,5.1 km
+t336,14 mins,5 mins,12 mins,1 hour 10 mins,26 mins,20 mins,15 mins,4.5 km,5.0 km,6.4 km,5.8 km,6.8 km
+t337,14 mins,4 mins,18 mins,1 hour 32 mins,27 mins,26 mins,19 mins,7.5 km,6.5 km,6.9 km,7.6 km,7.4 km
+t338,13 mins,4 mins,14 mins,57 mins,22 mins,17 mins,13 mins,5.0 km,4.1 km,5.1 km,5.0 km,5.0 km
+t339,13 mins,5 mins,15 mins,1 hour 27 mins,24 mins,24 mins,17 mins,6.1 km,6.3 km,7.1 km,7.3 km,7.8 km
+t340,14 mins,7 mins,18 mins,1 hour 14 mins,30 mins,19 mins,15 mins,5.7 km,5.3 km,7.5 km,5.7 km,5.7 km
+t341,13 mins,7 mins,5 mins,4 mins,4 mins,2 mins,4 mins,1.4 km,0.3 km,0.3 km,0.4 km,0.7 km
+t342,13 mins,4 mins,16 mins,47 mins,27 mins,14 mins,13 mins,5.4 km,3.4 km,8.8 km,3.5 km,4.4 km
+t343,6 mins,5 mins,15 mins,1 hour 16 mins,34 mins,20 mins,19 mins,5.3 km,5.4 km,8.5 km,5.7 km,6.0 km
+t344,5 mins,5 mins,6 mins,14 mins,9 mins,4 mins,4 mins,1.7 km,1.0 km,1.3 km,1.3 km,1.2 km
+t345,5 mins,9 mins,12 mins,33 mins,19 mins,9 mins,9 mins,3.7 km,2.4 km,2.2 km,2.5 km,3.0 km
+t346,5 mins,3 mins,6 mins,26 mins,14 mins,9 mins,9 mins,1.6 km,1.8 km,1.8 km,2.7 km,2.4 km
+t347,2 mins,3 mins,18 mins,1 hour 18 mins,24 mins,19 mins,18 mins,6.1 km,5.6 km,8.1 km,5.9 km,6.2 km
+t348,6 mins,4 mins,15 mins,1 hour 4 mins,20 mins,18 mins,13 mins,5.1 km,4.6 km,5.7 km,5.0 km,4.8 km
+t349,7 mins,12 mins,18 mins,1 hour 29 mins,15 mins,23 mins,17 mins,7.0 km,6.4 km,6.5 km,6.9 km,10.2 km
+t350,6 mins,3 mins,15 mins,1 hour 11 mins,33 mins,19 mins,17 mins,5.6 km,5.2 km,7.4 km,5.6 km,6.4 km
+t351,4 mins,3 mins,10 mins,31 mins,12 mins,11 mins,11 mins,2.6 km,2.2 km,2.4 km,2.9 km,3.3 km
+t352,4 mins,6 mins,7 mins,29 mins,20 mins,7 mins,12 mins,1.8 km,2.0 km,4.5 km,2.0 km,3.1 km
+t353,5 mins,6 mins,3 mins,5 mins,5 mins,2 mins,3 mins,0.5 km,0.4 km,0.4 km,0.7 km,0.7 km
+t354,7 mins,5 mins,14 mins,58 mins,17 mins,14 mins,16 mins,5.9 km,4.2 km,7.2 km,4.2 km,5.6 km
+t355,6 mins,6 mins,11 mins,1 hour 1 min,17 mins,16 mins,15 mins,4.6 km,4.4 km,5.3 km,4.8 km,5.5 km
+t356,7 mins,3 mins,16 mins,48 mins,20 mins,12 mins,14 mins,4.6 km,3.5 km,4.8 km,3.5 km,3.8 km
+t357,5 mins,6 mins,18 mins,1 hour 34 mins,34 mins,27 mins,20 mins,8.2 km,6.6 km,6.8 km,7.1 km,7.9 km
+t358,4 mins,6 mins,11 mins,32 mins,15 mins,8 mins,7 mins,3.2 km,2.4 km,2.9 km,2.4 km,2.6 km
+t359,5 mins,4 mins,11 mins,43 mins,13 mins,10 mins,8 mins,4.2 km,3.1 km,4.0 km,3.2 km,3.5 km
+t360,4 mins,8 mins,13 mins,46 mins,19 mins,13 mins,13 mins,4.7 km,3.3 km,4.9 km,3.9 km,4.0 km
+t361,2 mins,5 mins,15 mins,55 mins,25 mins,14 mins,15 mins,4.5 km,3.9 km,5.9 km,4.1 km,4.4 km
+t362,3 mins,6 mins,19 mins,1 hour 41 mins,22 mins,27 mins,20 mins,8.1 km,7.2 km,8.0 km,7.9 km,8.4 km
+t363,3 mins,1 min,12 mins,57 mins,22 mins,16 mins,12 mins,4.3 km,4.1 km,5.9 km,4.3 km,4.3 km
+t364,7 mins,7 mins,11 mins,56 mins,18 mins,14 mins,13 mins,3.9 km,4.1 km,6.3 km,4.4 km,4.7 km
+t365,7 mins,6 mins,10 mins,34 mins,18 mins,9 mins,8 mins,2.5 km,2.4 km,3.8 km,2.5 km,2.5 km
+t366,4 mins,3 mins,8 mins,28 mins,17 mins,7 mins,12 mins,2.5 km,2.0 km,2.6 km,2.0 km,3.1 km
+t367,4 mins,2 mins,21 mins,1 hour 26 mins,18 mins,22 mins,21 mins,6.9 km,6.2 km,6.6 km,6.5 km,7.0 km
+t368,4 mins,2 mins,14 mins,55 mins,18 mins,15 mins,14 mins,4.3 km,3.9 km,4.2 km,4.5 km,4.8 km
+t369,6 mins,6 mins,12 mins,57 mins,18 mins,19 mins,17 mins,4.1 km,4.1 km,4.8 km,4.7 km,5.1 km
+t370,3 mins,5 mins,8 mins,33 mins,18 mins,11 mins,12 mins,2.6 km,2.4 km,3.5 km,3.1 km,3.4 km
+t371,6 mins,4 mins,10 mins,37 mins,10 mins,12 mins,10 mins,2.9 km,2.6 km,2.7 km,2.9 km,2.9 km
+t372,6 mins,6 mins,7 mins,11 mins,8 mins,3 mins,5 mins,1.9 km,0.9 km,1.3 km,0.9 km,1.3 km
+t373,5 mins,4 mins,14 mins,1 hour 0 mins,20 mins,18 mins,12 mins,4.4 km,4.3 km,4.9 km,4.8 km,4.3 km
+t374,3 mins,2 mins,16 mins,1 hour 12 mins,30 mins,19 mins,13 mins,6.2 km,5.3 km,8.7 km,6.0 km,5.8 km
+t375,2 mins,4 mins,10 mins,35 mins,16 mins,8 mins,8 mins,3.0 km,2.5 km,3.0 km,2.6 km,2.6 km
+t376,2 mins,9 mins,11 mins,49 mins,18 mins,14 mins,13 mins,3.5 km,3.5 km,3.2 km,4.0 km,3.6 km
+t377,5 mins,3 mins,8 mins,35 mins,20 mins,9 mins,8 mins,2.2 km,2.5 km,3.4 km,2.5 km,2.4 km
+t378,5 mins,2 mins,11 mins,43 mins,15 mins,12 mins,10 mins,2.8 km,3.1 km,3.0 km,3.3 km,3.0 km
+t379,6 mins,8 mins,13 mins,37 mins,14 mins,11 mins,10 mins,3.3 km,2.6 km,3.2 km,3.5 km,3.0 km
+t380,3 mins,7 mins,10 mins,20 mins,7 mins,6 mins,8 mins,3.0 km,1.4 km,1.5 km,1.4 km,1.8 km
+t381,7 mins,7 mins,6 mins,5 mins,5 mins,3 mins,5 mins,1.3 km,0.4 km,0.4 km,0.8 km,1.2 km
+t382,3 mins,4 mins,16 mins,1 hour 7 mins,20 mins,19 mins,18 mins,5.1 km,4.8 km,5.3 km,5.4 km,5.5 km
+t383,4 mins,6 mins,14 mins,54 mins,31 mins,16 mins,13 mins,4.8 km,3.9 km,7.8 km,4.9 km,4.6 km
+t384,5 mins,2 mins,17 mins,1 hour 25 mins,36 mins,21 mins,18 mins,6.4 km,6.1 km,7.1 km,6.3 km,6.3 km
+t385,8 mins,4 mins,17 mins,1 hour 7 mins,19 mins,17 mins,15 mins,5.9 km,4.9 km,5.5 km,5.2 km,5.5 km
+t386,4 mins,1 min,11 mins,56 mins,32 mins,15 mins,9 mins,4.2 km,4.1 km,6.8 km,4.4 km,4.0 km
+t387,7 mins,1 min,15 mins,1 hour 15 mins,27 mins,21 mins,16 mins,6.1 km,5.4 km,5.7 km,5.7 km,6.6 km
+t388,8 mins,12 mins,14 mins,1 hour 28 mins,25 mins,23 mins,19 mins,6.1 km,6.4 km,7.2 km,7.1 km,7.3 km
+t389,1 min,9 mins,12 mins,34 mins,18 mins,8 mins,8 mins,3.2 km,2.4 km,3.3 km,2.4 km,2.4 km
+t390,7 mins,7 mins,6 mins,25 mins,16 mins,6 mins,7 mins,1.9 km,1.8 km,3.1 km,1.9 km,2.1 km
+t391,6 mins,4 mins,12 mins,43 mins,20 mins,12 mins,10 mins,4.1 km,3.1 km,6.5 km,3.5 km,3.7 km
+t392,6 mins,7 mins,5 mins,24 mins,17 mins,7 mins,9 mins,1.5 km,1.7 km,2.3 km,2.2 km,2.3 km
+t393,6 mins,2 mins,19 mins,1 hour 11 mins,24 mins,18 mins,18 mins,5.9 km,5.1 km,7.7 km,5.1 km,5.5 km
+t394,7 mins,3 mins,13 mins,46 mins,14 mins,11 mins,14 mins,4.4 km,3.3 km,3.7 km,3.5 km,4.3 km
+t395,7 mins,6 mins,15 mins,1 hour 4 mins,23 mins,16 mins,14 mins,5.5 km,4.5 km,7.0 km,4.8 km,5.1 km
+t396,7 mins,8 mins,16 mins,1 hour 14 mins,24 mins,20 mins,14 mins,6.0 km,5.4 km,5.9 km,6.2 km,5.4 km
+t397,6 mins,6 mins,13 mins,57 mins,22 mins,14 mins,13 mins,4.5 km,4.2 km,6.0 km,4.3 km,4.5 km
+t398,7 mins,6 mins,17 mins,1 hour 37 mins,34 mins,26 mins,17 mins,7.8 km,6.9 km,8.1 km,7.2 km,8.0 km
+t399,8 mins,4 mins,16 mins,1 hour 1 min,20 mins,15 mins,17 mins,6.5 km,4.4 km,5.3 km,4.6 km,5.5 km
+t400,7 mins,1 min,12 mins,45 mins,26 mins,12 mins,12 mins,3.5 km,3.2 km,5.1 km,3.4 km,3.4 km
+t401,8 mins,9 mins,9 mins,26 mins,17 mins,7 mins,10 mins,2.5 km,1.8 km,2.6 km,2.1 km,2.4 km
+t402,6 mins,11 mins,14 mins,51 mins,26 mins,17 mins,13 mins,4.5 km,3.6 km,4.3 km,3.5 km,3.8 km
+t403,6 mins,6 mins,9 mins,36 mins,15 mins,9 mins,9 mins,2.7 km,2.6 km,3.3 km,2.6 km,2.6 km
+t404,8 mins,4 mins,14 mins,53 mins,23 mins,14 mins,14 mins,5.2 km,3.9 km,7.9 km,4.1 km,5.0 km
+t405,7 mins,6 mins,8 mins,11 mins,9 mins,3 mins,4 mins,2.3 km,0.8 km,1.3 km,0.8 km,0.9 km
+t406,4 mins,3 mins,8 mins,29 mins,24 mins,8 mins,7 mins,2.9 km,2.1 km,2.7 km,2.5 km,2.6 km
+t407,8 mins,1 min,13 mins,59 mins,25 mins,15 mins,13 mins,4.8 km,4.2 km,8.0 km,4.5 km,4.6 km
+t408,1 min,3 mins,15 mins,59 mins,25 mins,15 mins,14 mins,4.8 km,4.3 km,5.3 km,4.4 km,4.4 km
+t409,7 mins,3 mins,20 mins,1 hour 39 mins,22 mins,25 mins,20 mins,8.4 km,7.2 km,7.7 km,7.3 km,8.4 km
+t410,5 mins,6 mins,10 mins,26 mins,17 mins,7 mins,9 mins,3.0 km,1.9 km,2.1 km,1.9 km,2.6 km
+t411,1 min,6 mins,6 mins,28 mins,12 mins,11 mins,11 mins,1.9 km,2.0 km,2.5 km,2.5 km,4.2 km
+t412,6 mins,3 mins,11 mins,43 mins,21 mins,12 mins,11 mins,3.8 km,3.1 km,4.6 km,3.6 km,3.6 km
+t413,4 mins,5 mins,14 mins,53 mins,25 mins,16 mins,13 mins,4.2 km,3.8 km,4.3 km,4.6 km,4.2 km
+t414,6 mins,5 mins,13 mins,47 mins,17 mins,12 mins,11 mins,4.4 km,3.4 km,5.2 km,3.3 km,4.1 km
+t415,7 mins,3 mins,12 mins,44 mins,15 mins,11 mins,12 mins,4.0 km,3.2 km,4.4 km,3.3 km,3.7 km
+t416,7 mins,6 mins,13 mins,56 mins,25 mins,13 mins,13 mins,4.1 km,4.0 km,4.6 km,4.1 km,4.5 km
+t417,7 mins,8 mins,15 mins,1 hour 0 mins,23 mins,18 mins,17 mins,5.2 km,4.3 km,5.1 km,5.3 km,5.3 km
+t418,7 mins,6 mins,12 mins,42 mins,19 mins,11 mins,11 mins,3.7 km,3.0 km,3.2 km,3.2 km,3.5 km
+t419,7 mins,3 mins,14 mins,1 hour 14 mins,29 mins,21 mins,15 mins,5.2 km,5.4 km,7.7 km,5.8 km,5.7 km
+t420,7 mins,4 mins,5 mins,22 mins,9 mins,5 mins,4 mins,1.4 km,1.6 km,2.0 km,1.6 km,1.5 km
+t421,4 mins,4 mins,16 mins,53 mins,25 mins,15 mins,15 mins,5.5 km,3.8 km,4.4 km,3.9 km,4.8 km
+t422,7 mins,5 mins,18 mins,1 hour 15 mins,27 mins,21 mins,18 mins,5.9 km,5.4 km,5.7 km,6.4 km,6.1 km
+t423,4 mins,3 mins,17 mins,1 hour 21 mins,39 mins,23 mins,18 mins,6.7 km,5.8 km,6.8 km,6.8 km,7.2 km
+t424,4 mins,7 mins,11 mins,50 mins,22 mins,13 mins,11 mins,3.2 km,3.6 km,4.4 km,3.8 km,3.6 km
+t425,4 mins,7 mins,17 mins,1 hour 19 mins,28 mins,22 mins,17 mins,6.3 km,5.7 km,6.9 km,6.5 km,6.4 km
+t426,7 mins,7 mins,10 mins,19 mins,19 mins,4 mins,13 mins,2.5 km,1.4 km,1.4 km,1.4 km,3.4 km
+t427,4 mins,6 mins,7 mins,3 mins,3 mins,3 mins,4 mins,1.5 km,0.2 km,0.2 km,0.2 km,0.9 km
+t428,7 mins,1 min,11 mins,40 mins,23 mins,11 mins,11 mins,3.5 km,2.9 km,3.5 km,3.3 km,3.8 km
+t429,7 mins,5 mins,12 mins,45 mins,22 mins,13 mins,14 mins,3.8 km,3.2 km,4.5 km,3.8 km,4.2 km
+t430,7 mins,9 mins,13 mins,50 mins,18 mins,13 mins,13 mins,4.3 km,3.5 km,4.0 km,4.1 km,4.0 km
+t431,7 mins,3 mins,14 mins,58 mins,28 mins,17 mins,15 mins,4.9 km,4.2 km,7.4 km,5.2 km,4.9 km
+t432,5 mins,4 mins,5 mins,19 mins,18 mins,7 mins,11 mins,1.4 km,1.4 km,2.4 km,1.7 km,2.6 km
+t433,6 mins,4 mins,18 mins,1 hour 30 mins,26 mins,22 mins,20 mins,7.4 km,6.5 km,7.7 km,6.8 km,7.2 km
+t434,5 mins,5 mins,16 mins,1 hour 11 mins,28 mins,18 mins,18 mins,5.6 km,5.1 km,8.3 km,5.2 km,5.9 km
+t435,5 mins,9 mins,14 mins,1 hour 2 mins,25 mins,16 mins,18 mins,4.4 km,4.4 km,6.3 km,4.6 km,5.7 km
+t436,6 mins,7 mins,9 mins,23 mins,9 mins,8 mins,8 mins,2.2 km,1.7 km,2.3 km,2.4 km,2.1 km
+t437,6 mins,8 mins,13 mins,47 mins,17 mins,13 mins,14 mins,4.4 km,3.4 km,4.8 km,3.4 km,4.1 km
+t438,5 mins,6 mins,9 mins,31 mins,17 mins,11 mins,12 mins,2.4 km,2.2 km,3.7 km,2.9 km,3.5 km
+t439,6 mins,12 mins,14 mins,1 hour 27 mins,22 mins,22 mins,17 mins,6.3 km,6.3 km,7.7 km,6.9 km,7.1 km
+t440,8 mins,8 mins,10 mins,24 mins,5 mins,7 mins,9 mins,2.9 km,1.8 km,2.0 km,2.5 km,2.3 km
+t441,8 mins,1 min,12 mins,57 mins,19 mins,15 mins,18 mins,4.4 km,4.1 km,4.8 km,4.6 km,6.1 km
+t442,6 mins,5 mins,9 mins,41 mins,15 mins,11 mins,8 mins,2.8 km,2.9 km,3.7 km,2.9 km,2.8 km
+t443,5 mins,10 mins,13 mins,47 mins,21 mins,12 mins,14 mins,5.5 km,3.4 km,3.4 km,3.4 km,4.7 km
+t444,5 mins,8 mins,11 mins,40 mins,23 mins,11 mins,10 mins,3.7 km,2.9 km,3.6 km,3.2 km,3.2 km
+t445,5 mins,2 mins,2 mins,8 mins,8 mins,2 mins,9 mins,0.3 km,0.6 km,0.6 km,0.6 km,2.4 km
+t446,6 mins,5 mins,17 mins,1 hour 6 mins,18 mins,17 mins,16 mins,6.2 km,4.7 km,5.8 km,5.0 km,5.8 km
+t447,8 mins,4 mins,9 mins,20 mins,11 mins,7 mins,11 mins,2.3 km,1.4 km,1.4 km,1.8 km,3.0 km
+t448,8 mins,1 min,15 mins,53 mins,29 mins,12 mins,12 mins,5.0 km,3.9 km,6.7 km,3.9 km,4.5 km
+t449,3 mins,6 mins,20 mins,1 hour 44 mins,30 mins,27 mins,19 mins,8.4 km,7.5 km,8.7 km,8.1 km,8.2 km
+t450,8 mins,6 mins,5 mins,18 mins,15 mins,5 mins,7 mins,1.2 km,1.3 km,2.0 km,1.5 km,2.1 km
+t451,8 mins,8 mins,13 mins,1 hour 0 mins,22 mins,16 mins,16 mins,4.5 km,4.4 km,6.5 km,4.7 km,5.0 km
+t452,10 mins,7 mins,12 mins,21 mins,15 mins,7 mins,9 mins,2.9 km,1.5 km,1.9 km,1.7 km,2.0 km
+t453,10 mins,12 mins,22 mins,1 hour 41 mins,22 mins,29 mins,22 mins,8.4 km,7.3 km,9.2 km,8.4 km,8.7 km
+t454,8 mins,2 mins,5 mins,13 mins,13 mins,4 mins,4 mins,1.0 km,1.0 km,1.0 km,1.1 km,1.0 km
+t455,10 mins,10 mins,14 mins,41 mins,20 mins,12 mins,9 mins,5.1 km,3.0 km,3.3 km,3.2 km,3.2 km
+t456,8 mins,4 mins,9 mins,41 mins,22 mins,11 mins,11 mins,2.5 km,2.9 km,8.0 km,3.1 km,3.2 km
+t457,10 mins,3 mins,20 mins,1 hour 15 mins,22 mins,20 mins,17 mins,6.6 km,5.4 km,7.8 km,5.6 km,5.4 km
+t458,11 mins,6 mins,14 mins,57 mins,20 mins,19 mins,16 mins,3.8 km,4.1 km,4.6 km,5.3 km,5.0 km
+t459,8 mins,8 mins,22 mins,1 hour 15 mins,24 mins,21 mins,18 mins,7.8 km,5.5 km,6.2 km,5.9 km,5.9 km
+t460,10 mins,4 mins,17 mins,1 hour 6 mins,24 mins,19 mins,15 mins,5.2 km,4.8 km,4.8 km,5.2 km,4.8 km
+t461,8 mins,5 mins,9 mins,49 mins,14 mins,13 mins,10 mins,3.1 km,3.5 km,5.7 km,3.6 km,3.6 km
+t462,8 mins,9 mins,17 mins,44 mins,20 mins,14 mins,12 mins,4.7 km,3.2 km,3.6 km,3.6 km,3.4 km
+t463,6 mins,6 mins,20 mins,1 hour 14 mins,26 mins,20 mins,20 mins,6.3 km,5.4 km,6.3 km,6.0 km,6.5 km
+t464,8 mins,4 mins,13 mins,49 mins,14 mins,14 mins,12 mins,3.9 km,3.5 km,3.4 km,3.8 km,3.8 km
+t465,8 mins,1 min,18 mins,1 hour 19 mins,35 mins,21 mins,16 mins,6.9 km,5.8 km,8.1 km,6.8 km,6.6 km
+t466,8 mins,6 mins,17 mins,1 hour 21 mins,30 mins,21 mins,15 mins,7.0 km,5.8 km,8.9 km,6.4 km,6.5 km
+t467,8 mins,3 mins,10 mins,26 mins,14 mins,10 mins,10 mins,2.5 km,1.8 km,1.8 km,2.9 km,2.7 km
+t468,8 mins,3 mins,12 mins,54 mins,21 mins,15 mins,11 mins,4.2 km,3.9 km,6.6 km,4.4 km,4.4 km
+t469,10 mins,5 mins,17 mins,54 mins,22 mins,16 mins,13 mins,5.2 km,3.9 km,4.8 km,4.1 km,3.9 km
+t470,8 mins,3 mins,21 mins,1 hour 29 mins,26 mins,23 mins,18 mins,7.5 km,6.5 km,6.8 km,6.9 km,6.9 km
+t471,11 mins,2 mins,15 mins,1 hour 12 mins,22 mins,19 mins,15 mins,6.2 km,5.2 km,6.0 km,5.7 km,5.4 km
+t472,11 mins,2 mins,19 mins,1 hour 28 mins,33 mins,23 mins,19 mins,7.1 km,6.4 km,8.0 km,6.8 km,7.4 km
+t473,3 mins,1 min,11 mins,50 mins,22 mins,13 mins,10 mins,3.7 km,3.5 km,5.3 km,3.7 km,3.7 km
+t474,8 mins,6 mins,19 mins,1 hour 27 mins,28 mins,24 mins,17 mins,8.5 km,6.1 km,6.4 km,6.4 km,7.4 km
+t475,5 mins,6 mins,7 mins,26 mins,12 mins,7 mins,9 mins,2.4 km,1.9 km,2.5 km,2.2 km,2.2 km
+t476,5 mins,9 mins,23 mins,1 hour 38 mins,22 mins,24 mins,18 mins,8.9 km,7.1 km,7.0 km,7.3 km,7.7 km
+t477,5 mins,5 mins,12 mins,36 mins,24 mins,10 mins,11 mins,3.6 km,2.6 km,4.7 km,2.9 km,3.4 km
+t478,5 mins,8 mins,9 mins,21 mins,7 mins,5 mins,9 mins,2.4 km,1.5 km,2.2 km,1.9 km,2.2 km
+t479,5 mins,1 min,19 mins,1 hour 19 mins,24 mins,20 mins,19 mins,6.4 km,5.7 km,6.3 km,6.1 km,6.4 km
+t480,6 mins,6 mins,9 mins,52 mins,15 mins,15 mins,12 mins,3.7 km,3.7 km,4.8 km,4.0 km,4.2 km
+t481,5 mins,1 min,15 mins,1 hour 11 mins,25 mins,18 mins,17 mins,5.2 km,5.1 km,5.8 km,5.6 km,5.2 km
+t482,5 mins,4 mins,7 mins,22 mins,9 mins,6 mins,5 mins,2.0 km,1.6 km,1.5 km,1.8 km,1.6 km
+t483,5 mins,5 mins,15 mins,57 mins,24 mins,15 mins,16 mins,4.8 km,4.1 km,5.8 km,4.4 km,5.2 km
+t484,5 mins,3 mins,13 mins,52 mins,20 mins,14 mins,14 mins,4.3 km,3.8 km,5.0 km,4.1 km,4.4 km
+t485,6 mins,5 mins,6 mins,27 mins,14 mins,10 mins,10 mins,2.1 km,2.0 km,2.0 km,3.1 km,3.0 km
+t486,5 mins,7 mins,19 mins,1 hour 17 mins,25 mins,21 mins,16 mins,6.6 km,5.5 km,8.4 km,6.3 km,6.3 km
+t487,6 mins,2 mins,9 mins,46 mins,9 mins,13 mins,11 mins,3.9 km,3.4 km,4.1 km,3.8 km,4.0 km
+t488,5 mins,7 mins,6 mins,22 mins,12 mins,5 mins,6 mins,2.0 km,1.6 km,1.9 km,1.6 km,1.6 km
+t489,8 mins,9 mins,14 mins,57 mins,18 mins,15 mins,15 mins,4.5 km,4.1 km,5.0 km,4.6 km,5.3 km
+t490,7 mins,3 mins,11 mins,56 mins,25 mins,15 mins,12 mins,4.4 km,4.0 km,4.2 km,4.5 km,5.0 km
+t491,7 mins,2 mins,17 mins,1 hour 8 mins,15 mins,17 mins,17 mins,5.7 km,4.9 km,5.4 km,5.2 km,5.7 km
+t492,7 mins,6 mins,9 mins,17 mins,10 mins,5 mins,10 mins,2.6 km,1.3 km,1.8 km,1.5 km,2.6 km
+t493,9 mins,1 min,15 mins,1 hour 3 mins,21 mins,15 mins,17 mins,5.0 km,4.5 km,7.0 km,4.5 km,5.5 km
+t494,6 mins,6 mins,15 mins,1 hour 26 mins,24 mins,24 mins,14 mins,6.9 km,6.1 km,6.8 km,6.6 km,6.4 km
+t495,7 mins,12 mins,18 mins,1 hour 41 mins,21 mins,26 mins,21 mins,7.4 km,7.4 km,7.8 km,8.1 km,8.4 km
+t496,7 mins,8 mins,13 mins,50 mins,14 mins,14 mins,13 mins,3.8 km,3.6 km,4.0 km,3.9 km,4.5 km
+t497,8 mins,10 mins,11 mins,47 mins,20 mins,12 mins,10 mins,4.6 km,3.4 km,3.9 km,3.6 km,3.8 km
+t498,7 mins,4 mins,12 mins,50 mins,23 mins,14 mins,14 mins,3.6 km,3.6 km,4.9 km,3.9 km,4.5 km
+t499,6 mins,5 mins,8 mins,35 mins,17 mins,9 mins,8 mins,2.7 km,2.6 km,4.6 km,2.8 km,2.6 km
+t500,9 mins,1 min,11 mins,41 mins,24 mins,9 mins,13 mins,4.0 km,3.0 km,4.8 km,3.0 km,4.5 km
+t501,6 mins,8 mins,11 mins,45 mins,17 mins,12 mins,11 mins,3.5 km,3.2 km,3.6 km,3.3 km,3.4 km
+t502,6 mins,9 mins,21 mins,1 hour 34 mins,25 mins,22 mins,16 mins,8.3 km,6.9 km,8.4 km,6.8 km,6.9 km
+t503,7 mins,3 mins,15 mins,1 hour 0 mins,24 mins,16 mins,14 mins,4.8 km,4.3 km,6.2 km,4.5 km,4.8 km
+t504,9 mins,7 mins,12 mins,50 mins,27 mins,11 mins,16 mins,4.1 km,3.7 km,5.3 km,3.7 km,5.5 km
+t505,7 mins,6 mins,13 mins,54 mins,22 mins,14 mins,11 mins,4.6 km,3.9 km,4.1 km,4.3 km,4.2 km
+t506,6 mins,8 mins,11 mins,41 mins,25 mins,11 mins,10 mins,3.2 km,2.9 km,4.0 km,3.1 km,3.0 km
+t507,8 mins,5 mins,9 mins,12 mins,10 mins,3 mins,4 mins,2.1 km,0.9 km,1.1 km,0.9 km,1.0 km
+t508,8 mins,4 mins,7 mins,24 mins,11 mins,7 mins,6 mins,1.7 km,1.7 km,2.4 km,1.9 km,1.7 km
+t509,3 mins,1 min,10 mins,42 mins,27 mins,10 mins,9 mins,3.7 km,3.0 km,5.7 km,3.1 km,3.0 km
+t510,7 mins,1 min,15 mins,51 mins,30 mins,14 mins,15 mins,5.3 km,3.6 km,6.3 km,4.0 km,5.3 km
+t511,9 mins,6 mins,18 mins,1 hour 13 mins,28 mins,21 mins,17 mins,5.8 km,5.3 km,8.2 km,6.3 km,5.8 km
+t512,3 mins,9 mins,15 mins,1 hour 18 mins,31 mins,19 mins,16 mins,5.1 km,5.6 km,7.5 km,5.6 km,5.6 km
+t513,3 mins,11 mins,5 mins,10 mins,8 mins,7 mins,3 mins,1.5 km,0.7 km,0.9 km,0.7 km,1.0 km
+t514,3 mins,7 mins,16 mins,48 mins,18 mins,12 mins,15 mins,5.2 km,3.5 km,4.8 km,3.6 km,4.0 km
+t515,3 mins,8 mins,4 mins,16 mins,10 mins,5 mins,5 mins,1.1 km,1.2 km,1.3 km,1.4 km,1.6 km
+t516,3 mins,3 mins,15 mins,47 mins,32 mins,13 mins,16 mins,5.4 km,3.4 km,6.6 km,3.7 km,5.7 km
+t517,7 mins,6 mins,15 mins,1 hour 3 mins,22 mins,17 mins,13 mins,5.0 km,4.5 km,4.6 km,5.1 km,4.5 km
+t518,7 mins,5 mins,11 mins,43 mins,20 mins,12 mins,13 mins,3.2 km,3.1 km,4.6 km,3.6 km,3.6 km
+t519,7 mins,2 mins,20 mins,1 hour 31 mins,31 mins,24 mins,19 mins,7.4 km,6.6 km,9.2 km,7.4 km,6.6 km
+t520,9 mins,9 mins,11 mins,45 mins,22 mins,14 mins,11 mins,3.9 km,3.3 km,3.8 km,4.0 km,3.7 km
+t521,9 mins,6 mins,13 mins,56 mins,23 mins,15 mins,13 mins,4.4 km,4.0 km,4.8 km,4.4 km,4.1 km
+t522,1 min,4 mins,5 mins,16 mins,9 mins,4 mins,3 mins,1.6 km,1.1 km,1.1 km,1.1 km,1.1 km
+t523,1 min,6 mins,9 mins,32 mins,15 mins,8 mins,8 mins,2.8 km,2.3 km,2.5 km,2.4 km,2.6 km
+t524,7 mins,4 mins,13 mins,57 mins,34 mins,14 mins,12 mins,4.9 km,4.2 km,5.6 km,4.4 km,5.7 km
+t525,9 mins,2 mins,14 mins,50 mins,22 mins,14 mins,12 mins,4.8 km,3.6 km,5.2 km,4.0 km,3.9 km
+t526,1 min,6 mins,21 mins,1 hour 51 mins,37 mins,28 mins,21 mins,8.6 km,8.0 km,8.7 km,8.6 km,8.0 km
+t527,7 mins,6 mins,14 mins,40 mins,20 mins,11 mins,13 mins,4.4 km,2.9 km,2.9 km,3.4 km,4.2 km
+t528,9 mins,5 mins,13 mins,52 mins,25 mins,15 mins,15 mins,4.3 km,3.7 km,4.1 km,4.0 km,5.0 km
+t529,3 mins,8 mins,6 mins,21 mins,11 mins,6 mins,6 mins,1.5 km,1.6 km,1.6 km,1.6 km,1.9 km
+t530,4 mins,5 mins,16 mins,1 hour 14 mins,36 mins,20 mins,17 mins,7.0 km,5.3 km,7.1 km,5.7 km,5.7 km
+t531,2 mins,4 mins,7 mins,28 mins,13 mins,8 mins,7 mins,2.0 km,2.0 km,2.1 km,2.0 km,2.1 km
+t532,5 mins,1 min,9 mins,43 mins,19 mins,12 mins,11 mins,2.9 km,3.1 km,3.7 km,3.3 km,3.3 km
+t533,9 mins,6 mins,14 mins,1 hour 2 mins,29 mins,17 mins,14 mins,4.7 km,4.4 km,7.4 km,5.2 km,5.2 km
+t534,8 mins,7 mins,7 mins,37 mins,12 mins,11 mins,10 mins,2.4 km,2.6 km,2.9 km,3.1 km,3.0 km
+t535,9 mins,3 mins,9 mins,34 mins,14 mins,9 mins,7 mins,2.6 km,2.4 km,2.6 km,2.5 km,2.4 km
+t536,7 mins,6 mins,6 mins,20 mins,9 mins,7 mins,8 mins,1.4 km,1.4 km,1.5 km,1.6 km,1.9 km
+t537,9 mins,7 mins,10 mins,1 hour 1 min,23 mins,15 mins,11 mins,4.3 km,4.4 km,5.1 km,4.3 km,4.3 km
+t538,7 mins,4 mins,9 mins,37 mins,22 mins,13 mins,12 mins,2.5 km,2.7 km,4.1 km,3.9 km,3.5 km
+t539,7 mins,4 mins,16 mins,1 hour 7 mins,33 mins,18 mins,16 mins,5.3 km,4.9 km,7.3 km,5.4 km,5.4 km
+t540,5 mins,8 mins,12 mins,1 hour 4 mins,25 mins,16 mins,15 mins,4.1 km,4.6 km,6.1 km,4.5 km,5.0 km
+t541,5 mins,8 mins,11 mins,34 mins,12 mins,9 mins,8 mins,3.5 km,2.5 km,2.7 km,2.6 km,2.9 km
+t542,9 mins,5 mins,18 mins,1 hour 11 mins,23 mins,19 mins,17 mins,6.2 km,5.1 km,7.0 km,5.9 km,6.2 km
+t543,7 mins,7 mins,14 mins,48 mins,19 mins,14 mins,14 mins,4.5 km,3.5 km,5.5 km,4.1 km,4.6 km
+t544,9 mins,7 mins,5 mins,15 mins,7 mins,4 mins,3 mins,1.5 km,1.0 km,1.2 km,1.0 km,1.0 km
+t545,9 mins,5 mins,3 mins,19 mins,9 mins,5 mins,4 mins,0.8 km,1.3 km,1.5 km,1.3 km,1.3 km
+t546,9 mins,5 mins,17 mins,1 hour 11 mins,31 mins,19 mins,16 mins,6.0 km,5.1 km,8.5 km,5.9 km,5.8 km
+t547,5 mins,1 min,13 mins,50 mins,20 mins,12 mins,13 mins,3.8 km,3.6 km,5.3 km,3.9 km,3.6 km
+t548,8 mins,3 mins,17 mins,1 hour 17 mins,30 mins,20 mins,17 mins,6.2 km,5.5 km,6.4 km,5.7 km,6.7 km
+t549,9 mins,4 mins,11 mins,45 mins,25 mins,12 mins,10 mins,3.4 km,3.2 km,3.7 km,3.4 km,3.4 km
+t550,7 mins,1 min,14 mins,57 mins,26 mins,14 mins,12 mins,4.9 km,4.2 km,7.0 km,4.4 km,4.3 km
+t551,9 mins,13 mins,13 mins,43 mins,19 mins,14 mins,12 mins,3.7 km,3.1 km,4.6 km,3.7 km,4.0 km
+t552,9 mins,4 mins,16 mins,1 hour 8 mins,27 mins,17 mins,14 mins,5.1 km,4.9 km,5.1 km,4.7 km,5.0 km
+t553,6 mins,8 mins,13 mins,53 mins,26 mins,14 mins,13 mins,4.3 km,3.8 km,6.7 km,4.0 km,4.2 km
+t554,9 mins,6 mins,8 mins,28 mins,17 mins,9 mins,9 mins,2.2 km,2.0 km,2.5 km,2.5 km,2.9 km
+t555,9 mins,3 mins,7 mins,24 mins,17 mins,6 mins,6 mins,2.0 km,1.7 km,2.3 km,1.8 km,1.8 km
+t556,5 mins,9 mins,13 mins,46 mins,32 mins,11 mins,14 mins,4.6 km,3.3 km,6.0 km,3.3 km,6.0 km
+t557,5 mins,8 mins,11 mins,22 mins,13 mins,6 mins,7 mins,2.9 km,1.6 km,1.6 km,1.6 km,1.9 km
+t558,8 mins,3 mins,15 mins,1 hour 2 mins,30 mins,17 mins,13 mins,5.2 km,4.4 km,7.4 km,4.9 km,5.1 km
+t559,9 mins,5 mins,12 mins,54 mins,23 mins,13 mins,12 mins,4.3 km,4.0 km,4.6 km,4.0 km,4.1 km
+t560,9 mins,4 mins,13 mins,1 hour 5 mins,29 mins,17 mins,13 mins,5.3 km,4.6 km,6.3 km,4.9 km,5.0 km
+t561,7 mins,5 mins,20 mins,1 hour 41 mins,33 mins,25 mins,20 mins,8.4 km,7.3 km,7.4 km,7.5 km,7.4 km
+t562,5 mins,4 mins,12 mins,42 mins,29 mins,10 mins,10 mins,3.7 km,3.1 km,3.7 km,3.2 km,3.3 km
+t563,9 mins,7 mins,13 mins,51 mins,22 mins,13 mins,12 mins,4.1 km,3.7 km,5.3 km,3.7 km,4.0 km
+t564,2 mins,2 mins,18 mins,1 hour 25 mins,36 mins,21 mins,18 mins,6.0 km,6.1 km,6.6 km,6.2 km,6.1 km
+t565,2 mins,8 mins,14 mins,1 hour 12 mins,28 mins,18 mins,15 mins,4.7 km,5.1 km,5.5 km,5.2 km,5.2 km
+t566,7 mins,3 mins,7 mins,19 mins,10 mins,6 mins,5 mins,1.4 km,1.4 km,1.5 km,1.5 km,1.5 km
+t567,8 mins,1 min,20 mins,1 hour 22 mins,23 mins,22 mins,21 mins,6.7 km,5.9 km,6.3 km,6.6 km,7.1 km
+t568,2 mins,10 mins,13 mins,51 mins,10 mins,15 mins,15 mins,4.8 km,3.7 km,3.4 km,4.5 km,4.4 km
+t569,8 mins,7 mins,12 mins,49 mins,22 mins,15 mins,13 mins,4.2 km,3.5 km,3.8 km,3.9 km,5.4 km
+t570,2 mins,3 mins,10 mins,30 mins,13 mins,9 mins,9 mins,2.9 km,2.2 km,3.0 km,2.7 km,2.5 km
+t571,8 mins,2 mins,19 mins,1 hour 15 mins,28 mins,20 mins,20 mins,6.4 km,5.5 km,6.6 km,6.2 km,6.4 km
+t572,8 mins,6 mins,21 mins,1 hour 27 mins,28 mins,22 mins,20 mins,6.9 km,6.4 km,9.2 km,6.7 km,6.5 km
+t573,8 mins,6 mins,23 mins,1 hour 29 mins,25 mins,25 mins,26 mins,7.8 km,6.5 km,7.1 km,6.8 km,8.1 km
+t574,8 mins,5 mins,16 mins,58 mins,21 mins,17 mins,14 mins,5.3 km,4.2 km,5.5 km,5.0 km,4.9 km
+t575,8 mins,6 mins,19 mins,1 hour 19 mins,36 mins,21 mins,20 mins,5.9 km,5.7 km,6.5 km,6.2 km,6.1 km
+t576,9 mins,3 mins,14 mins,1 hour 8 mins,30 mins,18 mins,14 mins,4.5 km,4.9 km,8.1 km,5.2 km,6.6 km
+t577,9 mins,7 mins,19 mins,1 hour 22 mins,21 mins,20 mins,18 mins,5.9 km,6.0 km,7.4 km,6.0 km,7.5 km
+t578,8 mins,3 mins,18 mins,1 hour 1 min,21 mins,16 mins,15 mins,5.6 km,4.4 km,4.9 km,4.7 km,4.9 km
+t579,8 mins,10 mins,21 mins,1 hour 21 mins,23 mins,21 mins,20 mins,7.1 km,5.9 km,6.1 km,6.0 km,6.6 km
+t580,9 mins,9 mins,26 mins,2 hours 2 mins,26 mins,30 mins,22 mins,8.8 km,8.9 km,9.6 km,8.9 km,10.1 km
+t581,8 mins,3 mins,9 mins,30 mins,17 mins,10 mins,9 mins,3.0 km,2.1 km,2.4 km,2.8 km,2.7 km
+t582,8 mins,4 mins,7 mins,19 mins,11 mins,8 mins,7 mins,2.1 km,1.3 km,1.3 km,2.1 km,2.0 km
+t583,4 mins,8 mins,7 mins,36 mins,17 mins,9 mins,8 mins,2.5 km,2.6 km,2.9 km,2.5 km,2.7 km
+t584,6 mins,6 mins,5 mins,32 mins,18 mins,9 mins,8 mins,1.6 km,2.3 km,2.7 km,2.4 km,2.6 km
+t585,4 mins,6 mins,18 mins,1 hour 32 mins,23 mins,23 mins,18 mins,7.5 km,6.7 km,7.9 km,6.7 km,6.9 km
+t586,4 mins,6 mins,11 mins,43 mins,18 mins,11 mins,9 mins,4.1 km,3.1 km,4.3 km,3.4 km,3.4 km
+t587,3 mins,5 mins,13 mins,52 mins,18 mins,14 mins,13 mins,4.8 km,3.8 km,7.7 km,4.3 km,4.2 km
+t588,4 mins,6 mins,15 mins,1 hour 12 mins,29 mins,20 mins,15 mins,5.5 km,5.2 km,9.0 km,5.2 km,5.2 km
+t589,10 mins,8 mins,11 mins,45 mins,16 mins,13 mins,11 mins,3.9 km,3.3 km,4.9 km,4.0 km,3.8 km
+t590,4 mins,5 mins,14 mins,49 mins,24 mins,12 mins,13 mins,4.7 km,3.5 km,7.4 km,3.5 km,4.9 km
+t591,10 mins,7 mins,14 mins,56 mins,21 mins,15 mins,12 mins,5.1 km,4.1 km,6.2 km,4.2 km,4.5 km
+t592,6 mins,6 mins,12 mins,1 hour 0 mins,17 mins,17 mins,20 mins,4.5 km,4.4 km,6.2 km,4.9 km,6.8 km
+t593,8 mins,7 mins,14 mins,1 hour 10 mins,29 mins,20 mins,16 mins,4.6 km,5.0 km,7.3 km,6.1 km,5.4 km
+t594,6 mins,3 mins,13 mins,1 hour 13 mins,16 mins,19 mins,18 mins,5.3 km,5.2 km,5.7 km,5.2 km,6.2 km
+t595,8 mins,1 min,7 mins,25 mins,10 mins,5 mins,5 mins,2.5 km,1.8 km,2.0 km,1.8 km,1.8 km
+t596,6 mins,7 mins,4 mins,27 mins,16 mins,7 mins,6 mins,1.2 km,2.0 km,2.9 km,2.4 km,2.4 km
+t597,8 mins,3 mins,8 mins,13 mins,13 mins,3 mins,2 mins,3.0 km,0.9 km,0.9 km,0.9 km,0.9 km
+t598,10 mins,12 mins,21 mins,2 hours 1 min,28 mins,30 mins,21 mins,9.2 km,8.8 km,11.2 km,9.1 km,10.2 km
+t599,6 mins,5 mins,8 mins,38 mins,18 mins,10 mins,7 mins,2.7 km,2.7 km,3.3 km,2.7 km,2.9 km
+t600,6 mins,2 mins,14 mins,49 mins,17 mins,14 mins,12 mins,4.5 km,3.6 km,4.0 km,3.9 km,4.0 km
+t601,3 mins,6 mins,15 mins,1 hour 20 mins,15 mins,20 mins,17 mins,5.7 km,5.8 km,6.5 km,5.8 km,6.3 km
+t602,6 mins,3 mins,10 mins,45 mins,13 mins,11 mins,10 mins,3.6 km,3.3 km,3.2 km,3.3 km,3.4 km
+t603,6 mins,6 mins,11 mins,52 mins,19 mins,14 mins,16 mins,4.2 km,3.7 km,4.6 km,4.0 km,5.0 km
+t604,10 mins,1 min,14 mins,1 hour 5 mins,30 mins,17 mins,14 mins,5.6 km,4.7 km,6.0 km,5.0 km,5.4 km
+t605,4 mins,8 mins,8 mins,32 mins,15 mins,9 mins,8 mins,2.8 km,2.3 km,3.3 km,2.4 km,2.3 km
+t606,4 mins,2 mins,16 mins,1 hour 25 mins,24 mins,21 mins,16 mins,6.6 km,6.1 km,7.5 km,6.1 km,6.4 km
+t607,6 mins,5 mins,13 mins,1 hour 0 mins,23 mins,15 mins,12 mins,4.9 km,4.3 km,6.2 km,4.5 km,4.5 km
+t608,10 mins,4 mins,4 mins,19 mins,13 mins,5 mins,4 mins,1.3 km,1.4 km,1.4 km,1.4 km,1.4 km
+t609,6 mins,4 mins,11 mins,58 mins,21 mins,17 mins,12 mins,3.9 km,4.1 km,4.6 km,4.7 km,5.3 km
+t610,3 mins,8 mins,7 mins,37 mins,17 mins,11 mins,12 mins,2.3 km,2.7 km,4.3 km,3.5 km,4.0 km
+t611,4 mins,2 mins,1 min,4 mins,4 mins,2 mins,1 min,0.3 km,0.3 km,0.3 km,0.3 km,0.3 km
+t612,3 mins,7 mins,9 mins,31 mins,14 mins,9 mins,12 mins,2.6 km,2.2 km,4.4 km,2.8 km,3.9 km
+t613,1 min,2 mins,13 mins,46 mins,22 mins,12 mins,14 mins,4.4 km,3.4 km,4.0 km,3.6 km,4.5 km
+t614,7 mins,8 mins,10 mins,44 mins,22 mins,12 mins,10 mins,3.4 km,3.2 km,3.6 km,3.5 km,3.4 km
+t615,5 mins,4 mins,8 mins,36 mins,13 mins,9 mins,8 mins,2.6 km,2.6 km,2.7 km,2.7 km,2.6 km
+t616,5 mins,5 mins,17 mins,1 hour 0 mins,20 mins,15 mins,14 mins,6.1 km,4.3 km,4.3 km,4.4 km,4.7 km
+t617,5 mins,6 mins,10 mins,48 mins,19 mins,12 mins,11 mins,3.6 km,3.5 km,3.9 km,3.6 km,3.8 km
+t618,4 mins,4 mins,7 mins,25 mins,15 mins,7 mins,7 mins,2.4 km,1.8 km,2.7 km,1.9 km,2.4 km
+t619,1 min,8 mins,14 mins,51 mins,18 mins,13 mins,12 mins,4.9 km,3.7 km,3.7 km,4.0 km,3.8 km
+t620,2 mins,8 mins,16 mins,1 hour 12 mins,25 mins,20 mins,15 mins,5.4 km,5.3 km,8.6 km,6.1 km,7.0 km
+t621,7 mins,6 mins,2 mins,6 mins,6 mins,2 mins,1 min,0.6 km,0.4 km,0.4 km,0.4 km,0.4 km
+t622,4 mins,5 mins,7 mins,32 mins,11 mins,8 mins,8 mins,2.5 km,2.3 km,2.8 km,2.3 km,2.8 km
+t623,7 mins,8 mins,18 mins,1 hour 32 mins,36 mins,25 mins,18 mins,6.1 km,6.7 km,7.9 km,7.1 km,8.0 km
+t624,4 mins,5 mins,18 mins,1 hour 26 mins,25 mins,23 mins,17 mins,9.5 km,6.2 km,7.6 km,6.5 km,9.3 km
+t625,7 mins,1 min,18 mins,1 hour 27 mins,36 mins,22 mins,17 mins,6.9 km,6.3 km,9.8 km,6.9 km,7.9 km
+t626,4 mins,4 mins,15 mins,1 hour 6 mins,23 mins,16 mins,14 mins,5.1 km,4.8 km,6.4 km,5.2 km,6.1 km
+t627,4 mins,3 mins,3 mins,15 mins,13 mins,4 mins,3 mins,1.1 km,1.1 km,1.8 km,1.1 km,1.2 km
+t628,1 min,8 mins,18 mins,1 hour 41 mins,39 mins,25 mins,20 mins,7.1 km,7.3 km,8.1 km,7.3 km,7.6 km
+t629,1 min,6 mins,14 mins,1 hour 3 mins,25 mins,15 mins,14 mins,4.9 km,4.5 km,5.2 km,4.5 km,4.9 km
+t630,2 mins,6 mins,15 mins,1 hour 14 mins,22 mins,21 mins,17 mins,5.6 km,5.4 km,8.4 km,6.4 km,7.4 km
+t631,7 mins,11 mins,13 mins,42 mins,17 mins,11 mins,9 mins,3.7 km,3.0 km,3.4 km,3.3 km,3.8 km
+t632,2 mins,1 min,14 mins,1 hour 0 mins,16 mins,17 mins,14 mins,5.0 km,4.4 km,4.8 km,5.3 km,5.9 km
+t633,1 min,6 mins,13 mins,56 mins,23 mins,13 mins,14 mins,4.5 km,4.1 km,5.2 km,4.3 km,6.2 km
+t634,1 min,5 mins,22 mins,2 hours 4 mins,38 mins,30 mins,23 mins,9.3 km,9.0 km,11.0 km,9.2 km,9.5 km
+t635,3 mins,8 mins,5 mins,16 mins,13 mins,6 mins,5 mins,1.5 km,1.1 km,1.1 km,1.6 km,1.7 km
+t636,3 mins,6 mins,13 mins,43 mins,20 mins,14 mins,13 mins,3.6 km,3.1 km,4.2 km,4.1 km,4.0 km
+t637,3 mins,5 mins,17 mins,1 hour 7 mins,29 mins,20 mins,15 mins,6.0 km,4.8 km,7.3 km,5.6 km,5.3 km
+t638,5 mins,3 mins,8 mins,30 mins,12 mins,8 mins,7 mins,2.3 km,2.2 km,3.9 km,2.2 km,2.2 km
+t639,3 mins,7 mins,18 mins,56 mins,24 mins,17 mins,21 mins,5.7 km,4.1 km,5.3 km,5.1 km,5.9 km
+t640,3 mins,2 mins,17 mins,58 mins,19 mins,16 mins,16 mins,5.3 km,4.2 km,5.7 km,4.9 km,4.9 km
+t641,3 mins,6 mins,15 mins,1 hour 9 mins,29 mins,19 mins,14 mins,5.4 km,5.0 km,6.0 km,5.6 km,5.6 km
+t642,5 mins,4 mins,20 mins,1 hour 23 mins,19 mins,20 mins,17 mins,6.6 km,6.0 km,7.2 km,6.2 km,6.1 km
+t643,5 mins,6 mins,21 mins,1 hour 31 mins,21 mins,23 mins,18 mins,7.7 km,6.6 km,7.7 km,7.1 km,6.6 km
+t644,3 mins,4 mins,18 mins,1 hour 22 mins,27 mins,23 mins,17 mins,6.4 km,5.9 km,8.8 km,6.4 km,6.2 km
+t645,3 mins,4 mins,18 mins,1 hour 13 mins,20 mins,19 mins,18 mins,6.2 km,5.3 km,6.9 km,5.9 km,5.8 km
+t646,3 mins,9 mins,5 mins,17 mins,13 mins,6 mins,5 mins,1.6 km,1.2 km,1.5 km,1.6 km,1.6 km
+t647,3 mins,8 mins,11 mins,52 mins,24 mins,14 mins,12 mins,3.6 km,3.8 km,5.1 km,4.0 km,3.9 km
+t648,3 mins,3 mins,4 mins,11 mins,8 mins,3 mins,3 mins,1.2 km,0.8 km,1.1 km,0.8 km,0.8 km
+t649,5 mins,8 mins,22 mins,1 hour 29 mins,25 mins,23 mins,18 mins,7.5 km,6.4 km,7.8 km,6.6 km,6.3 km
+t650,3 mins,5 mins,13 mins,39 mins,21 mins,12 mins,15 mins,4.0 km,2.8 km,5.6 km,3.6 km,4.1 km
+t651,8 mins,8 mins,7 mins,26 mins,13 mins,7 mins,5 mins,2.4 km,1.9 km,2.0 km,1.9 km,1.9 km
+t652,5 mins,12 mins,5 mins,11 mins,11 mins,3 mins,2 mins,1.5 km,0.8 km,0.8 km,0.7 km,0.7 km
+t653,8 mins,10 mins,10 mins,41 mins,18 mins,11 mins,10 mins,3.2 km,3.0 km,4.0 km,3.2 km,3.1 km
+t654,11 mins,6 mins,13 mins,58 mins,26 mins,14 mins,13 mins,3.6 km,4.3 km,5.4 km,4.2 km,4.2 km
+t655,7 mins,5 mins,12 mins,58 mins,22 mins,15 mins,12 mins,4.0 km,4.2 km,4.4 km,4.7 km,4.2 km
+t656,6 mins,1 min,14 mins,55 mins,21 mins,16 mins,14 mins,4.3 km,4.0 km,4.5 km,4.5 km,4.6 km
+t657,4 mins,6 mins,14 mins,1 hour 9 mins,30 mins,18 mins,14 mins,5.1 km,4.9 km,6.1 km,5.3 km,5.2 km
+t658,11 mins,4 mins,10 mins,43 mins,22 mins,11 mins,10 mins,3.7 km,3.1 km,3.4 km,3.1 km,3.4 km
+t659,3 mins,1 min,7 mins,23 mins,13 mins,7 mins,6 mins,1.8 km,1.7 km,2.1 km,2.0 km,1.7 km
+t660,5 mins,4 mins,10 mins,32 mins,12 mins,9 mins,11 mins,2.9 km,2.3 km,4.0 km,2.9 km,3.9 km
+t661,8 mins,8 mins,17 mins,1 hour 34 mins,22 mins,24 mins,20 mins,5.9 km,6.9 km,7.9 km,7.1 km,6.9 km
+t662,8 mins,3 mins,5 mins,17 mins,8 mins,4 mins,3 mins,1.7 km,1.3 km,1.4 km,1.3 km,1.3 km
+t663,8 mins,8 mins,11 mins,53 mins,24 mins,14 mins,12 mins,3.4 km,3.8 km,5.1 km,4.0 km,4.0 km
+t664,4 mins,7 mins,15 mins,1 hour 4 mins,21 mins,15 mins,14 mins,5.4 km,4.7 km,5.2 km,4.8 km,4.7 km
+t665,8 mins,2 mins,15 mins,1 hour 7 mins,29 mins,17 mins,14 mins,5.4 km,4.9 km,8.1 km,5.3 km,5.4 km
+t666,6 mins,6 mins,11 mins,46 mins,22 mins,13 mins,11 mins,3.4 km,3.3 km,3.6 km,3.7 km,3.4 km
+t667,2 mins,4 mins,22 mins,1 hour 45 mins,20 mins,27 mins,25 mins,7.1 km,7.6 km,8.4 km,7.7 km,8.9 km
+t668,7 mins,4 mins,10 mins,43 mins,17 mins,11 mins,10 mins,3.5 km,3.1 km,4.0 km,3.5 km,3.4 km
+t669,5 mins,5 mins,17 mins,1 hour 3 mins,23 mins,18 mins,13 mins,5.8 km,4.5 km,6.9 km,5.2 km,4.9 km
+t670,3 mins,8 mins,14 mins,1 hour 3 mins,30 mins,16 mins,12 mins,4.9 km,4.6 km,5.7 km,4.8 km,4.8 km
+t671,7 mins,6 mins,14 mins,1 hour 10 mins,24 mins,18 mins,13 mins,4.8 km,5.1 km,5.5 km,5.6 km,5.1 km
+t672,4 mins,2 mins,9 mins,35 mins,14 mins,11 mins,9 mins,2.9 km,2.6 km,2.9 km,3.1 km,3.4 km
+t673,5 mins,3 mins,18 mins,1 hour 34 mins,24 mins,25 mins,16 mins,7.3 km,6.8 km,9.8 km,7.1 km,7.1 km
+t674,3 mins,8 mins,8 mins,28 mins,15 mins,8 mins,8 mins,2.2 km,2.0 km,4.2 km,2.0 km,2.3 km
+t675,6 mins,14 mins,16 mins,1 hour 3 mins,20 mins,17 mins,16 mins,4.9 km,4.6 km,5.4 km,5.0 km,5.3 km
+t676,5 mins,1 min,24 mins,1 hour 53 mins,27 mins,29 mins,24 mins,9.0 km,8.2 km,9.2 km,8.5 km,9.9 km
+t677,5 mins,6 mins,18 mins,1 hour 18 mins,24 mins,22 mins,15 mins,6.2 km,5.6 km,8.6 km,5.8 km,5.5 km
+t678,11 mins,6 mins,17 mins,53 mins,16 mins,14 mins,14 mins,5.6 km,3.9 km,5.2 km,4.0 km,4.9 km
+t679,4 mins,2 mins,5 mins,18 mins,11 mins,4 mins,4 mins,1.5 km,1.3 km,1.3 km,1.3 km,1.4 km
+t680,11 mins,6 mins,16 mins,1 hour 15 mins,22 mins,21 mins,20 mins,5.2 km,5.5 km,7.5 km,5.9 km,7.9 km
+t681,7 mins,8 mins,15 mins,32 mins,14 mins,10 mins,10 mins,4.0 km,2.3 km,4.6 km,2.9 km,3.5 km
+t682,8 mins,12 mins,21 mins,1 hour 45 mins,28 mins,31 mins,18 mins,8.4 km,7.6 km,10.9 km,9.6 km,9.3 km
+t683,4 mins,7 mins,13 mins,1 hour 1 min,23 mins,16 mins,15 mins,4.5 km,4.5 km,7.9 km,5.0 km,4.8 km
+t684,3 mins,7 mins,20 mins,1 hour 30 mins,30 mins,24 mins,22 mins,6.8 km,6.6 km,11.0 km,7.6 km,7.3 km
+t685,3 mins,5 mins,1 min,5 mins,3 mins,1 min,1 min,0.3 km,0.4 km,0.6 km,0.4 km,0.4 km
+t686,6 mins,3 mins,7 mins,29 mins,19 mins,7 mins,6 mins,2.7 km,2.1 km,4.9 km,2.2 km,2.2 km
+t687,7 mins,11 mins,8 mins,32 mins,22 mins,12 mins,7 mins,2.9 km,2.3 km,2.6 km,2.3 km,2.2 km
+t688,8 mins,5 mins,20 mins,1 hour 4 mins,20 mins,17 mins,19 mins,6.9 km,4.7 km,6.0 km,4.9 km,5.5 km
+t689,7 mins,5 mins,23 mins,2 hours 3 mins,31 mins,31 mins,23 mins,10.2 km,8.9 km,12.4 km,9.6 km,10.2 km
+t690,1 min,6 mins,9 mins,45 mins,23 mins,12 mins,10 mins,3.3 km,3.3 km,4.2 km,3.4 km,3.8 km
+t691,3 mins,10 mins,23 mins,2 hours 9 mins,34 mins,34 mins,22 mins,10.0 km,9.5 km,12.3 km,10.5 km,11.2 km
+t692,8 mins,7 mins,20 mins,1 hour 14 mins,25 mins,18 mins,18 mins,6.9 km,5.4 km,8.2 km,5.5 km,6.0 km
+t693,4 mins,3 mins,14 mins,48 mins,22 mins,12 mins,10 mins,4.5 km,3.5 km,3.8 km,3.6 km,3.6 km
+t694,7 mins,5 mins,8 mins,26 mins,11 mins,6 mins,7 mins,2.5 km,1.9 km,2.1 km,2.0 km,2.1 km
+t695,3 mins,6 mins,24 mins,2 hours 5 mins,30 mins,31 mins,24 mins,8.8 km,9.1 km,10.1 km,9.2 km,9.4 km
+t696,7 mins,8 mins,5 mins,22 mins,7 mins,5 mins,4 mins,1.7 km,1.6 km,1.6 km,1.6 km,1.6 km
+t697,6 mins,3 mins,11 mins,55 mins,21 mins,14 mins,13 mins,3.8 km,4.0 km,6.7 km,4.1 km,4.1 km
+t698,3 mins,8 mins,11 mins,25 mins,11 mins,8 mins,6 mins,3.6 km,1.8 km,2.6 km,2.2 km,2.1 km
+t699,3 mins,7 mins,21 mins,1 hour 27 mins,37 mins,22 mins,23 mins,7.3 km,6.3 km,10.4 km,6.6 km,9.4 km
+t700,4 mins,1 min,18 mins,1 hour 18 mins,23 mins,19 mins,18 mins,6.2 km,5.7 km,7.8 km,5.7 km,6.3 km
+t701,8 mins,4 mins,16 mins,48 mins,24 mins,13 mins,13 mins,5.0 km,3.5 km,6.2 km,3.7 km,4.0 km
+t702,1 min,5 mins,20 mins,1 hour 29 mins,27 mins,23 mins,20 mins,6.4 km,6.4 km,7.2 km,6.6 km,7.2 km
+t703,8 mins,4 mins,16 mins,1 hour 0 mins,29 mins,15 mins,16 mins,5.2 km,4.3 km,5.0 km,4.4 km,5.0 km
+t704,6 mins,3 mins,19 mins,1 hour 32 mins,28 mins,23 mins,19 mins,6.7 km,6.7 km,8.5 km,6.7 km,6.7 km
+t705,3 mins,4 mins,14 mins,59 mins,22 mins,16 mins,17 mins,4.6 km,4.3 km,8.4 km,4.9 km,5.6 km
+t706,7 mins,2 mins,18 mins,1 hour 25 mins,37 mins,24 mins,19 mins,7.2 km,6.2 km,8.7 km,7.4 km,8.9 km
+t707,7 mins,8 mins,18 mins,1 hour 13 mins,18 mins,18 mins,20 mins,6.2 km,5.3 km,6.6 km,5.4 km,6.9 km
+t708,3 mins,6 mins,7 mins,27 mins,9 mins,6 mins,6 mins,2.2 km,2.0 km,2.0 km,2.0 km,2.0 km
+t709,6 mins,5 mins,9 mins,31 mins,21 mins,9 mins,6 mins,3.0 km,2.2 km,5.0 km,2.4 km,2.4 km
+t710,3 mins,4 mins,23 mins,1 hour 47 mins,33 mins,26 mins,22 mins,7.7 km,7.7 km,9.8 km,7.6 km,7.9 km
+t711,7 mins,5 mins,14 mins,1 hour 5 mins,18 mins,16 mins,13 mins,4.5 km,4.7 km,5.5 km,4.8 km,5.2 km
+t712,4 mins,8 mins,24 mins,1 hour 34 mins,27 mins,23 mins,24 mins,8.0 km,6.8 km,8.3 km,7.2 km,8.0 km
+t713,6 mins,4 mins,7 mins,29 mins,18 mins,7 mins,8 mins,2.3 km,2.1 km,2.3 km,2.2 km,2.5 km
+t714,3 mins,3 mins,8 mins,30 mins,11 mins,9 mins,7 mins,2.6 km,2.2 km,2.6 km,2.7 km,2.7 km
+t715,1 min,11 mins,8 mins,31 mins,18 mins,13 mins,7 mins,2.9 km,2.2 km,4.3 km,2.3 km,2.1 km
+t716,3 mins,5 mins,17 mins,1 hour 14 mins,25 mins,18 mins,16 mins,6.0 km,5.4 km,8.5 km,5.7 km,5.6 km
+t717,5 mins,3 mins,21 mins,1 hour 40 mins,38 mins,24 mins,19 mins,9.2 km,7.2 km,11.2 km,7.6 km,8.5 km
+t718,3 mins,5 mins,19 mins,1 hour 19 mins,31 mins,20 mins,17 mins,6.7 km,5.7 km,6.0 km,6.2 km,6.1 km
+t719,3 mins,5 mins,18 mins,1 hour 16 mins,30 mins,21 mins,18 mins,6.1 km,5.5 km,6.7 km,6.0 km,6.1 km
+t720,3 mins,5 mins,13 mins,56 mins,21 mins,15 mins,12 mins,4.3 km,4.0 km,4.3 km,4.3 km,4.0 km
+t721,5 mins,4 mins,17 mins,1 hour 9 mins,23 mins,15 mins,13 mins,5.5 km,5.0 km,5.0 km,4.8 km,4.8 km
+t722,4 mins,3 mins,13 mins,1 hour 4 mins,32 mins,18 mins,16 mins,4.5 km,4.7 km,7.7 km,5.2 km,5.3 km
+t723,11 mins,3 mins,6 mins,28 mins,16 mins,10 mins,6 mins,1.9 km,2.1 km,2.2 km,2.1 km,2.0 km
+t724,3 mins,3 mins,2 mins,5 mins,5 mins,2 mins,1 min,0.4 km,0.4 km,0.4 km,0.4 km,0.4 km
+t725,5 mins,6 mins,12 mins,46 mins,23 mins,11 mins,11 mins,3.6 km,3.4 km,5.3 km,3.3 km,3.3 km
+t726,3 mins,9 mins,8 mins,38 mins,22 mins,10 mins,8 mins,3.0 km,2.8 km,4.3 km,2.9 km,2.9 km
+t727,3 mins,2 mins,15 mins,49 mins,23 mins,12 mins,15 mins,4.9 km,3.6 km,4.2 km,3.6 km,4.9 km
+t728,3 mins,11 mins,3 mins,10 mins,10 mins,8 mins,5 mins,0.9 km,0.7 km,0.7 km,1.0 km,1.3 km
+t729,4 mins,7 mins,9 mins,49 mins,27 mins,14 mins,12 mins,2.8 km,3.5 km,3.6 km,3.9 km,3.8 km
+t730,11 mins,2 mins,10 mins,36 mins,19 mins,15 mins,10 mins,3.4 km,2.7 km,4.1 km,3.6 km,3.6 km
+t731,4 mins,1 min,13 mins,45 mins,30 mins,11 mins,15 mins,4.7 km,3.3 km,5.0 km,3.6 km,5.2 km
+t732,3 mins,6 mins,5 mins,16 mins,8 mins,4 mins,4 mins,1.5 km,1.2 km,1.2 km,1.2 km,1.2 km
+t733,3 mins,6 mins,6 mins,19 mins,10 mins,4 mins,6 mins,1.5 km,1.4 km,1.6 km,1.4 km,1.8 km
+t734,11 mins,7 mins,5 mins,23 mins,19 mins,11 mins,6 mins,1.6 km,1.7 km,1.9 km,1.9 km,2.2 km
+t735,9 mins,5 mins,16 mins,57 mins,23 mins,15 mins,15 mins,5.0 km,4.1 km,4.5 km,4.6 km,4.4 km
+t736,12 mins,8 mins,5 mins,18 mins,11 mins,5 mins,5 mins,1.7 km,1.3 km,1.4 km,1.3 km,1.4 km
+t737,8 mins,8 mins,14 mins,1 hour 2 mins,26 mins,17 mins,15 mins,4.5 km,4.5 km,5.9 km,5.0 km,5.3 km
+t738,9 mins,8 mins,3 mins,9 mins,6 mins,3 mins,4 mins,0.9 km,0.6 km,0.9 km,0.6 km,0.9 km
+t739,6 mins,1 min,8 mins,38 mins,18 mins,11 mins,12 mins,2.8 km,2.8 km,4.2 km,3.2 km,4.0 km
+t740,5 mins,6 mins,14 mins,51 mins,25 mins,14 mins,11 mins,5.2 km,3.7 km,6.7 km,4.2 km,4.2 km
+t741,11 mins,4 mins,14 mins,38 mins,19 mins,10 mins,9 mins,4.3 km,2.8 km,4.1 km,2.9 km,2.9 km
+t742,11 mins,4 mins,15 mins,1 hour 39 mins,32 mins,26 mins,17 mins,6.8 km,7.1 km,11.2 km,7.9 km,9.0 km
+t743,9 mins,5 mins,18 mins,1 hour 14 mins,28 mins,20 mins,17 mins,6.3 km,5.3 km,8.1 km,5.8 km,6.0 km
+t744,9 mins,2 mins,19 mins,1 hour 23 mins,29 mins,21 mins,18 mins,6.5 km,6.0 km,8.6 km,6.2 km,6.1 km
+t745,12 mins,4 mins,12 mins,59 mins,36 mins,16 mins,13 mins,4.6 km,4.3 km,5.7 km,4.5 km,5.8 km
+t746,12 mins,4 mins,15 mins,48 mins,22 mins,15 mins,13 mins,4.7 km,3.5 km,5.1 km,4.2 km,4.2 km
+t747,5 mins,3 mins,5 mins,24 mins,8 mins,5 mins,5 mins,1.7 km,1.8 km,1.9 km,1.8 km,1.8 km
+t748,12 mins,3 mins,16 mins,53 mins,19 mins,16 mins,17 mins,5.0 km,3.9 km,4.9 km,4.7 km,5.2 km
+t749,5 mins,4 mins,18 mins,1 hour 23 mins,30 mins,22 mins,16 mins,6.6 km,6.0 km,6.8 km,6.2 km,5.9 km
+t750,11 mins,7 mins,12 mins,38 mins,15 mins,11 mins,12 mins,3.3 km,2.7 km,3.6 km,3.2 km,3.4 km
+t751,11 mins,3 mins,14 mins,1 hour 2 mins,21 mins,18 mins,14 mins,4.2 km,4.5 km,5.8 km,4.9 km,5.0 km
+t752,9 mins,9 mins,14 mins,45 mins,32 mins,11 mins,14 mins,5.0 km,3.2 km,5.9 km,3.3 km,6.0 km
+t753,11 mins,10 mins,9 mins,21 mins,9 mins,5 mins,4 mins,2.7 km,1.5 km,1.6 km,1.5 km,1.5 km
+t754,8 mins,4 mins,17 mins,1 hour 25 mins,30 mins,21 mins,18 mins,5.5 km,6.1 km,6.4 km,6.0 km,6.3 km
+t755,9 mins,6 mins,5 mins,18 mins,12 mins,5 mins,4 mins,1.6 km,1.2 km,1.3 km,1.2 km,1.2 km
+t756,12 mins,6 mins,15 mins,1 hour 7 mins,26 mins,17 mins,14 mins,4.9 km,4.8 km,4.8 km,4.6 km,4.7 km
+t757,12 mins,2 mins,11 mins,59 mins,30 mins,17 mins,14 mins,4.1 km,4.3 km,7.5 km,5.0 km,5.0 km
+t758,11 mins,7 mins,7 mins,46 mins,17 mins,11 mins,7 mins,3.5 km,3.4 km,3.6 km,3.3 km,3.3 km
+t759,6 mins,8 mins,13 mins,48 mins,16 mins,13 mins,10 mins,4.5 km,3.5 km,3.7 km,3.7 km,3.4 km
+t760,5 mins,5 mins,17 mins,1 hour 15 mins,29 mins,20 mins,17 mins,6.4 km,5.4 km,6.3 km,5.9 km,6.2 km
+t761,5 mins,1 min,11 mins,51 mins,20 mins,13 mins,11 mins,4.0 km,3.6 km,5.2 km,3.7 km,3.6 km
+t762,8 mins,4 mins,7 mins,26 mins,12 mins,7 mins,10 mins,2.4 km,1.9 km,2.1 km,2.1 km,3.3 km
+t763,3 mins,6 mins,10 mins,38 mins,12 mins,10 mins,9 mins,2.8 km,2.8 km,3.0 km,2.8 km,2.8 km
+t764,10 mins,4 mins,14 mins,59 mins,23 mins,15 mins,12 mins,5.2 km,4.2 km,5.0 km,4.2 km,4.3 km
+t765,10 mins,3 mins,16 mins,1 hour 8 mins,27 mins,18 mins,18 mins,5.3 km,4.9 km,6.0 km,5.2 km,6.2 km
+t766,10 mins,4 mins,8 mins,34 mins,20 mins,8 mins,8 mins,2.6 km,2.4 km,5.2 km,2.5 km,2.6 km
+t767,4 mins,6 mins,14 mins,50 mins,17 mins,13 mins,13 mins,5.1 km,3.6 km,5.7 km,3.8 km,4.4 km
+t768,8 mins,1 min,9 mins,26 mins,11 mins,8 mins,8 mins,3.3 km,1.9 km,1.9 km,2.0 km,2.6 km
+t769,4 mins,4 mins,9 mins,28 mins,12 mins,7 mins,7 mins,2.8 km,2.0 km,2.1 km,2.0 km,2.2 km
+t770,8 mins,3 mins,22 mins,1 hour 47 mins,33 mins,25 mins,21 mins,9.3 km,7.7 km,8.4 km,7.5 km,7.8 km
+t771,10 mins,3 mins,11 mins,57 mins,26 mins,14 mins,11 mins,4.0 km,4.1 km,6.2 km,4.2 km,4.2 km
+t772,4 mins,7 mins,11 mins,43 mins,15 mins,11 mins,11 mins,3.7 km,3.1 km,3.1 km,3.1 km,3.5 km
+t773,4 mins,2 mins,15 mins,1 hour 21 mins,26 mins,21 mins,17 mins,5.8 km,5.8 km,10.7 km,5.9 km,5.8 km
+t774,6 mins,2 mins,10 mins,50 mins,24 mins,13 mins,12 mins,3.9 km,3.7 km,4.8 km,3.6 km,4.1 km
+t775,3 mins,7 mins,12 mins,1 hour 2 mins,21 mins,16 mins,14 mins,4.5 km,4.5 km,6.9 km,4.8 km,5.2 km
+t776,3 mins,1 min,15 mins,1 hour 17 mins,17 mins,19 mins,14 mins,5.9 km,5.6 km,7.0 km,5.3 km,5.7 km
+t777,6 mins,5 mins,13 mins,59 mins,21 mins,16 mins,15 mins,4.9 km,4.3 km,7.4 km,4.8 km,5.1 km
+t778,4 mins,7 mins,8 mins,37 mins,20 mins,10 mins,9 mins,2.9 km,2.7 km,2.9 km,2.7 km,2.9 km
+t779,8 mins,7 mins,15 mins,55 mins,21 mins,15 mins,15 mins,5.5 km,4.0 km,4.3 km,4.2 km,5.4 km
+t780,5 mins,6 mins,8 mins,33 mins,15 mins,9 mins,9 mins,2.9 km,2.4 km,4.0 km,2.7 km,2.7 km
+t781,4 mins,8 mins,8 mins,33 mins,15 mins,8 mins,7 mins,2.1 km,2.4 km,2.4 km,2.4 km,2.4 km
+t782,4 mins,4 mins,7 mins,20 mins,11 mins,6 mins,6 mins,1.9 km,1.5 km,1.3 km,1.6 km,1.6 km
+t783,4 mins,8 mins,9 mins,31 mins,19 mins,9 mins,8 mins,2.9 km,2.3 km,3.5 km,2.8 km,2.6 km
+t784,5 mins,5 mins,8 mins,32 mins,12 mins,10 mins,9 mins,2.5 km,2.3 km,2.3 km,2.8 km,2.9 km
+t785,3 mins,7 mins,12 mins,40 mins,14 mins,11 mins,12 mins,4.3 km,2.9 km,4.8 km,3.0 km,3.5 km
+t786,3 mins,8 mins,19 mins,1 hour 33 mins,26 mins,23 mins,18 mins,7.4 km,6.7 km,8.2 km,6.5 km,6.9 km
+t787,5 mins,6 mins,7 mins,29 mins,12 mins,9 mins,6 mins,2.5 km,2.1 km,3.0 km,2.6 km,2.1 km
+t788,1 min,1 min,19 mins,1 hour 48 mins,27 mins,27 mins,19 mins,8.4 km,7.9 km,14.0 km,8.4 km,8.4 km
+t789,4 mins,4 mins,16 mins,1 hour 4 mins,27 mins,16 mins,16 mins,5.3 km,4.7 km,7.1 km,4.7 km,4.9 km
+t790,9 mins,6 mins,8 mins,27 mins,13 mins,8 mins,6 mins,3.2 km,1.9 km,2.2 km,2.1 km,2.6 km
+t791,4 mins,7 mins,16 mins,59 mins,28 mins,16 mins,17 mins,5.1 km,4.3 km,8.8 km,4.8 km,5.6 km
+t792,3 mins,4 mins,23 mins,2 hours 4 mins,34 mins,33 mins,22 mins,10.1 km,9.1 km,12.3 km,10.1 km,11.2 km
+t793,9 mins,5 mins,13 mins,1 hour 6 mins,26 mins,17 mins,13 mins,5.7 km,4.6 km,5.2 km,4.7 km,5.5 km
+t794,9 mins,4 mins,22 mins,1 hour 38 mins,38 mins,24 mins,22 mins,7.9 km,7.2 km,10.3 km,7.4 km,7.9 km
+t795,5 mins,5 mins,9 mins,50 mins,22 mins,13 mins,11 mins,3.2 km,3.6 km,3.9 km,3.9 km,4.0 km
+t796,4 mins,2 mins,21 mins,1 hour 40 mins,29 mins,24 mins,21 mins,7.4 km,7.3 km,12.3 km,7.4 km,7.5 km
+t797,5 mins,1 min,17 mins,1 hour 19 mins,26 mins,19 mins,17 mins,6.0 km,5.8 km,7.5 km,6.0 km,7.8 km
+t798,1 min,4 mins,20 mins,1 hour 24 mins,27 mins,21 mins,18 mins,7.0 km,6.1 km,10.2 km,6.6 km,6.6 km
+t799,5 mins,2 mins,14 mins,56 mins,25 mins,14 mins,12 mins,4.7 km,4.1 km,4.6 km,4.3 km,4.4 km
+t800,1 min,2 mins,4 mins,26 mins,19 mins,6 mins,6 mins,1.7 km,1.9 km,3.1 km,2.0 km,2.0 km
+t801,3 mins,7 mins,14 mins,1 hour 4 mins,22 mins,17 mins,15 mins,4.8 km,4.6 km,7.9 km,5.1 km,4.9 km
+t802,9 mins,4 mins,13 mins,57 mins,25 mins,14 mins,13 mins,4.3 km,4.2 km,5.1 km,4.4 km,4.4 km
+t803,4 mins,3 mins,19 mins,1 hour 37 mins,34 mins,24 mins,20 mins,6.9 km,7.0 km,10.0 km,7.5 km,9.1 km
+t804,3 mins,4 mins,5 mins,26 mins,16 mins,6 mins,4 mins,1.9 km,1.8 km,2.2 km,1.9 km,1.9 km
+t805,4 mins,8 mins,25 mins,1 hour 52 mins,30 mins,28 mins,23 mins,8.8 km,8.1 km,9.3 km,8.0 km,8.0 km
+t806,9 mins,7 mins,24 mins,1 hour 39 mins,25 mins,25 mins,27 mins,8.2 km,7.2 km,8.0 km,7.6 km,8.7 km
+t807,5 mins,6 mins,13 mins,49 mins,22 mins,16 mins,11 mins,4.5 km,3.4 km,4.7 km,4.4 km,3.5 km
+t808,9 mins,4 mins,1 min,9 mins,9 mins,3 mins,2 mins,0.3 km,0.6 km,0.6 km,0.8 km,0.8 km
+t809,5 mins,5 mins,21 mins,1 hour 42 mins,33 mins,26 mins,22 mins,7.4 km,7.4 km,11.2 km,7.9 km,7.7 km
+t810,9 mins,6 mins,7 mins,26 mins,11 mins,8 mins,6 mins,2.4 km,1.9 km,2.0 km,2.2 km,2.0 km
+t811,9 mins,7 mins,19 mins,1 hour 49 mins,36 mins,27 mins,19 mins,8.8 km,8.0 km,8.6 km,8.4 km,8.9 km
+t812,3 mins,3 mins,21 mins,1 hour 14 mins,20 mins,20 mins,22 mins,7.0 km,5.4 km,6.0 km,6.0 km,7.1 km
+t813,1 min,7 mins,11 mins,46 mins,25 mins,12 mins,8 mins,4.8 km,3.4 km,5.2 km,3.6 km,3.6 km
+t814,4 mins,3 mins,20 mins,1 hour 37 mins,33 mins,24 mins,21 mins,7.1 km,7.0 km,12.6 km,7.3 km,7.3 km
+t815,2 mins,12 mins,8 mins,27 mins,13 mins,7 mins,6 mins,2.3 km,1.9 km,2.4 km,2.0 km,2.0 km
+t816,3 mins,7 mins,9 mins,46 mins,21 mins,13 mins,11 mins,3.1 km,3.3 km,3.7 km,3.7 km,3.5 km
+t817,2 mins,3 mins,12 mins,56 mins,27 mins,13 mins,11 mins,4.3 km,4.0 km,4.7 km,4.1 km,4.1 km
+t818,2 mins,7 mins,25 mins,2 hours 9 mins,28 mins,31 mins,23 mins,10.2 km,9.5 km,11.9 km,9.8 km,10.3 km
+t819,2 mins,4 mins,9 mins,36 mins,15 mins,9 mins,9 mins,2.7 km,2.6 km,3.9 km,2.6 km,2.7 km
+t820,3 mins,8 mins,8 mins,31 mins,17 mins,9 mins,10 mins,2.3 km,2.3 km,2.8 km,2.7 km,3.5 km
+t821,2 mins,6 mins,11 mins,38 mins,18 mins,10 mins,8 mins,3.8 km,2.8 km,3.6 km,2.9 km,3.3 km
+t822,4 mins,3 mins,10 mins,19 mins,13 mins,5 mins,4 mins,3.6 km,1.3 km,2.5 km,1.3 km,1.3 km
+t823,2 mins,6 mins,19 mins,1 hour 40 mins,22 mins,25 mins,18 mins,7.5 km,7.2 km,8.5 km,7.4 km,8.0 km
+t824,2 mins,6 mins,8 mins,28 mins,15 mins,7 mins,7 mins,2.3 km,2.0 km,2.1 km,2.1 km,2.3 km
+t825,2 mins,4 mins,6 mins,25 mins,15 mins,7 mins,7 mins,1.9 km,1.8 km,2.2 km,2.1 km,2.0 km
+t826,3 mins,4 mins,16 mins,1 hour 27 mins,29 mins,22 mins,16 mins,7.1 km,6.2 km,8.3 km,6.4 km,6.2 km
+t827,2 mins,7 mins,14 mins,55 mins,20 mins,14 mins,11 mins,5.0 km,4.0 km,6.8 km,4.1 km,4.6 km
+t828,1 min,8 mins,8 mins,27 mins,13 mins,7 mins,6 mins,2.6 km,2.0 km,3.2 km,1.9 km,1.9 km
+t829,2 mins,1 min,17 mins,1 hour 25 mins,24 mins,21 mins,15 mins,6.6 km,6.1 km,8.0 km,6.1 km,6.4 km
+t830,2 mins,12 mins,21 mins,1 hour 57 mins,29 mins,30 mins,20 mins,9.3 km,8.5 km,11.0 km,9.1 km,9.9 km
+t831,2 mins,3 mins,16 mins,1 hour 2 mins,30 mins,17 mins,13 mins,6.0 km,4.4 km,6.8 km,5.3 km,5.5 km
+t832,3 mins,1 min,19 mins,1 hour 16 mins,31 mins,19 mins,17 mins,6.3 km,5.6 km,7.8 km,5.9 km,6.0 km
+t833,2 mins,2 mins,14 mins,37 mins,14 mins,10 mins,9 mins,3.6 km,2.7 km,3.2 km,2.8 km,2.8 km
+t834,1 min,8 mins,14 mins,46 mins,20 mins,12 mins,10 mins,4.3 km,3.3 km,3.7 km,3.3 km,3.3 km
+t835,4 mins,6 mins,19 mins,1 hour 36 mins,29 mins,27 mins,21 mins,7.0 km,6.9 km,9.9 km,7.6 km,7.5 km
+t836,6 mins,5 mins,17 mins,1 hour 14 mins,32 mins,18 mins,16 mins,6.0 km,5.4 km,6.4 km,5.5 km,5.6 km
+t837,4 mins,1 min,15 mins,1 hour 10 mins,33 mins,19 mins,16 mins,6.0 km,5.1 km,7.4 km,5.8 km,6.2 km
+t838,6 mins,6 mins,14 mins,54 mins,20 mins,18 mins,13 mins,5.7 km,3.8 km,4.6 km,5.1 km,4.2 km
+t839,4 mins,7 mins,11 mins,54 mins,17 mins,14 mins,13 mins,3.6 km,4.0 km,4.3 km,4.1 km,4.2 km
+t840,8 mins,10 mins,16 mins,1 hour 8 mins,21 mins,17 mins,15 mins,5.3 km,5.0 km,7.4 km,5.1 km,5.1 km
+t841,4 mins,1 min,19 mins,1 hour 37 mins,30 mins,25 mins,20 mins,7.3 km,7.1 km,10.6 km,7.6 km,7.5 km
+t842,4 mins,6 mins,19 mins,1 hour 48 mins,33 mins,26 mins,21 mins,7.7 km,7.9 km,11.2 km,8.0 km,8.4 km
+t843,8 mins,4 mins,11 mins,48 mins,19 mins,12 mins,14 mins,3.7 km,3.5 km,5.0 km,3.8 km,4.5 km
+t844,8 mins,3 mins,8 mins,33 mins,12 mins,8 mins,8 mins,2.8 km,2.4 km,2.6 km,2.4 km,2.6 km
+t845,4 mins,1 min,12 mins,57 mins,22 mins,16 mins,12 mins,4.4 km,4.2 km,4.9 km,4.8 km,4.6 km
+t846,6 mins,3 mins,11 mins,46 mins,17 mins,12 mins,11 mins,3.7 km,3.3 km,3.8 km,3.4 km,3.5 km
+t847,5 mins,4 mins,4 mins,16 mins,7 mins,4 mins,3 mins,1.3 km,1.2 km,1.2 km,1.2 km,1.2 km
+t848,3 mins,4 mins,13 mins,45 mins,18 mins,12 mins,14 mins,4.0 km,3.3 km,5.1 km,3.6 km,4.6 km
+t849,8 mins,7 mins,11 mins,50 mins,13 mins,14 mins,13 mins,3.5 km,3.6 km,4.0 km,3.9 km,4.3 km
+t850,6 mins,8 mins,11 mins,43 mins,18 mins,12 mins,10 mins,3.5 km,3.1 km,6.3 km,3.5 km,3.2 km
+t851,5 mins,8 mins,5 mins,28 mins,15 mins,7 mins,5 mins,1.7 km,2.0 km,2.1 km,2.0 km,2.0 km
+t852,6 mins,6 mins,22 mins,1 hour 44 mins,26 mins,26 mins,23 mins,7.7 km,7.5 km,8.6 km,7.7 km,8.0 km
+t853,4 mins,5 mins,10 mins,47 mins,19 mins,11 mins,10 mins,3.4 km,3.3 km,3.4 km,3.3 km,3.4 km
+t854,6 mins,3 mins,18 mins,1 hour 7 mins,19 mins,20 mins,16 mins,6.0 km,4.9 km,6.4 km,6.1 km,5.5 km
+t855,4 mins,8 mins,6 mins,27 mins,16 mins,7 mins,6 mins,2.0 km,2.0 km,2.1 km,2.1 km,2.0 km
+t856,3 mins,5 mins,17 mins,1 hour 10 mins,19 mins,17 mins,16 mins,5.9 km,5.1 km,7.2 km,5.3 km,5.3 km
+t857,4 mins,3 mins,4 mins,21 mins,14 mins,6 mins,5 mins,1.4 km,1.5 km,2.0 km,1.6 km,2.5 km
+t858,4 mins,5 mins,9 mins,36 mins,14 mins,9 mins,8 mins,2.9 km,2.7 km,2.9 km,2.7 km,2.7 km
+t859,4 mins,8 mins,17 mins,1 hour 19 mins,21 mins,22 mins,18 mins,5.4 km,5.8 km,6.3 km,6.3 km,6.3 km
+t860,8 mins,2 mins,17 mins,1 hour 8 mins,23 mins,20 mins,17 mins,5.8 km,5.0 km,7.7 km,5.8 km,5.6 km
+t861,4 mins,5 mins,15 mins,50 mins,16 mins,15 mins,14 mins,4.9 km,3.6 km,7.0 km,4.2 km,4.8 km
+t862,4 mins,3 mins,15 mins,59 mins,26 mins,16 mins,12 mins,4.7 km,4.2 km,5.8 km,4.4 km,4.1 km
+t863,7 mins,10 mins,8 mins,31 mins,23 mins,9 mins,10 mins,2.4 km,2.2 km,5.1 km,2.8 km,3.0 km
+t864,5 mins,5 mins,15 mins,1 hour 2 mins,23 mins,16 mins,14 mins,4.6 km,4.5 km,4.6 km,4.7 km,4.9 km
+t865,5 mins,6 mins,18 mins,1 hour 4 mins,23 mins,17 mins,17 mins,6.0 km,4.6 km,7.7 km,5.2 km,5.3 km
+t866,3 mins,3 mins,15 mins,57 mins,20 mins,17 mins,13 mins,4.7 km,4.1 km,7.9 km,4.9 km,4.5 km
+t867,4 mins,4 mins,17 mins,1 hour 4 mins,27 mins,15 mins,14 mins,5.3 km,4.7 km,7.5 km,4.9 km,5.5 km
+t868,4 mins,11 mins,8 mins,31 mins,14 mins,8 mins,9 mins,2.3 km,2.2 km,5.6 km,2.5 km,3.2 km
+t869,7 mins,5 mins,3 mins,11 mins,11 mins,3 mins,6 mins,0.6 km,0.8 km,0.8 km,0.8 km,1.3 km
+t870,5 mins,4 mins,24 mins,1 hour 58 mins,28 mins,29 mins,22 mins,9.6 km,8.6 km,9.6 km,9.0 km,9.5 km
+t871,5 mins,9 mins,18 mins,59 mins,20 mins,17 mins,15 mins,5.7 km,4.2 km,6.4 km,4.5 km,5.1 km
+t872,4 mins,9 mins,9 mins,26 mins,20 mins,6 mins,6 mins,2.6 km,1.9 km,4.5 km,1.9 km,2.1 km
+t873,5 mins,2 mins,21 mins,1 hour 35 mins,33 mins,24 mins,21 mins,7.9 km,6.8 km,8.7 km,7.1 km,8.0 km
+t874,5 mins,8 mins,4 mins,12 mins,6 mins,3 mins,3 mins,0.6 km,0.8 km,1.1 km,0.8 km,0.9 km
+t875,2 mins,1 min,18 mins,1 hour 20 mins,22 mins,19 mins,17 mins,6.0 km,5.7 km,6.3 km,5.8 km,5.7 km
+t876,5 mins,7 mins,27 mins,2 hours 0 mins,41 mins,31 mins,25 mins,9.3 km,8.7 km,10.2 km,9.1 km,9.6 km
+t877,7 mins,6 mins,21 mins,1 hour 34 mins,35 mins,26 mins,22 mins,7.5 km,6.6 km,8.1 km,7.6 km,7.7 km
+t878,5 mins,5 mins,21 mins,1 hour 26 mins,36 mins,24 mins,19 mins,7.0 km,6.2 km,8.2 km,6.6 km,6.8 km
+t879,5 mins,4 mins,13 mins,46 mins,22 mins,13 mins,12 mins,4.1 km,3.4 km,4.3 km,3.6 km,4.1 km
+t880,4 mins,7 mins,10 mins,35 mins,13 mins,8 mins,8 mins,2.8 km,2.5 km,2.7 km,2.5 km,2.6 km
+t881,4 mins,2 mins,8 mins,37 mins,9 mins,9 mins,7 mins,2.8 km,2.6 km,3.7 km,2.7 km,2.7 km
+t882,3 mins,6 mins,15 mins,1 hour 2 mins,28 mins,16 mins,13 mins,4.8 km,4.5 km,6.6 km,4.9 km,4.7 km
+t883,2 mins,9 mins,18 mins,1 hour 25 mins,36 mins,20 mins,19 mins,6.2 km,6.2 km,9.3 km,6.5 km,6.9 km
+t884,4 mins,5 mins,8 mins,31 mins,16 mins,8 mins,7 mins,2.8 km,2.2 km,4.2 km,2.4 km,2.4 km
+t885,2 mins,6 mins,5 mins,18 mins,7 mins,4 mins,5 mins,1.3 km,1.3 km,1.4 km,1.3 km,1.7 km
+t886,3 mins,3 mins,7 mins,21 mins,13 mins,6 mins,7 mins,2.1 km,1.5 km,1.9 km,1.5 km,1.9 km
+t887,5 mins,6 mins,21 mins,1 hour 18 mins,32 mins,20 mins,17 mins,7.0 km,5.6 km,9.5 km,6.0 km,6.1 km
+t888,7 mins,2 mins,18 mins,1 hour 14 mins,25 mins,21 mins,18 mins,5.3 km,5.3 km,6.7 km,5.8 km,5.5 km
+t889,7 mins,4 mins,8 mins,18 mins,17 mins,5 mins,9 mins,2.1 km,1.3 km,1.7 km,1.3 km,2.4 km
+t890,5 mins,4 mins,18 mins,1 hour 13 mins,29 mins,19 mins,17 mins,5.7 km,5.2 km,8.6 km,5.9 km,5.6 km
+t891,5 mins,8 mins,18 mins,37 mins,26 mins,14 mins,19 mins,5.2 km,3.1 km,6.3 km,3.8 km,5.6 km
+t892,5 mins,8 mins,15 mins,47 mins,15 mins,14 mins,10 mins,5.0 km,3.4 km,4.8 km,4.3 km,3.6 km
+t893,5 mins,14 mins,13 mins,38 mins,15 mins,11 mins,11 mins,4.0 km,2.7 km,3.5 km,2.8 km,3.4 km
+t894,4 mins,9 mins,17 mins,55 mins,20 mins,16 mins,12 mins,5.3 km,4.0 km,4.4 km,4.4 km,4.1 km
+t895,2 mins,7 mins,15 mins,1 hour 19 mins,19 mins,20 mins,16 mins,6.8 km,5.7 km,7.1 km,6.3 km,6.7 km
+t896,1 min,8 mins,28 mins,2 hours 19 mins,40 mins,38 mins,27 mins,10.9 km,10.0 km,12.4 km,10.9 km,10.4 km
+t897,3 mins,2 mins,9 mins,55 mins,18 mins,14 mins,10 mins,4.2 km,4.0 km,4.9 km,4.1 km,4.4 km
+t898,1 min,7 mins,15 mins,1 hour 22 mins,21 mins,23 mins,16 mins,6.3 km,5.8 km,8.8 km,6.1 km,6.0 km
+t899,3 mins,4 mins,15 mins,1 hour 14 mins,20 mins,20 mins,12 mins,6.0 km,5.4 km,7.7 km,5.9 km,5.8 km
+t900,3 mins,4 mins,20 mins,1 hour 43 mins,29 mins,24 mins,19 mins,8.2 km,7.5 km,8.6 km,7.3 km,8.5 km
+t901,2 mins,3 mins,18 mins,1 hour 43 mins,23 mins,25 mins,17 mins,7.7 km,7.4 km,9.1 km,7.5 km,7.5 km
+t902,2 mins,4 mins,19 mins,1 hour 45 mins,22 mins,27 mins,20 mins,8.4 km,7.6 km,8.7 km,8.2 km,8.6 km
+t903,2 mins,11 mins,18 mins,1 hour 26 mins,26 mins,22 mins,17 mins,7.2 km,6.2 km,6.7 km,6.8 km,6.6 km
+t904,1 min,5 mins,21 mins,1 hour 42 mins,30 mins,28 mins,20 mins,9.2 km,7.4 km,12.0 km,8.2 km,8.5 km
+t905,2 mins,2 mins,16 mins,1 hour 27 mins,21 mins,21 mins,16 mins,6.9 km,6.3 km,7.3 km,6.7 km,6.8 km
+t906,3 mins,7 mins,15 mins,1 hour 28 mins,20 mins,22 mins,14 mins,6.5 km,6.2 km,6.9 km,6.2 km,6.3 km
+t907,1 min,6 mins,4 mins,11 mins,6 mins,5 mins,5 mins,1.0 km,0.8 km,1.0 km,1.5 km,1.5 km
+t908,3 mins,7 mins,26 mins,2 hours 20 mins,35 mins,37 mins,25 mins,10.0 km,10.0 km,11.5 km,10.7 km,10.2 km
+t909,3 mins,4 mins,7 mins,37 mins,13 mins,10 mins,8 mins,2.4 km,2.6 km,2.9 km,2.7 km,3.3 km
+t910,3 mins,8 mins,22 mins,1 hour 46 mins,37 mins,27 mins,19 mins,9.4 km,7.7 km,11.9 km,7.7 km,8.0 km
+t911,7 mins,3 mins,19 mins,1 hour 59 mins,23 mins,29 mins,21 mins,9.0 km,8.6 km,9.0 km,8.9 km,9.6 km
+t912,6 mins,6 mins,21 mins,1 hour 47 mins,31 mins,27 mins,22 mins,9.2 km,7.7 km,8.1 km,8.0 km,8.0 km
+t913,8 mins,3 mins,7 mins,37 mins,20 mins,10 mins,9 mins,3.4 km,2.6 km,3.4 km,2.7 km,2.7 km
+t914,5 mins,7 mins,14 mins,1 hour 11 mins,26 mins,16 mins,15 mins,6.4 km,5.1 km,5.8 km,5.0 km,5.5 km
+t915,3 mins,13 mins,18 mins,1 hour 23 mins,29 mins,21 mins,17 mins,7.3 km,5.9 km,6.8 km,6.4 km,7.7 km
+t916,4 mins,6 mins,20 mins,1 hour 53 mins,36 mins,34 mins,25 mins,7.9 km,8.0 km,10.7 km,9.2 km,10.0 km
+t917,4 mins,7 mins,23 mins,2 hours 13 mins,41 mins,33 mins,26 mins,9.4 km,9.5 km,10.2 km,9.8 km,10.1 km
+t918,5 mins,5 mins,11 mins,57 mins,28 mins,13 mins,11 mins,4.1 km,4.1 km,4.7 km,4.1 km,4.1 km
+t919,5 mins,5 mins,27 mins,2 hours 31 mins,46 mins,36 mins,28 mins,11.2 km,10.8 km,16.4 km,11.1 km,11.6 km
+t920,5 mins,7 mins,23 mins,1 hour 45 mins,32 mins,27 mins,25 mins,7.7 km,7.5 km,9.9 km,7.7 km,9.7 km
+t921,5 mins,2 mins,27 mins,2 hours 28 mins,38 mins,37 mins,28 mins,11.9 km,10.7 km,12.8 km,11.0 km,12.0 km
+t922,4 mins,7 mins,17 mins,1 hour 24 mins,29 mins,20 mins,17 mins,6.8 km,6.0 km,6.4 km,6.0 km,6.8 km
+t923,7 mins,7 mins,15 mins,1 hour 29 mins,24 mins,20 mins,19 mins,6.0 km,6.3 km,6.6 km,6.3 km,7.1 km
+t924,7 mins,4 mins,16 mins,1 hour 31 mins,30 mins,24 mins,19 mins,7.0 km,6.5 km,8.7 km,6.7 km,6.7 km
+t925,6 mins,5 mins,22 mins,1 hour 51 mins,38 mins,26 mins,22 mins,9.9 km,8.0 km,10.9 km,8.2 km,8.9 km
+t926,7 mins,3 mins,15 mins,1 hour 31 mins,30 mins,23 mins,18 mins,6.7 km,6.5 km,9.2 km,6.5 km,6.5 km
+t927,6 mins,8 mins,20 mins,1 hour 58 mins,28 mins,29 mins,22 mins,9.3 km,8.6 km,8.5 km,9.3 km,9.7 km
+t928,5 mins,7 mins,14 mins,1 hour 20 mins,21 mins,20 mins,16 mins,6.5 km,5.8 km,6.4 km,6.0 km,7.0 km
+t929,6 mins,6 mins,18 mins,1 hour 40 mins,35 mins,24 mins,19 mins,7.3 km,7.2 km,9.7 km,7.2 km,7.6 km
+t930,5 mins,1 min,23 mins,1 hour 58 mins,36 mins,30 mins,24 mins,10.5 km,8.6 km,10.8 km,9.1 km,9.6 km
+t931,5 mins,3 mins,6 mins,25 mins,12 mins,6 mins,7 mins,2.0 km,1.8 km,2.2 km,1.7 km,2.2 km
+t932,8 mins,10 mins,12 mins,1 hour 9 mins,23 mins,17 mins,13 mins,5.3 km,4.9 km,6.6 km,4.9 km,5.5 km
+t933,6 mins,2 mins,8 mins,48 mins,18 mins,13 mins,9 mins,3.0 km,3.5 km,4.2 km,3.6 km,3.4 km
+t934,3 mins,4 mins,12 mins,1 hour 11 mins,24 mins,20 mins,14 mins,5.8 km,5.1 km,5.4 km,6.1 km,6.4 km
+t935,7 mins,6 mins,22 mins,1 hour 48 mins,38 mins,30 mins,20 mins,9.8 km,7.8 km,9.8 km,8.6 km,8.4 km
+t936,5 mins,7 mins,15 mins,1 hour 6 mins,23 mins,17 mins,13 mins,5.5 km,4.8 km,5.9 km,5.3 km,5.0 km
+t937,5 mins,6 mins,12 mins,38 mins,17 mins,10 mins,11 mins,3.3 km,2.8 km,3.1 km,3.2 km,3.1 km
+t938,7 mins,5 mins,14 mins,36 mins,15 mins,9 mins,10 mins,4.6 km,2.6 km,3.0 km,2.8 km,3.3 km
+t939,5 mins,4 mins,16 mins,57 mins,23 mins,15 mins,14 mins,5.0 km,4.1 km,7.0 km,4.6 km,4.4 km
+t940,7 mins,8 mins,18 mins,1 hour 11 mins,28 mins,18 mins,17 mins,8.4 km,5.1 km,6.1 km,5.6 km,6.4 km
+t941,1 min,6 mins,19 mins,1 hour 14 mins,28 mins,20 mins,17 mins,6.8 km,5.3 km,6.6 km,6.1 km,6.2 km
+t942,7 mins,2 mins,20 mins,1 hour 22 mins,26 mins,19 mins,18 mins,7.5 km,6.0 km,7.1 km,6.2 km,6.6 km
+t943,1 min,1 min,10 mins,37 mins,18 mins,11 mins,9 mins,3.3 km,2.7 km,4.4 km,3.0 km,2.7 km
+t944,5 mins,1 min,20 mins,1 hour 27 mins,34 mins,22 mins,19 mins,7.5 km,6.2 km,8.2 km,7.0 km,7.0 km
+t945,5 mins,5 mins,17 mins,54 mins,24 mins,14 mins,14 mins,5.2 km,3.9 km,5.1 km,4.8 km,4.5 km
+t946,5 mins,3 mins,22 mins,1 hour 30 mins,32 mins,23 mins,20 mins,8.2 km,6.5 km,8.9 km,7.0 km,6.8 km
+t947,5 mins,4 mins,18 mins,55 mins,24 mins,15 mins,15 mins,5.4 km,3.9 km,4.9 km,4.9 km,4.6 km
+t948,1 min,3 mins,7 mins,24 mins,20 mins,7 mins,5 mins,2.0 km,1.7 km,1.9 km,1.7 km,1.7 km
+t949,5 mins,8 mins,11 mins,26 mins,15 mins,6 mins,9 mins,3.2 km,1.9 km,3.1 km,1.9 km,2.6 km
+t950,7 mins,3 mins,17 mins,1 hour 1 min,21 mins,17 mins,13 mins,6.4 km,4.4 km,7.2 km,5.1 km,4.6 km
+t951,5 mins,5 mins,19 mins,1 hour 15 mins,26 mins,20 mins,17 mins,6.5 km,5.5 km,7.5 km,6.1 km,5.6 km
+t952,5 mins,6 mins,11 mins,40 mins,17 mins,12 mins,10 mins,3.7 km,2.9 km,4.3 km,3.5 km,3.1 km
+t953,3 mins,5 mins,19 mins,1 hour 0 mins,39 mins,16 mins,17 mins,8.1 km,4.3 km,6.7 km,4.9 km,7.9 km
+t954,3 mins,6 mins,22 mins,1 hour 52 mins,44 mins,29 mins,22 mins,9.6 km,8.0 km,11.9 km,8.8 km,9.6 km
+t955,3 mins,4 mins,18 mins,1 hour 15 mins,42 mins,17 mins,18 mins,6.4 km,5.5 km,6.2 km,5.6 km,6.4 km
+t956,7 mins,4 mins,22 mins,1 hour 23 mins,40 mins,21 mins,20 mins,7.4 km,5.9 km,7.2 km,6.2 km,8.9 km
+t957,7 mins,7 mins,16 mins,1 hour 23 mins,29 mins,22 mins,18 mins,5.8 km,6.0 km,7.7 km,6.9 km,7.0 km
+t958,7 mins,8 mins,18 mins,57 mins,31 mins,15 mins,16 mins,5.5 km,4.0 km,6.6 km,4.2 km,6.8 km
+t959,7 mins,4 mins,18 mins,1 hour 17 mins,32 mins,22 mins,19 mins,6.6 km,5.6 km,7.1 km,6.8 km,6.7 km
+t960,3 mins,1 min,5 mins,19 mins,10 mins,4 mins,4 mins,1.4 km,1.4 km,1.9 km,1.5 km,1.5 km
+t961,3 mins,5 mins,18 mins,1 hour 12 mins,38 mins,18 mins,16 mins,6.1 km,5.2 km,5.9 km,5.7 km,5.6 km
+t962,3 mins,6 mins,12 mins,40 mins,24 mins,10 mins,11 mins,3.8 km,2.8 km,4.8 km,3.1 km,3.9 km
+t963,7 mins,3 mins,18 mins,1 hour 25 mins,35 mins,21 mins,21 mins,6.2 km,6.2 km,9.1 km,6.7 km,7.2 km
+t964,3 mins,9 mins,22 mins,1 hour 19 mins,35 mins,20 mins,22 mins,9.7 km,5.7 km,6.8 km,5.8 km,10.1 km
+t965,3 mins,6 mins,23 mins,2 hours 1 min,46 mins,34 mins,23 mins,10.1 km,8.6 km,11.0 km,9.8 km,10.4 km
+t966,7 mins,5 mins,12 mins,48 mins,29 mins,13 mins,13 mins,3.5 km,3.5 km,5.0 km,4.0 km,4.3 km
+t967,7 mins,6 mins,10 mins,27 mins,27 mins,11 mins,12 mins,3.4 km,1.9 km,2.1 km,3.7 km,4.6 km
+t968,3 mins,3 mins,24 mins,1 hour 49 mins,39 mins,30 mins,22 mins,23.2 km,7.8 km,9.1 km,8.9 km,22.8 km
+t969,3 mins,7 mins,19 mins,1 hour 2 mins,28 mins,15 mins,17 mins,8.0 km,4.5 km,4.6 km,4.6 km,7.6 km
+t970,7 mins,2 mins,16 mins,1 hour 12 mins,33 mins,19 mins,18 mins,5.2 km,5.1 km,6.9 km,5.9 km,6.1 km
+t971,3 mins,7 mins,12 mins,47 mins,37 mins,11 mins,13 mins,4.1 km,3.5 km,4.1 km,3.7 km,4.4 km
+t972,3 mins,1 min,19 mins,1 hour 27 mins,39 mins,22 mins,19 mins,7.0 km,6.2 km,9.6 km,7.0 km,7.0 km
+t973,3 mins,7 mins,23 mins,1 hour 53 mins,47 mins,31 mins,20 mins,9.5 km,8.1 km,10.6 km,8.8 km,8.8 km
+t974,2 mins,3 mins,9 mins,28 mins,16 mins,9 mins,8 mins,2.4 km,2.0 km,2.5 km,2.6 km,2.4 km
+t975,6 mins,6 mins,18 mins,1 hour 20 mins,27 mins,19 mins,17 mins,6.5 km,5.8 km,7.1 km,5.9 km,6.2 km
+t976,1 min,5 mins,12 mins,45 mins,18 mins,11 mins,11 mins,3.5 km,3.3 km,3.6 km,3.6 km,3.3 km
+t977,1 min,6 mins,10 mins,41 mins,18 mins,12 mins,10 mins,3.5 km,3.0 km,4.3 km,3.6 km,3.1 km
+t978,1 min,6 mins,17 mins,1 hour 7 mins,19 mins,19 mins,17 mins,5.2 km,4.8 km,7.2 km,5.5 km,5.5 km
+t979,2 mins,2 mins,15 mins,1 hour 2 mins,26 mins,16 mins,14 mins,4.9 km,4.5 km,5.8 km,4.9 km,4.8 km
+t980,2 mins,7 mins,9 mins,40 mins,18 mins,11 mins,8 mins,3.6 km,2.8 km,3.2 km,3.1 km,2.9 km
+t981,6 mins,4 mins,12 mins,33 mins,15 mins,9 mins,10 mins,3.6 km,2.4 km,3.0 km,2.8 km,3.1 km
+t982,2 mins,6 mins,19 mins,1 hour 46 mins,39 mins,29 mins,21 mins,8.8 km,7.6 km,8.9 km,8.4 km,8.4 km
+t983,6 mins,7 mins,14 mins,48 mins,22 mins,12 mins,11 mins,4.4 km,3.4 km,4.9 km,3.5 km,3.5 km
+t984,6 mins,5 mins,19 mins,1 hour 10 mins,33 mins,17 mins,14 mins,7.0 km,5.1 km,6.9 km,5.5 km,6.0 km
+t985,1 min,6 mins,13 mins,45 mins,25 mins,12 mins,11 mins,4.0 km,3.2 km,4.3 km,3.7 km,3.5 km
+t986,2 mins,8 mins,11 mins,37 mins,20 mins,9 mins,9 mins,3.5 km,2.7 km,3.5 km,3.0 km,2.9 km
+t987,1 min,6 mins,12 mins,38 mins,19 mins,9 mins,12 mins,4.1 km,2.7 km,3.8 km,2.8 km,3.9 km
+t988,2 mins,6 mins,14 mins,1 hour 1 min,31 mins,14 mins,15 mins,4.9 km,4.4 km,5.5 km,4.6 km,5.2 km
+t989,2 mins,1 min,23 mins,1 hour 57 mins,33 mins,29 mins,22 mins,9.3 km,8.4 km,10.6 km,8.9 km,9.2 km
+t990,1 min,5 mins,17 mins,1 hour 12 mins,27 mins,20 mins,16 mins,5.5 km,5.2 km,7.5 km,5.9 km,5.3 km
+t991,1 min,6 mins,20 mins,1 hour 35 mins,44 mins,24 mins,19 mins,7.7 km,6.8 km,10.1 km,7.5 km,7.5 km
+t992,9 mins,5 mins,18 mins,1 hour 33 mins,41 mins,24 mins,21 mins,6.9 km,6.6 km,10.1 km,7.5 km,7.8 km
+t993,1 min,7 mins,10 mins,51 mins,31 mins,12 mins,12 mins,3.6 km,3.7 km,5.2 km,4.0 km,4.1 km
+t994,9 mins,4 mins,22 mins,1 hour 46 mins,38 mins,26 mins,23 mins,7.7 km,7.7 km,10.5 km,8.3 km,8.5 km
+t995,15 mins,4 mins,19 mins,1 hour 15 mins,34 mins,22 mins,19 mins,6.6 km,5.4 km,6.5 km,6.2 km,6.3 km
+t996,9 mins,7 mins,19 mins,1 hour 40 mins,37 mins,28 mins,21 mins,8.2 km,7.1 km,9.1 km,8.5 km,8.8 km
+t997,15 mins,6 mins,12 mins,1 hour 2 mins,39 mins,17 mins,15 mins,4.7 km,4.5 km,6.8 km,5.1 km,5.8 km
+t998,1 min,6 mins,19 mins,1 hour 6 mins,33 mins,18 mins,19 mins,8.7 km,4.7 km,8.3 km,4.9 km,6.7 km
+t999,1 min,6 mins,19 mins,1 hour 25 mins,41 mins,20 mins,17 mins,8.8 km,6.1 km,6.9 km,6.2 km,8.2 km
+t1000,9 mins,5 mins,17 mins,1 hour 23 mins,36 mins,21 mins,19 mins,6.1 km,6.0 km,9.2 km,6.7 km,6.8 km
+t1001,1 min,7 mins,1 min,9 mins,9 mins,2 mins,3 mins,0.2 km,0.7 km,0.7 km,0.7 km,0.8 km
+t1002,15 mins,4 mins,10 mins,57 mins,40 mins,16 mins,14 mins,5.1 km,4.1 km,7.5 km,4.4 km,6.9 km
+t1003,1 min,3 mins,21 mins,1 hour 17 mins,29 mins,20 mins,21 mins,9.5 km,5.5 km,6.4 km,5.7 km,9.7 km
+t1004,15 mins,8 mins,17 mins,1 hour 18 mins,38 mins,18 mins,15 mins,6.3 km,5.7 km,6.0 km,5.8 km,5.8 km
+t1005,9 mins,9 mins,17 mins,1 hour 12 mins,33 mins,20 mins,18 mins,7.7 km,5.2 km,8.6 km,6.3 km,7.6 km
+t1006,9 mins,5 mins,21 mins,1 hour 59 mins,48 mins,31 mins,25 mins,9.5 km,8.5 km,10.9 km,9.4 km,10.5 km
+t1007,9 mins,8 mins,21 mins,1 hour 35 mins,36 mins,22 mins,23 mins,7.8 km,7.0 km,9.0 km,7.2 km,8.4 km
+t1008,9 mins,11 mins,17 mins,59 mins,29 mins,16 mins,16 mins,5.3 km,4.2 km,6.5 km,4.4 km,7.0 km
+t1009,9 mins,7 mins,17 mins,1 hour 11 mins,31 mins,18 mins,19 mins,5.5 km,5.1 km,6.7 km,5.8 km,6.3 km
+t1010,1 min,1 min,12 mins,50 mins,31 mins,14 mins,12 mins,4.2 km,3.7 km,5.3 km,4.1 km,3.7 km
+t1011,5 mins,7 mins,20 mins,1 hour 44 mins,34 mins,29 mins,19 mins,9.1 km,7.4 km,10.1 km,8.3 km,8.2 km
+t1012,5 mins,9 mins,13 mins,37 mins,19 mins,9 mins,10 mins,4.3 km,2.7 km,3.8 km,2.7 km,3.3 km
+t1013,5 mins,2 mins,18 mins,1 hour 26 mins,31 mins,22 mins,18 mins,6.8 km,6.2 km,8.0 km,6.9 km,6.7 km
+t1014,10 mins,4 mins,16 mins,57 mins,18 mins,15 mins,13 mins,5.7 km,4.1 km,6.7 km,4.7 km,4.7 km
+t1015,5 mins,3 mins,15 mins,1 hour 2 mins,30 mins,16 mins,16 mins,5.1 km,4.5 km,5.3 km,5.2 km,5.1 km
+t1016,5 mins,3 mins,20 mins,1 hour 28 mins,30 mins,22 mins,19 mins,7.5 km,6.4 km,8.7 km,6.8 km,6.6 km
+t1017,7 mins,2 mins,13 mins,51 mins,21 mins,13 mins,12 mins,4.2 km,3.7 km,5.1 km,4.2 km,4.0 km
+t1018,7 mins,1 min,19 mins,1 hour 23 mins,26 mins,21 mins,19 mins,6.9 km,6.0 km,9.7 km,6.5 km,6.8 km
+t1019,5 mins,9 mins,8 mins,28 mins,21 mins,6 mins,8 mins,2.7 km,2.0 km,2.7 km,2.0 km,2.4 km
+t1020,7 mins,7 mins,16 mins,58 mins,24 mins,15 mins,13 mins,4.7 km,4.1 km,4.6 km,5.0 km,4.3 km
+t1021,10 mins,9 mins,10 mins,32 mins,16 mins,10 mins,7 mins,3.3 km,2.3 km,2.6 km,2.6 km,2.4 km
+t1022,10 mins,6 mins,19 mins,1 hour 40 mins,41 mins,25 mins,18 mins,8.6 km,7.2 km,13.4 km,7.4 km,8.2 km
+t1023,5 mins,7 mins,14 mins,1 hour 1 min,21 mins,17 mins,17 mins,5.0 km,4.4 km,6.9 km,4.9 km,5.8 km
+t1024,5 mins,6 mins,13 mins,48 mins,31 mins,13 mins,13 mins,3.9 km,3.4 km,4.7 km,3.9 km,3.9 km
+t1025,5 mins,5 mins,17 mins,1 hour 12 mins,28 mins,19 mins,17 mins,5.8 km,5.2 km,7.7 km,5.8 km,5.4 km
+t1026,5 mins,2 mins,13 mins,35 mins,20 mins,9 mins,11 mins,3.9 km,2.5 km,3.3 km,2.7 km,3.3 km
+t1027,4 mins,3 mins,21 mins,1 hour 37 mins,29 mins,25 mins,20 mins,8.8 km,7.1 km,9.7 km,7.8 km,8.3 km
+t1028,5 mins,5 mins,12 mins,44 mins,18 mins,10 mins,11 mins,3.7 km,3.1 km,3.6 km,3.5 km,3.3 km
+t1029,4 mins,6 mins,8 mins,24 mins,18 mins,5 mins,7 mins,2.4 km,1.7 km,2.4 km,1.8 km,2.4 km
+t1030,5 mins,7 mins,20 mins,1 hour 44 mins,40 mins,28 mins,18 mins,8.5 km,7.4 km,8.8 km,7.8 km,7.7 km
+t1031,8 mins,5 mins,10 mins,58 mins,28 mins,16 mins,12 mins,4.6 km,4.2 km,5.3 km,4.6 km,5.4 km
+t1032,8 mins,6 mins,19 mins,1 hour 19 mins,27 mins,20 mins,17 mins,6.8 km,5.7 km,9.8 km,6.1 km,6.5 km
+t1033,5 mins,9 mins,11 mins,34 mins,21 mins,8 mins,10 mins,3.4 km,2.4 km,3.1 km,2.8 km,2.9 km
+t1034,5 mins,7 mins,12 mins,55 mins,19 mins,16 mins,15 mins,4.7 km,3.9 km,5.7 km,4.3 km,5.5 km
+t1035,5 mins,2 mins,17 mins,1 hour 11 mins,28 mins,20 mins,17 mins,6.4 km,5.1 km,6.5 km,6.2 km,6.2 km
+t1036,8 mins,6 mins,13 mins,53 mins,17 mins,14 mins,14 mins,4.0 km,3.8 km,5.6 km,4.2 km,4.4 km
+t1037,5 mins,6 mins,16 mins,1 hour 7 mins,28 mins,16 mins,15 mins,5.4 km,4.9 km,5.8 km,5.2 km,5.9 km
+t1038,5 mins,4 mins,16 mins,1 hour 4 mins,28 mins,17 mins,16 mins,5.1 km,4.6 km,6.7 km,4.9 km,5.2 km
+t1039,8 mins,4 mins,17 mins,1 hour 8 mins,20 mins,16 mins,17 mins,6.4 km,4.9 km,5.7 km,5.3 km,6.4 km
+t1040,5 mins,1 min,18 mins,1 hour 14 mins,28 mins,19 mins,17 mins,6.1 km,5.2 km,7.9 km,5.6 km,5.8 km
+t1041,5 mins,6 mins,19 mins,1 hour 41 mins,43 mins,28 mins,19 mins,8.7 km,7.2 km,9.3 km,7.7 km,8.1 km
+t1042,8 mins,1 min,7 mins,9 mins,9 mins,3 mins,10 mins,2.2 km,0.6 km,0.6 km,1.1 km,2.8 km
+t1043,8 mins,1 min,17 mins,1 hour 20 mins,28 mins,20 mins,18 mins,6.4 km,5.7 km,6.4 km,6.2 km,6.6 km
+t1044,5 mins,1 min,4 mins,16 mins,14 mins,5 mins,5 mins,1.2 km,1.2 km,1.7 km,1.5 km,1.4 km
+t1045,6 mins,10 mins,16 mins,1 hour 14 mins,28 mins,21 mins,15 mins,5.5 km,5.2 km,10.5 km,5.6 km,5.2 km
+t1046,5 mins,9 mins,12 mins,56 mins,15 mins,13 mins,12 mins,4.5 km,4.1 km,5.7 km,4.1 km,4.3 km
+t1047,6 mins,3 mins,21 mins,1 hour 50 mins,36 mins,34 mins,19 mins,10.8 km,7.8 km,11.6 km,9.4 km,10.4 km
+t1048,5 mins,6 mins,27 mins,1 hour 57 mins,24 mins,30 mins,24 mins,13.4 km,8.4 km,9.6 km,8.9 km,9.1 km
+t1049,5 mins,10 mins,26 mins,2 hours 15 mins,27 mins,34 mins,24 mins,10.9 km,9.8 km,10.6 km,10.4 km,13.5 km
+t1050,2 mins,4 mins,15 mins,1 hour 4 mins,29 mins,19 mins,14 mins,5.3 km,4.5 km,5.6 km,5.1 km,5.1 km
+t1051,2 mins,5 mins,18 mins,1 hour 12 mins,30 mins,18 mins,18 mins,6.5 km,5.3 km,6.8 km,5.3 km,6.7 km
+t1052,4 mins,7 mins,13 mins,46 mins,18 mins,13 mins,13 mins,4.4 km,3.4 km,4.4 km,3.9 km,4.5 km
+t1053,6 mins,6 mins,7 mins,15 mins,15 mins,5 mins,4 mins,1.7 km,1.0 km,1.0 km,1.1 km,1.1 km
+t1054,5 mins,2 mins,23 mins,2 hours 7 mins,36 mins,33 mins,23 mins,12.0 km,9.2 km,12.8 km,9.2 km,12.1 km
+t1055,4 mins,7 mins,7 mins,14 mins,14 mins,5 mins,6 mins,1.8 km,1.0 km,1.0 km,1.0 km,1.3 km
+t1056,6 mins,5 mins,19 mins,1 hour 23 mins,29 mins,20 mins,17 mins,7.2 km,6.0 km,7.3 km,6.0 km,6.5 km
+t1057,6 mins,5 mins,20 mins,1 hour 28 mins,31 mins,25 mins,18 mins,6.9 km,6.2 km,9.5 km,6.6 km,6.3 km
+t1058,2 mins,5 mins,4 mins,13 mins,13 mins,4 mins,5 mins,0.8 km,0.9 km,0.9 km,0.9 km,1.2 km
+t1059,4 mins,3 mins,24 mins,1 hour 48 mins,31 mins,28 mins,23 mins,8.4 km,7.7 km,9.4 km,8.4 km,8.1 km
+t1060,6 mins,8 mins,7 mins,44 mins,14 mins,11 mins,8 mins,3.0 km,3.1 km,4.1 km,3.3 km,3.3 km
+t1061,4 mins,6 mins,13 mins,1 hour 2 mins,18 mins,17 mins,13 mins,4.9 km,4.5 km,5.9 km,4.7 km,4.6 km
+t1062,2 mins,8 mins,17 mins,1 hour 32 mins,28 mins,24 mins,19 mins,6.3 km,6.7 km,7.2 km,7.0 km,6.7 km
+t1063,6 mins,2 mins,25 mins,1 hour 45 mins,33 mins,30 mins,22 mins,8.4 km,7.5 km,12.1 km,8.2 km,11.2 km
+t1064,2 mins,8 mins,11 mins,59 mins,25 mins,17 mins,13 mins,3.9 km,4.2 km,8.2 km,4.5 km,4.5 km
+t1065,2 mins,5 mins,20 mins,1 hour 25 mins,26 mins,20 mins,19 mins,7.6 km,6.2 km,7.5 km,6.2 km,6.9 km
+t1066,2 mins,8 mins,8 mins,45 mins,12 mins,11 mins,11 mins,3.3 km,3.3 km,4.3 km,3.4 km,3.6 km
+t1067,6 mins,9 mins,23 mins,1 hour 35 mins,32 mins,27 mins,19 mins,7.6 km,6.7 km,9.8 km,7.1 km,6.6 km
+t1068,2 mins,8 mins,17 mins,1 hour 15 mins,29 mins,21 mins,16 mins,6.0 km,5.3 km,10.9 km,5.5 km,5.4 km
+t1069,2 mins,11 mins,21 mins,1 hour 48 mins,40 mins,32 mins,24 mins,7.2 km,7.6 km,10.5 km,8.1 km,7.9 km
+t1070,6 mins,5 mins,19 mins,1 hour 22 mins,29 mins,21 mins,17 mins,6.3 km,5.9 km,7.6 km,6.2 km,5.9 km
+t1071,6 mins,5 mins,7 mins,23 mins,17 mins,7 mins,6 mins,1.8 km,1.6 km,3.6 km,1.8 km,1.8 km
+t1072,6 mins,4 mins,6 mins,25 mins,11 mins,8 mins,6 mins,2.1 km,1.8 km,2.7 km,2.3 km,2.0 km
+t1073,2 mins,4 mins,16 mins,1 hour 24 mins,22 mins,23 mins,18 mins,5.6 km,6.0 km,8.9 km,6.1 km,5.9 km
+t1074,2 mins,6 mins,18 mins,1 hour 28 mins,26 mins,24 mins,20 mins,6.3 km,6.3 km,9.2 km,7.1 km,6.3 km
+t1075,6 mins,3 mins,23 mins,1 hour 51 mins,31 mins,30 mins,23 mins,8.0 km,7.9 km,12.2 km,8.4 km,8.1 km
+t1076,2 mins,4 mins,15 mins,1 hour 11 mins,17 mins,17 mins,15 mins,5.3 km,5.1 km,5.7 km,5.3 km,5.3 km
+t1077,2 mins,4 mins,20 mins,1 hour 24 mins,24 mins,22 mins,19 mins,6.9 km,6.0 km,7.3 km,6.3 km,6.5 km
+t1078,2 mins,5 mins,30 mins,2 hours 25 mins,37 mins,36 mins,29 mins,12.0 km,10.4 km,12.2 km,11.2 km,11.4 km
+t1079,5 mins,4 mins,24 mins,2 hours 15 mins,33 mins,34 mins,24 mins,11.1 km,9.8 km,13.9 km,10.0 km,10.9 km
+t1080,10 mins,2 mins,22 mins,1 hour 47 mins,31 mins,28 mins,22 mins,9.1 km,7.7 km,8.5 km,8.3 km,8.4 km
+t1081,5 mins,3 mins,10 mins,41 mins,14 mins,11 mins,10 mins,3.9 km,2.9 km,3.8 km,3.2 km,3.2 km
+t1082,10 mins,6 mins,11 mins,24 mins,10 mins,6 mins,9 mins,3.8 km,1.7 km,2.0 km,1.7 km,2.8 km
+t1083,9 mins,9 mins,11 mins,50 mins,21 mins,13 mins,10 mins,4.7 km,3.6 km,5.1 km,3.7 km,3.8 km
+t1084,5 mins,6 mins,10 mins,54 mins,16 mins,14 mins,10 mins,3.9 km,3.8 km,4.5 km,4.3 km,4.1 km
+t1085,10 mins,13 mins,17 mins,56 mins,25 mins,15 mins,17 mins,6.9 km,4.1 km,7.8 km,4.2 km,5.3 km
+t1086,10 mins,12 mins,12 mins,49 mins,16 mins,13 mins,11 mins,4.9 km,3.5 km,4.7 km,3.6 km,3.9 km
+t1087,5 mins,7 mins,8 mins,6 mins,6 mins,2 mins,5 mins,2.4 km,0.4 km,0.4 km,0.4 km,1.4 km
+t1088,8 mins,7 mins,12 mins,1 hour 8 mins,16 mins,17 mins,13 mins,5.1 km,5.0 km,4.9 km,5.1 km,5.9 km
+t1089,5 mins,6 mins,17 mins,54 mins,21 mins,14 mins,15 mins,5.6 km,3.9 km,7.8 km,4.2 km,5.5 km
+t1090,8 mins,7 mins,15 mins,52 mins,17 mins,13 mins,14 mins,6.0 km,3.8 km,7.3 km,4.0 km,4.4 km
+t1091,8 mins,9 mins,11 mins,48 mins,20 mins,12 mins,11 mins,4.6 km,3.5 km,7.6 km,3.5 km,3.9 km
+t1092,9 mins,8 mins,6 mins,27 mins,13 mins,8 mins,6 mins,1.9 km,2.0 km,3.2 km,2.2 km,1.9 km
+t1093,10 mins,1 min,7 mins,34 mins,11 mins,8 mins,8 mins,2.2 km,2.5 km,2.5 km,2.5 km,2.5 km
+t1094,5 mins,9 mins,13 mins,48 mins,17 mins,13 mins,9 mins,4.4 km,3.4 km,3.9 km,4.0 km,3.8 km
+t1095,5 mins,3 mins,9 mins,37 mins,17 mins,9 mins,8 mins,2.9 km,2.7 km,3.5 km,2.7 km,2.7 km
+t1096,9 mins,8 mins,18 mins,1 hour 30 mins,36 mins,23 mins,18 mins,7.7 km,6.5 km,7.8 km,6.9 km,6.9 km
+t1097,5 mins,5 mins,13 mins,45 mins,14 mins,12 mins,13 mins,4.3 km,3.3 km,3.5 km,3.6 km,4.3 km
+t1098,10 mins,1 min,11 mins,28 mins,14 mins,8 mins,9 mins,3.5 km,2.0 km,3.0 km,2.6 km,2.8 km
+t1099,9 mins,7 mins,6 mins,13 mins,7 mins,4 mins,4 mins,1.7 km,1.0 km,1.2 km,1.0 km,1.5 km
+t1100,9 mins,9 mins,10 mins,31 mins,13 mins,8 mins,8 mins,3.2 km,2.2 km,2.8 km,2.5 km,2.7 km
+t1101,4 mins,2 mins,24 mins,1 hour 47 mins,41 mins,28 mins,23 mins,8.5 km,7.8 km,11.5 km,8.1 km,8.4 km
+t1102,4 mins,9 mins,21 mins,1 hour 45 mins,44 mins,28 mins,22 mins,8.2 km,7.6 km,9.3 km,8.2 km,9.1 km
+t1103,4 mins,7 mins,18 mins,1 hour 7 mins,30 mins,18 mins,16 mins,6.0 km,4.8 km,7.6 km,5.2 km,5.4 km
+t1104,4 mins,4 mins,10 mins,31 mins,20 mins,9 mins,9 mins,3.3 km,2.3 km,2.5 km,2.9 km,3.1 km
+t1105,4 mins,2 mins,5 mins,23 mins,21 mins,6 mins,5 mins,1.6 km,1.6 km,2.2 km,1.8 km,1.7 km
+t1106,4 mins,6 mins,18 mins,1 hour 22 mins,35 mins,26 mins,21 mins,6.9 km,5.9 km,7.4 km,6.7 km,8.5 km
+t1107,4 mins,6 mins,11 mins,54 mins,25 mins,15 mins,11 mins,4.1 km,3.9 km,8.7 km,4.1 km,4.2 km
+t1108,4 mins,10 mins,18 mins,1 hour 5 mins,18 mins,18 mins,15 mins,5.8 km,4.7 km,5.7 km,4.9 km,5.1 km
+t1109,4 mins,1 min,17 mins,1 hour 20 mins,34 mins,20 mins,17 mins,6.3 km,5.8 km,7.7 km,5.9 km,6.3 km
+t1110,4 mins,4 mins,5 mins,15 mins,7 mins,5 mins,5 mins,1.6 km,1.1 km,1.2 km,1.6 km,1.6 km
+t1111,4 mins,2 mins,12 mins,44 mins,22 mins,12 mins,11 mins,4.1 km,3.2 km,6.0 km,3.7 km,4.0 km
+t1112,4 mins,1 min,13 mins,1 hour 0 mins,17 mins,14 mins,12 mins,4.3 km,4.4 km,5.2 km,4.4 km,4.4 km
+t1113,4 mins,5 mins,13 mins,43 mins,23 mins,14 mins,10 mins,4.5 km,3.1 km,4.2 km,4.0 km,4.0 km
+t1114,4 mins,3 mins,12 mins,57 mins,23 mins,15 mins,12 mins,4.6 km,4.1 km,4.9 km,4.5 km,4.1 km
+t1115,4 mins,10 mins,25 mins,2 hours 17 mins,31 mins,36 mins,27 mins,10.8 km,10.0 km,13.7 km,10.6 km,11.3 km
+t1116,4 mins,1 min,12 mins,53 mins,16 mins,13 mins,11 mins,4.2 km,3.8 km,4.5 km,3.9 km,3.9 km
+t1117,4 mins,11 mins,14 mins,59 mins,26 mins,19 mins,12 mins,4.8 km,4.2 km,7.3 km,4.3 km,4.0 km
+t1118,4 mins,4 mins,14 mins,1 hour 3 mins,29 mins,19 mins,15 mins,5.1 km,4.5 km,6.5 km,5.1 km,5.3 km
+t1119,4 mins,4 mins,9 mins,39 mins,15 mins,11 mins,9 mins,2.8 km,2.8 km,3.3 km,3.1 km,2.8 km
+t1120,8 mins,4 mins,16 mins,1 hour 6 mins,24 mins,17 mins,13 mins,5.8 km,4.8 km,7.3 km,5.4 km,5.2 km
+t1121,4 mins,4 mins,7 mins,18 mins,9 mins,5 mins,6 mins,1.8 km,1.3 km,1.6 km,1.3 km,1.7 km
+t1122,4 mins,2 mins,14 mins,53 mins,23 mins,13 mins,14 mins,4.9 km,3.8 km,7.7 km,3.9 km,5.1 km
+t1123,4 mins,3 mins,10 mins,39 mins,21 mins,11 mins,10 mins,3.4 km,2.8 km,3.7 km,3.5 km,3.4 km
+t1124,4 mins,1 min,8 mins,27 mins,14 mins,8 mins,8 mins,2.5 km,2.0 km,2.7 km,2.4 km,2.8 km
+t1125,4 mins,6 mins,11 mins,50 mins,21 mins,13 mins,12 mins,3.7 km,3.6 km,4.2 km,3.7 km,3.7 km
+t1126,4 mins,3 mins,11 mins,58 mins,20 mins,16 mins,11 mins,4.4 km,4.2 km,4.6 km,4.8 km,4.3 km
+t1127,3 mins,5 mins,12 mins,43 mins,26 mins,12 mins,10 mins,3.9 km,3.1 km,3.6 km,3.4 km,3.4 km
+t1128,6 mins,6 mins,17 mins,1 hour 28 mins,41 mins,26 mins,18 mins,7.2 km,6.4 km,10.9 km,7.5 km,7.9 km
+t1129,3 mins,4 mins,14 mins,1 hour 5 mins,26 mins,17 mins,14 mins,6.3 km,4.7 km,8.5 km,5.4 km,5.7 km
+t1130,6 mins,4 mins,9 mins,31 mins,17 mins,8 mins,9 mins,3.0 km,2.3 km,3.5 km,2.3 km,2.8 km
+t1131,3 mins,4 mins,7 mins,27 mins,15 mins,9 mins,7 mins,2.3 km,2.0 km,2.6 km,2.6 km,2.2 km
+t1132,6 mins,10 mins,15 mins,1 hour 21 mins,30 mins,19 mins,12 mins,6.5 km,5.9 km,8.4 km,5.9 km,6.2 km
+t1133,3 mins,1 min,21 mins,1 hour 35 mins,40 mins,25 mins,21 mins,8.5 km,7.0 km,9.5 km,7.7 km,8.6 km
+t1134,6 mins,9 mins,10 mins,54 mins,20 mins,13 mins,10 mins,4.4 km,3.9 km,4.5 km,4.2 km,4.7 km
+t1135,6 mins,1 min,14 mins,1 hour 20 mins,20 mins,20 mins,14 mins,6.0 km,5.7 km,6.7 km,5.7 km,6.1 km
+t1136,6 mins,5 mins,9 mins,35 mins,14 mins,9 mins,7 mins,3.6 km,2.5 km,2.8 km,2.9 km,3.4 km
+t1137,6 mins,1 min,16 mins,1 hour 28 mins,33 mins,22 mins,16 mins,6.6 km,6.4 km,7.4 km,6.6 km,6.7 km
+t1138,3 mins,3 mins,12 mins,50 mins,23 mins,13 mins,11 mins,4.2 km,3.6 km,3.9 km,3.8 km,4.1 km
+t1139,3 mins,2 mins,21 mins,1 hour 58 mins,44 mins,29 mins,21 mins,8.8 km,8.6 km,9.1 km,8.4 km,8.9 km
+t1140,3 mins,9 mins,11 mins,53 mins,22 mins,14 mins,11 mins,4.6 km,3.8 km,3.8 km,4.1 km,4.9 km
+t1141,6 mins,3 mins,7 mins,25 mins,13 mins,8 mins,7 mins,2.5 km,1.8 km,2.2 km,2.0 km,2.4 km
+t1142,3 mins,7 mins,16 mins,1 hour 12 mins,21 mins,19 mins,18 mins,6.5 km,5.3 km,5.5 km,5.9 km,6.4 km
+t1143,8 mins,5 mins,15 mins,1 hour 6 mins,25 mins,17 mins,15 mins,4.6 km,4.8 km,6.3 km,5.0 km,5.6 km
+t1144,6 mins,1 min,14 mins,1 hour 0 mins,25 mins,15 mins,14 mins,4.5 km,4.4 km,6.0 km,4.5 km,4.6 km
+t1145,8 mins,5 mins,10 mins,41 mins,18 mins,11 mins,14 mins,3.5 km,3.0 km,4.0 km,3.3 km,4.3 km
+t1146,8 mins,2 mins,15 mins,1 hour 10 mins,37 mins,17 mins,15 mins,5.8 km,5.1 km,6.7 km,5.3 km,5.7 km
+t1147,8 mins,5 mins,18 mins,1 hour 25 mins,25 mins,23 mins,18 mins,6.8 km,6.2 km,6.4 km,6.7 km,6.8 km
+t1148,8 mins,3 mins,16 mins,1 hour 1 min,16 mins,17 mins,14 mins,5.4 km,4.4 km,5.6 km,4.6 km,4.9 km
+t1149,8 mins,5 mins,8 mins,29 mins,17 mins,7 mins,5 mins,2.9 km,2.1 km,2.4 km,2.2 km,2.1 km
+t1150,5 mins,5 mins,9 mins,32 mins,9 mins,9 mins,8 mins,3.2 km,2.3 km,2.5 km,2.3 km,3.1 km
+t1151,6 mins,6 mins,1 min,8 mins,8 mins,2 mins,2 mins,0.3 km,0.6 km,0.6 km,0.6 km,0.6 km
+t1152,8 mins,7 mins,19 mins,1 hour 36 mins,31 mins,27 mins,21 mins,7.7 km,6.9 km,7.7 km,7.6 km,7.7 km
+t1153,8 mins,9 mins,14 mins,54 mins,19 mins,15 mins,13 mins,4.4 km,3.9 km,5.0 km,4.2 km,4.5 km
+t1154,6 mins,3 mins,9 mins,34 mins,16 mins,8 mins,8 mins,2.3 km,2.4 km,4.0 km,2.4 km,2.4 km
+t1155,6 mins,2 mins,13 mins,49 mins,26 mins,11 mins,12 mins,4.8 km,3.6 km,7.5 km,3.6 km,4.4 km
+t1156,5 mins,6 mins,8 mins,31 mins,10 mins,8 mins,6 mins,2.6 km,2.3 km,2.6 km,2.3 km,2.3 km
+t1157,6 mins,7 mins,6 mins,24 mins,20 mins,6 mins,7 mins,1.4 km,1.8 km,2.4 km,2.2 km,2.2 km
+t1158,5 mins,2 mins,14 mins,1 hour 3 mins,22 mins,18 mins,14 mins,4.8 km,4.5 km,6.9 km,5.7 km,6.0 km
+t1159,6 mins,6 mins,12 mins,38 mins,18 mins,9 mins,9 mins,3.6 km,2.8 km,3.1 km,2.7 km,2.7 km
+t1160,6 mins,3 mins,15 mins,55 mins,23 mins,13 mins,12 mins,5.2 km,4.0 km,4.2 km,3.9 km,3.9 km
+t1161,7 mins,5 mins,13 mins,57 mins,30 mins,14 mins,13 mins,4.2 km,4.1 km,6.0 km,4.4 km,4.7 km
+t1162,8 mins,7 mins,13 mins,37 mins,26 mins,11 mins,10 mins,3.5 km,2.7 km,4.2 km,3.2 km,3.0 km
+t1163,6 mins,2 mins,16 mins,1 hour 8 mins,28 mins,16 mins,13 mins,6.3 km,4.9 km,6.2 km,5.0 km,5.5 km
+t1164,7 mins,6 mins,12 mins,22 mins,14 mins,7 mins,6 mins,3.8 km,1.6 km,2.0 km,2.0 km,2.0 km
+t1165,9 mins,15 mins,14 mins,46 mins,25 mins,13 mins,12 mins,5.1 km,3.3 km,4.6 km,3.7 km,3.9 km
+t1166,4 mins,9 mins,8 mins,27 mins,14 mins,8 mins,7 mins,2.2 km,1.9 km,2.4 km,2.3 km,2.5 km
+t1167,8 mins,9 mins,13 mins,1 hour 10 mins,30 mins,18 mins,18 mins,4.8 km,5.0 km,5.8 km,5.4 km,6.2 km
+t1168,3 mins,7 mins,19 mins,1 hour 13 mins,30 mins,20 mins,15 mins,6.5 km,5.2 km,6.7 km,5.6 km,5.6 km
+t1169,9 mins,4 mins,11 mins,1 hour 8 mins,25 mins,19 mins,13 mins,4.8 km,4.8 km,5.2 km,5.5 km,5.5 km
+t1170,7 mins,4 mins,11 mins,12 mins,6 mins,3 mins,3 mins,3.3 km,0.9 km,1.1 km,0.9 km,0.9 km
+t1171,6 mins,3 mins,13 mins,53 mins,29 mins,14 mins,11 mins,4.5 km,3.8 km,5.6 km,4.0 km,4.3 km
+t1172,9 mins,5 mins,14 mins,38 mins,23 mins,9 mins,8 mins,4.8 km,2.7 km,3.2 km,2.7 km,2.8 km
+t1173,8 mins,6 mins,15 mins,1 hour 4 mins,22 mins,18 mins,14 mins,4.9 km,4.6 km,4.5 km,5.0 km,5.1 km
+t1174,8 mins,11 mins,5 mins,21 mins,13 mins,5 mins,6 mins,1.1 km,1.6 km,1.6 km,1.6 km,1.9 km
+t1175,3 mins,1 min,16 mins,1 hour 9 mins,28 mins,18 mins,16 mins,5.0 km,5.0 km,5.9 km,5.2 km,6.1 km
+t1176,4 mins,2 mins,17 mins,1 hour 21 mins,29 mins,21 mins,18 mins,7.3 km,6.0 km,8.3 km,6.4 km,6.8 km
+t1177,8 mins,3 mins,9 mins,33 mins,23 mins,10 mins,8 mins,2.5 km,2.4 km,3.7 km,2.4 km,2.4 km
+t1178,4 mins,7 mins,16 mins,1 hour 7 mins,23 mins,17 mins,13 mins,6.7 km,4.9 km,5.2 km,5.1 km,4.8 km
+t1179,9 mins,8 mins,9 mins,47 mins,13 mins,13 mins,13 mins,2.9 km,3.4 km,3.9 km,3.7 km,4.0 km
+t1180,4 mins,9 mins,10 mins,34 mins,12 mins,11 mins,8 mins,3.0 km,2.4 km,2.6 km,3.2 km,2.8 km
+t1181,3 mins,4 mins,10 mins,5 mins,5 mins,2 mins,3 mins,3.0 km,0.4 km,0.4 km,0.6 km,0.6 km
+t1182,8 mins,6 mins,22 mins,1 hour 42 mins,42 mins,26 mins,22 mins,8.4 km,7.4 km,9.0 km,7.8 km,7.8 km
+t1183,1 min,3 mins,9 mins,41 mins,20 mins,12 mins,9 mins,3.1 km,3.0 km,5.5 km,3.2 km,3.2 km
+t1184,7 mins,5 mins,6 mins,26 mins,12 mins,6 mins,6 mins,1.9 km,1.8 km,2.0 km,1.9 km,1.9 km
+t1185,7 mins,8 mins,7 mins,16 mins,9 mins,5 mins,4 mins,1.7 km,1.2 km,1.4 km,1.3 km,1.2 km
+t1186,4 mins,8 mins,10 mins,44 mins,26 mins,10 mins,11 mins,3.6 km,3.2 km,6.4 km,3.3 km,4.1 km
+t1187,7 mins,4 mins,10 mins,36 mins,17 mins,9 mins,8 mins,3.4 km,2.6 km,3.0 km,2.7 km,2.7 km
+t1188,1 min,1 min,16 mins,1 hour 14 mins,26 mins,19 mins,16 mins,5.5 km,5.3 km,5.8 km,5.5 km,5.5 km
+t1189,4 mins,6 mins,8 mins,35 mins,22 mins,10 mins,8 mins,2.6 km,2.5 km,3.4 km,2.9 km,2.9 km
+t1190,1 min,2 mins,12 mins,46 mins,17 mins,12 mins,11 mins,4.6 km,3.4 km,6.5 km,3.7 km,3.6 km
+t1191,7 mins,11 mins,14 mins,1 hour 3 mins,26 mins,16 mins,13 mins,4.8 km,4.6 km,5.2 km,4.6 km,4.6 km
+t1192,4 mins,12 mins,9 mins,38 mins,17 mins,10 mins,9 mins,2.9 km,2.7 km,3.3 km,2.9 km,3.1 km
+t1193,1 min,4 mins,7 mins,26 mins,14 mins,7 mins,7 mins,2.4 km,1.9 km,2.3 km,2.0 km,2.6 km
+t1194,1 min,4 mins,14 mins,1 hour 19 mins,26 mins,19 mins,15 mins,5.8 km,5.7 km,8.1 km,5.7 km,5.7 km
+t1195,7 mins,3 mins,17 mins,1 hour 21 mins,28 mins,22 mins,16 mins,6.3 km,5.9 km,6.1 km,6.4 km,6.1 km
+t1196,7 mins,6 mins,9 mins,43 mins,26 mins,10 mins,11 mins,3.0 km,3.1 km,4.8 km,3.1 km,4.4 km
+t1197,7 mins,6 mins,9 mins,30 mins,16 mins,7 mins,11 mins,2.8 km,2.2 km,3.1 km,2.2 km,3.6 km
+t1198,7 mins,2 mins,15 mins,1 hour 13 mins,32 mins,21 mins,16 mins,5.0 km,5.2 km,9.2 km,5.7 km,5.6 km
+t1199,7 mins,6 mins,11 mins,49 mins,20 mins,13 mins,10 mins,3.8 km,3.6 km,3.8 km,3.6 km,3.6 km
+t1200,7 mins,5 mins,8 mins,44 mins,19 mins,12 mins,10 mins,2.7 km,3.1 km,3.8 km,3.6 km,3.7 km
+t1201,7 mins,5 mins,7 mins,29 mins,13 mins,8 mins,7 mins,2.4 km,2.1 km,2.3 km,2.1 km,2.1 km
+t1202,6 mins,4 mins,15 mins,1 hour 5 mins,21 mins,17 mins,14 mins,5.6 km,4.6 km,4.8 km,5.0 km,5.0 km
+t1203,7 mins,10 mins,8 mins,22 mins,15 mins,5 mins,11 mins,2.5 km,1.6 km,1.7 km,1.6 km,3.7 km
+t1204,4 mins,6 mins,9 mins,29 mins,13 mins,8 mins,9 mins,2.7 km,2.1 km,2.2 km,2.3 km,2.4 km
+t1205,5 mins,4 mins,8 mins,25 mins,16 mins,8 mins,9 mins,2.3 km,1.8 km,2.1 km,2.2 km,2.3 km
+t1206,7 mins,6 mins,13 mins,52 mins,25 mins,15 mins,13 mins,4.7 km,3.8 km,5.6 km,4.4 km,4.6 km
+t1207,11 mins,10 mins,13 mins,1 hour 0 mins,31 mins,15 mins,12 mins,4.6 km,4.4 km,5.5 km,4.5 km,4.8 km
+t1208,7 mins,1 min,19 mins,1 hour 9 mins,25 mins,18 mins,21 mins,6.9 km,4.9 km,5.7 km,5.0 km,6.6 km
+t1209,4 mins,3 mins,15 mins,1 hour 10 mins,25 mins,19 mins,16 mins,5.2 km,5.0 km,7.3 km,6.0 km,5.0 km
+t1210,4 mins,6 mins,13 mins,51 mins,28 mins,13 mins,11 mins,4.3 km,3.7 km,5.0 km,3.8 km,3.8 km
+t1211,6 mins,3 mins,15 mins,1 hour 0 mins,28 mins,16 mins,17 mins,4.7 km,4.3 km,6.3 km,4.8 km,5.2 km
+t1212,11 mins,2 mins,18 mins,1 hour 37 mins,26 mins,26 mins,20 mins,7.1 km,7.1 km,7.3 km,7.8 km,7.9 km
+t1213,4 mins,2 mins,17 mins,1 hour 24 mins,35 mins,21 mins,19 mins,6.5 km,6.2 km,7.5 km,6.4 km,7.0 km
+t1214,7 mins,4 mins,10 mins,29 mins,13 mins,7 mins,11 mins,2.7 km,2.1 km,2.2 km,2.1 km,3.7 km
+t1215,5 mins,4 mins,13 mins,38 mins,21 mins,12 mins,18 mins,4.0 km,2.7 km,3.2 km,3.3 km,6.2 km
+t1216,5 mins,5 mins,12 mins,42 mins,22 mins,11 mins,12 mins,3.6 km,3.0 km,5.3 km,3.5 km,3.6 km
+t1217,4 mins,7 mins,9 mins,27 mins,22 mins,7 mins,7 mins,2.2 km,2.0 km,3.0 km,2.2 km,2.2 km
+t1218,4 mins,5 mins,11 mins,46 mins,22 mins,12 mins,10 mins,3.9 km,3.3 km,3.7 km,3.3 km,3.4 km
+t1219,5 mins,4 mins,17 mins,1 hour 18 mins,32 mins,20 mins,17 mins,5.9 km,5.6 km,7.7 km,6.1 km,6.0 km
+t1220,4 mins,14 mins,14 mins,39 mins,20 mins,10 mins,11 mins,4.5 km,2.8 km,3.1 km,2.9 km,3.4 km
+t1221,11 mins,3 mins,20 mins,1 hour 14 mins,30 mins,20 mins,18 mins,6.4 km,5.4 km,5.7 km,5.5 km,6.0 km
+t1222,4 mins,3 mins,14 mins,56 mins,31 mins,14 mins,15 mins,4.9 km,4.0 km,6.0 km,4.3 km,5.7 km
+t1223,4 mins,7 mins,13 mins,35 mins,16 mins,10 mins,12 mins,4.1 km,2.5 km,4.3 km,2.6 km,3.9 km
+t1224,11 mins,6 mins,16 mins,1 hour 17 mins,25 mins,21 mins,17 mins,5.3 km,5.6 km,8.6 km,6.0 km,6.3 km
+t1225,6 mins,4 mins,11 mins,45 mins,33 mins,11 mins,9 mins,3.8 km,3.2 km,5.8 km,3.3 km,3.4 km
+t1226,4 mins,6 mins,23 mins,1 hour 46 mins,40 mins,27 mins,22 mins,8.8 km,7.6 km,9.1 km,8.0 km,8.0 km
+t1227,4 mins,6 mins,15 mins,1 hour 10 mins,22 mins,18 mins,15 mins,5.6 km,5.0 km,5.3 km,5.1 km,5.4 km
+t1228,1 min,4 mins,15 mins,1 hour 1 min,26 mins,16 mins,15 mins,5.0 km,4.5 km,7.8 km,4.5 km,4.9 km
+t1229,1 min,4 mins,12 mins,54 mins,25 mins,14 mins,14 mins,3.7 km,3.9 km,7.4 km,3.9 km,4.3 km
+t1230,4 mins,1 min,17 mins,1 hour 22 mins,27 mins,23 mins,18 mins,6.5 km,6.0 km,8.9 km,6.5 km,6.9 km
+t1231,1 min,3 mins,20 mins,1 hour 39 mins,29 mins,28 mins,20 mins,8.5 km,7.2 km,9.8 km,8.1 km,8.2 km
+t1232,1 min,8 mins,7 mins,13 mins,7 mins,3 mins,3 mins,2.3 km,0.9 km,1.2 km,0.9 km,0.9 km
+t1233,5 mins,8 mins,16 mins,1 hour 3 mins,29 mins,17 mins,16 mins,5.1 km,4.6 km,5.7 km,5.4 km,5.1 km
+t1234,4 mins,10 mins,8 mins,38 mins,12 mins,11 mins,10 mins,2.7 km,2.7 km,3.8 km,2.9 km,3.0 km
+t1235,4 mins,4 mins,13 mins,1 hour 8 mins,29 mins,19 mins,17 mins,4.3 km,4.9 km,7.2 km,4.9 km,5.3 km
+t1236,1 min,1 min,20 mins,1 hour 30 mins,40 mins,24 mins,20 mins,6.8 km,6.5 km,8.7 km,6.8 km,6.8 km
+t1237,5 mins,7 mins,16 mins,58 mins,29 mins,18 mins,16 mins,5.3 km,4.2 km,8.4 km,4.8 km,6.0 km
+t1238,1 min,5 mins,4 mins,15 mins,9 mins,4 mins,5 mins,1.1 km,1.1 km,1.6 km,1.3 km,1.4 km
+t1239,5 mins,6 mins,10 mins,49 mins,24 mins,15 mins,14 mins,3.4 km,3.6 km,7.1 km,3.8 km,4.3 km
+t1240,4 mins,6 mins,10 mins,44 mins,22 mins,13 mins,11 mins,3.8 km,3.2 km,7.2 km,3.6 km,3.5 km
+t1241,4 mins,5 mins,8 mins,30 mins,13 mins,10 mins,8 mins,3.0 km,2.1 km,2.8 km,2.9 km,2.9 km
+t1242,4 mins,8 mins,1 min,9 mins,9 mins,2 mins,2 mins,0.1 km,0.6 km,0.6 km,0.5 km,0.5 km
+t1243,5 mins,9 mins,12 mins,49 mins,27 mins,14 mins,12 mins,4.1 km,3.6 km,6.5 km,3.9 km,4.4 km
+t1244,3 mins,4 mins,16 mins,1 hour 13 mins,24 mins,21 mins,15 mins,7.0 km,5.3 km,6.5 km,6.5 km,6.7 km
+t1245,5 mins,14 mins,12 mins,36 mins,19 mins,9 mins,10 mins,3.1 km,2.6 km,2.7 km,2.7 km,3.3 km
+t1246,3 mins,7 mins,15 mins,1 hour 11 mins,28 mins,20 mins,17 mins,5.0 km,5.1 km,5.7 km,5.8 km,5.6 km
+t1247,5 mins,4 mins,17 mins,1 hour 30 mins,28 mins,24 mins,17 mins,6.8 km,6.5 km,7.7 km,7.0 km,7.0 km
+t1248,5 mins,2 mins,11 mins,33 mins,16 mins,8 mins,9 mins,3.5 km,2.4 km,2.5 km,2.5 km,3.2 km
+t1249,5 mins,5 mins,10 mins,35 mins,14 mins,11 mins,9 mins,2.9 km,2.5 km,3.1 km,3.4 km,3.0 km
+t1250,3 mins,9 mins,13 mins,47 mins,29 mins,13 mins,12 mins,4.0 km,3.3 km,4.1 km,3.8 km,3.6 km
+t1251,3 mins,8 mins,11 mins,32 mins,16 mins,8 mins,10 mins,5.1 km,2.3 km,2.6 km,2.4 km,3.0 km
+t1252,5 mins,8 mins,11 mins,27 mins,18 mins,7 mins,7 mins,3.1 km,1.9 km,2.6 km,2.0 km,2.1 km
+t1253,5 mins,6 mins,2 mins,4 mins,4 mins,1 min,1 min,0.4 km,0.3 km,0.3 km,0.3 km,0.2 km
+t1254,5 mins,11 mins,4 mins,17 mins,13 mins,4 mins,5 mins,0.8 km,1.3 km,1.7 km,1.3 km,1.3 km
+t1255,3 mins,4 mins,16 mins,1 hour 2 mins,27 mins,17 mins,15 mins,5.4 km,4.5 km,5.6 km,5.0 km,5.1 km
+t1256,5 mins,3 mins,10 mins,35 mins,18 mins,9 mins,10 mins,3.9 km,2.5 km,2.8 km,2.7 km,3.2 km
+t1257,3 mins,5 mins,13 mins,47 mins,24 mins,12 mins,12 mins,4.3 km,3.4 km,4.8 km,3.9 km,3.9 km
+t1258,6 mins,4 mins,10 mins,31 mins,15 mins,9 mins,9 mins,3.3 km,2.3 km,4.0 km,2.8 km,3.5 km
+t1259,6 mins,3 mins,8 mins,26 mins,14 mins,6 mins,8 mins,2.5 km,1.8 km,2.0 km,1.9 km,2.8 km
+t1260,2 mins,7 mins,14 mins,55 mins,25 mins,15 mins,13 mins,4.3 km,4.0 km,4.5 km,4.4 km,5.5 km
+t1261,3 mins,6 mins,5 mins,20 mins,13 mins,5 mins,4 mins,1.7 km,1.4 km,1.7 km,1.4 km,1.4 km
+t1262,2 mins,8 mins,12 mins,26 mins,14 mins,6 mins,8 mins,3.8 km,1.9 km,2.2 km,2.1 km,2.6 km
+t1263,6 mins,11 mins,13 mins,40 mins,18 mins,12 mins,11 mins,3.9 km,2.9 km,3.3 km,3.3 km,3.5 km
+t1264,2 mins,2 mins,14 mins,50 mins,25 mins,13 mins,13 mins,4.4 km,3.6 km,4.2 km,3.7 km,4.2 km
+t1265,2 mins,4 mins,15 mins,56 mins,26 mins,16 mins,12 mins,5.0 km,4.0 km,5.4 km,4.4 km,4.4 km
+t1266,3 mins,4 mins,17 mins,1 hour 7 mins,20 mins,17 mins,14 mins,6.2 km,4.7 km,4.9 km,4.8 km,6.5 km
+t1267,2 mins,13 mins,20 mins,1 hour 53 mins,31 mins,28 mins,22 mins,8.5 km,8.3 km,8.8 km,8.3 km,9.1 km
+t1268,4 mins,3 mins,18 mins,1 hour 21 mins,26 mins,21 mins,18 mins,6.2 km,5.8 km,6.3 km,6.1 km,6.2 km
+t1269,6 mins,7 mins,13 mins,35 mins,18 mins,9 mins,9 mins,4.0 km,2.5 km,2.6 km,2.6 km,3.2 km
+t1270,2 mins,7 mins,12 mins,34 mins,19 mins,10 mins,9 mins,3.7 km,2.4 km,3.4 km,2.7 km,2.8 km
+t1271,3 mins,8 mins,17 mins,49 mins,22 mins,12 mins,17 mins,5.2 km,3.6 km,5.0 km,3.6 km,5.9 km
+t1272,6 mins,7 mins,14 mins,46 mins,27 mins,12 mins,9 mins,4.8 km,3.3 km,4.6 km,3.4 km,3.6 km
+t1273,2 mins,6 mins,11 mins,34 mins,17 mins,10 mins,9 mins,3.2 km,2.5 km,3.3 km,2.8 km,3.0 km
+t1274,2 mins,7 mins,12 mins,29 mins,20 mins,8 mins,10 mins,3.4 km,2.1 km,2.8 km,2.4 km,2.6 km
+t1275,2 mins,4 mins,3 mins,3 mins,3 mins,1 min,1 min,0.6 km,0.2 km,0.2 km,0.2 km,0.2 km
+t1276,6 mins,6 mins,17 mins,1 hour 25 mins,22 mins,24 mins,16 mins,6.7 km,6.3 km,6.3 km,6.8 km,7.0 km
+t1277,6 mins,2 mins,9 mins,31 mins,14 mins,7 mins,10 mins,3.1 km,2.2 km,2.2 km,2.2 km,3.4 km
+t1278,3 mins,5 mins,17 mins,1 hour 2 mins,29 mins,17 mins,14 mins,5.6 km,4.5 km,6.8 km,4.9 km,5.1 km
+t1279,2 mins,3 mins,17 mins,1 hour 0 mins,28 mins,16 mins,17 mins,5.7 km,4.3 km,6.3 km,4.8 km,5.2 km
+t1280,6 mins,3 mins,9 mins,31 mins,21 mins,9 mins,7 mins,2.5 km,2.2 km,3.1 km,2.3 km,2.2 km
+t1281,6 mins,6 mins,12 mins,50 mins,28 mins,14 mins,12 mins,3.6 km,3.6 km,4.6 km,3.6 km,5.1 km
+t1282,4 mins,1 min,20 mins,1 hour 30 mins,34 mins,23 mins,20 mins,8.4 km,6.5 km,10.0 km,6.8 km,7.1 km
+t1283,4 mins,7 mins,12 mins,44 mins,20 mins,11 mins,11 mins,4.0 km,3.2 km,7.8 km,3.3 km,3.7 km
+t1284,4 mins,3 mins,16 mins,1 hour 14 mins,26 mins,19 mins,15 mins,5.3 km,5.3 km,5.4 km,5.3 km,5.3 km
+t1285,4 mins,5 mins,16 mins,1 hour 3 mins,29 mins,17 mins,14 mins,6.0 km,4.6 km,6.1 km,5.0 km,5.2 km
+t1286,4 mins,7 mins,15 mins,48 mins,21 mins,14 mins,13 mins,4.8 km,3.4 km,6.2 km,3.9 km,4.2 km
+t1287,4 mins,6 mins,17 mins,1 hour 17 mins,21 mins,21 mins,17 mins,6.2 km,5.5 km,5.5 km,5.9 km,6.3 km
+t1288,4 mins,2 mins,11 mins,54 mins,19 mins,17 mins,10 mins,4.3 km,3.9 km,4.5 km,5.0 km,4.0 km
+t1289,4 mins,4 mins,6 mins,19 mins,11 mins,5 mins,8 mins,1.5 km,1.4 km,1.6 km,1.4 km,2.3 km
+t1290,4 mins,6 mins,6 mins,28 mins,11 mins,7 mins,7 mins,1.9 km,2.1 km,2.6 km,2.0 km,2.1 km
+t1291,4 mins,4 mins,9 mins,27 mins,9 mins,7 mins,7 mins,2.5 km,2.0 km,2.4 km,1.9 km,1.9 km
+t1292,4 mins,2 mins,16 mins,54 mins,21 mins,15 mins,15 mins,5.5 km,4.0 km,7.4 km,4.2 km,5.1 km
+t1293,4 mins,7 mins,13 mins,1 hour 13 mins,24 mins,19 mins,13 mins,5.9 km,5.2 km,6.9 km,5.6 km,5.2 km
+t1294,4 mins,8 mins,16 mins,1 hour 5 mins,29 mins,17 mins,15 mins,5.3 km,4.7 km,5.1 km,4.9 km,4.8 km
+t1295,4 mins,4 mins,9 mins,39 mins,19 mins,11 mins,10 mins,2.9 km,2.8 km,5.0 km,2.9 km,3.2 km
+t1296,4 mins,1 min,13 mins,1 hour 6 mins,17 mins,16 mins,11 mins,5.4 km,4.8 km,5.7 km,4.9 km,5.1 km
+t1297,4 mins,12 mins,22 mins,2 hours 10 mins,33 mins,33 mins,25 mins,9.7 km,9.5 km,10.1 km,9.9 km,10.9 km
+t1298,9 mins,1 min,24 mins,2 hours 2 mins,44 mins,34 mins,26 mins,10.2 km,8.8 km,10.3 km,9.7 km,10.7 km
+t1299,6 mins,5 mins,9 mins,56 mins,26 mins,13 mins,10 mins,4.7 km,4.1 km,5.9 km,4.0 km,4.1 km
+t1300,2 mins,5 mins,15 mins,1 hour 2 mins,25 mins,16 mins,13 mins,5.0 km,4.5 km,4.9 km,4.5 km,4.6 km
+t1301,9 mins,6 mins,9 mins,30 mins,13 mins,9 mins,9 mins,2.8 km,2.2 km,3.2 km,2.5 km,2.4 km
+t1302,6 mins,4 mins,6 mins,16 mins,16 mins,4 mins,4 mins,1.9 km,1.2 km,1.2 km,1.2 km,1.2 km
+t1303,9 mins,9 mins,16 mins,1 hour 4 mins,20 mins,19 mins,14 mins,5.0 km,4.6 km,4.7 km,5.6 km,5.6 km
+t1304,2 mins,5 mins,15 mins,1 hour 11 mins,29 mins,18 mins,15 mins,6.0 km,5.2 km,9.1 km,5.4 km,5.8 km
+t1305,7 mins,6 mins,8 mins,44 mins,21 mins,11 mins,11 mins,3.0 km,3.2 km,3.4 km,3.2 km,3.8 km
+t1306,2 mins,5 mins,8 mins,46 mins,15 mins,12 mins,9 mins,3.0 km,3.3 km,5.8 km,3.4 km,3.4 km
+t1307,9 mins,6 mins,14 mins,56 mins,18 mins,15 mins,12 mins,4.4 km,4.0 km,5.8 km,4.1 km,4.3 km
+t1308,2 mins,5 mins,21 mins,2 hours 0 mins,37 mins,32 mins,22 mins,9.3 km,8.6 km,13.4 km,9.3 km,9.5 km
+t1309,2 mins,8 mins,14 mins,59 mins,21 mins,17 mins,13 mins,4.7 km,4.2 km,7.8 km,4.7 km,4.8 km
+t1310,2 mins,3 mins,6 mins,18 mins,13 mins,7 mins,5 mins,2.2 km,1.3 km,1.9 km,2.1 km,2.1 km
+t1311,2 mins,4 mins,8 mins,32 mins,13 mins,9 mins,8 mins,3.0 km,2.3 km,3.9 km,2.8 km,2.7 km
+t1312,7 mins,6 mins,13 mins,55 mins,24 mins,13 mins,13 mins,4.8 km,4.0 km,8.0 km,4.2 km,4.9 km
+t1313,9 mins,7 mins,10 mins,59 mins,28 mins,16 mins,12 mins,3.7 km,4.3 km,5.3 km,5.0 km,4.5 km
+t1314,9 mins,4 mins,22 mins,1 hour 56 mins,39 mins,31 mins,24 mins,8.3 km,8.4 km,11.6 km,9.2 km,9.5 km
+t1315,9 mins,7 mins,18 mins,1 hour 15 mins,24 mins,20 mins,18 mins,5.9 km,5.5 km,7.4 km,5.7 km,6.2 km
+t1316,9 mins,4 mins,19 mins,1 hour 18 mins,19 mins,21 mins,20 mins,6.8 km,5.7 km,6.3 km,6.0 km,8.4 km
+t1317,2 mins,7 mins,16 mins,1 hour 3 mins,23 mins,18 mins,17 mins,5.4 km,4.5 km,8.0 km,5.1 km,6.2 km
+t1318,2 mins,7 mins,1 min,10 mins,9 mins,3 mins,2 mins,0.3 km,0.8 km,1.3 km,0.8 km,0.8 km
+t1319,3 mins,5 mins,12 mins,1 hour 11 mins,28 mins,20 mins,15 mins,5.2 km,5.2 km,6.7 km,6.4 km,6.7 km
+t1320,12 mins,7 mins,18 mins,1 hour 42 mins,32 mins,30 mins,17 mins,7.6 km,7.4 km,10.4 km,8.3 km,8.1 km
+t1321,12 mins,2 mins,12 mins,1 hour 4 mins,29 mins,19 mins,11 mins,5.0 km,4.6 km,9.3 km,5.5 km,4.8 km
+t1322,10 mins,2 mins,11 mins,1 hour 6 mins,19 mins,19 mins,14 mins,4.9 km,4.8 km,4.9 km,5.9 km,7.2 km
+t1323,12 mins,13 mins,15 mins,1 hour 33 mins,24 mins,26 mins,19 mins,6.4 km,6.7 km,7.1 km,8.1 km,9.9 km
+t1324,10 mins,5 mins,28 mins,2 hours 47 mins,36 mins,43 mins,29 mins,34.1 km,12.0 km,14.9 km,13.3 km,34.1 km
+t1325,10 mins,1 min,17 mins,1 hour 38 mins,29 mins,30 mins,17 mins,7.3 km,7.1 km,10.2 km,8.4 km,8.0 km
+t1326,12 mins,4 mins,10 mins,1 hour 8 mins,21 mins,19 mins,10 mins,4.9 km,5.0 km,5.1 km,5.8 km,4.9 km
+t1327,5 mins,10 mins,22 mins,1 hour 36 mins,26 mins,24 mins,19 mins,8.5 km,6.9 km,9.3 km,7.6 km,7.6 km
+t1328,10 mins,8 mins,10 mins,54 mins,23 mins,17 mins,16 mins,4.2 km,4.0 km,4.6 km,5.0 km,5.6 km
+t1329,5 mins,4 mins,19 mins,1 hour 53 mins,25 mins,31 mins,21 mins,8.7 km,8.2 km,11.1 km,9.4 km,9.3 km
+t1330,12 mins,5 mins,25 mins,2 hours 13 mins,32 mins,36 mins,30 mins,10.0 km,9.6 km,9.8 km,10.8 km,13.4 km
+t1331,12 mins,4 mins,23 mins,2 hours 11 mins,34 mins,34 mins,23 mins,9.7 km,9.5 km,10.2 km,10.4 km,10.0 km
+t1332,12 mins,9 mins,17 mins,1 hour 50 mins,30 mins,32 mins,21 mins,7.7 km,8.0 km,11.9 km,9.3 km,8.9 km
+t1333,12 mins,2 mins,27 mins,2 hours 24 mins,29 mins,37 mins,30 mins,11.4 km,10.4 km,11.2 km,11.9 km,14.0 km
+t1334,10 mins,4 mins,14 mins,1 hour 3 mins,19 mins,20 mins,18 mins,5.3 km,4.6 km,6.4 km,6.0 km,6.0 km
+t1335,5 mins,3 mins,15 mins,1 hour 30 mins,37 mins,24 mins,16 mins,7.5 km,6.6 km,8.8 km,6.8 km,7.8 km
+t1336,12 mins,8 mins,24 mins,2 hours 18 mins,34 mins,35 mins,24 mins,11.1 km,10.0 km,13.5 km,10.9 km,10.2 km
+t1337,12 mins,3 mins,19 mins,2 hours 41 mins,38 mins,45 mins,20 mins,21.3 km,11.7 km,13.8 km,13.2 km,21.0 km
+t1338,4 mins,4 mins,20 mins,1 hour 49 mins,35 mins,30 mins,20 mins,8.6 km,7.9 km,12.3 km,8.6 km,8.7 km
+t1339,3 mins,5 mins,14 mins,1 hour 23 mins,28 mins,24 mins,18 mins,6.2 km,6.1 km,8.0 km,7.2 km,9.6 km
+t1340,12 mins,5 mins,27 mins,2 hours 17 mins,32 mins,36 mins,28 mins,11.2 km,9.9 km,12.4 km,11.4 km,13.3 km
+t1341,12 mins,5 mins,6 mins,38 mins,15 mins,12 mins,10 mins,2.8 km,2.7 km,3.3 km,3.6 km,4.2 km
+t1342,10 mins,3 mins,20 mins,2 hours 35 mins,32 mins,44 mins,21 mins,21.7 km,11.3 km,13.4 km,13.1 km,21.5 km
+t1343,3 mins,4 mins,22 mins,1 hour 50 mins,35 mins,30 mins,24 mins,8.5 km,8.0 km,9.2 km,9.2 km,9.2 km
+t1344,5 mins,8 mins,24 mins,2 hours 0 mins,42 mins,29 mins,23 mins,9.7 km,8.7 km,11.6 km,9.1 km,9.5 km
+t1345,12 mins,4 mins,17 mins,1 hour 21 mins,23 mins,22 mins,17 mins,7.0 km,5.9 km,8.3 km,6.7 km,7.7 km
+t1346,10 mins,4 mins,20 mins,1 hour 54 mins,26 mins,33 mins,22 mins,8.5 km,8.3 km,10.7 km,9.9 km,9.6 km
+t1347,10 mins,8 mins,25 mins,2 hours 20 mins,32 mins,40 mins,26 mins,10.8 km,10.2 km,13.0 km,11.7 km,11.7 km
+t1348,4 mins,4 mins,26 mins,2 hours 16 mins,30 mins,32 mins,24 mins,11.0 km,9.8 km,10.8 km,10.2 km,10.6 km
+t1349,4 mins,4 mins,25 mins,2 hours 12 mins,37 mins,34 mins,25 mins,10.1 km,9.6 km,11.8 km,10.3 km,10.0 km
+t1350,12 mins,6 mins,17 mins,1 hour 32 mins,23 mins,25 mins,21 mins,7.0 km,6.7 km,8.3 km,7.6 km,7.5 km
+t1351,4 mins,2 mins,23 mins,1 hour 58 mins,36 mins,29 mins,22 mins,9.4 km,8.5 km,11.2 km,9.1 km,9.1 km
+t1352,14 mins,7 mins,22 mins,2 hours 18 mins,39 mins,39 mins,22 mins,9.8 km,10.0 km,14.0 km,11.3 km,20.4 km
+t1353,4 mins,7 mins,24 mins,1 hour 55 mins,33 mins,27 mins,20 mins,9.5 km,8.3 km,11.0 km,8.6 km,8.6 km
+t1354,7 mins,5 mins,20 mins,1 hour 51 mins,36 mins,30 mins,19 mins,9.3 km,8.1 km,12.9 km,9.1 km,9.2 km
+t1355,9 mins,8 mins,28 mins,2 hours 19 mins,34 mins,35 mins,25 mins,12.0 km,10.1 km,13.6 km,10.8 km,10.6 km
+t1356,9 mins,7 mins,29 mins,2 hours 19 mins,37 mins,35 mins,26 mins,11.3 km,10.1 km,13.7 km,10.8 km,10.8 km
+t1357,7 mins,3 mins,23 mins,2 hours 10 mins,27 mins,35 mins,23 mins,10.6 km,9.4 km,12.2 km,10.3 km,11.0 km
+t1358,9 mins,5 mins,27 mins,2 hours 13 mins,31 mins,34 mins,25 mins,10.4 km,9.6 km,9.8 km,10.4 km,10.3 km
+t1359,9 mins,1 min,29 mins,2 hours 20 mins,38 mins,37 mins,24 mins,11.0 km,10.1 km,11.9 km,11.1 km,23.6 km
+t1360,9 mins,6 mins,23 mins,1 hour 52 mins,27 mins,32 mins,18 mins,10.3 km,8.1 km,10.8 km,9.1 km,9.1 km
+t1361,9 mins,7 mins,15 mins,1 hour 6 mins,17 mins,18 mins,11 mins,6.6 km,4.8 km,4.8 km,5.8 km,5.6 km
+t1362,9 mins,6 mins,27 mins,2 hours 7 mins,30 mins,35 mins,22 mins,10.8 km,9.2 km,12.0 km,10.4 km,10.1 km
+t1363,7 mins,7 mins,29 mins,2 hours 32 mins,38 mins,37 mins,30 mins,10.8 km,11.0 km,12.3 km,11.4 km,11.7 km
+t1364,9 mins,2 mins,30 mins,2 hours 25 mins,34 mins,36 mins,27 mins,12.0 km,10.5 km,11.1 km,11.7 km,13.8 km
+t1365,9 mins,4 mins,29 mins,2 hours 23 mins,38 mins,37 mins,27 mins,11.6 km,10.4 km,13.8 km,11.1 km,11.3 km
+t1366,7 mins,3 mins,25 mins,1 hour 48 mins,19 mins,28 mins,22 mins,9.1 km,7.8 km,7.7 km,8.2 km,8.8 km
+t1367,7 mins,9 mins,18 mins,1 hour 19 mins,26 mins,20 mins,14 mins,6.6 km,5.8 km,8.6 km,5.9 km,6.3 km
+t1368,7 mins,7 mins,14 mins,46 mins,17 mins,13 mins,15 mins,4.3 km,3.4 km,3.9 km,3.9 km,4.8 km
+t1369,3 mins,6 mins,24 mins,1 hour 50 mins,46 mins,28 mins,24 mins,9.3 km,7.9 km,10.3 km,8.4 km,8.1 km
+t1370,2 mins,9 mins,13 mins,55 mins,27 mins,14 mins,11 mins,4.3 km,4.0 km,4.1 km,4.0 km,4.0 km
+t1371,3 mins,3 mins,8 mins,32 mins,17 mins,9 mins,11 mins,2.6 km,2.3 km,2.8 km,2.5 km,3.0 km
+t1372,3 mins,7 mins,12 mins,1 hour 10 mins,27 mins,20 mins,17 mins,4.7 km,5.0 km,7.8 km,5.5 km,6.0 km
+t1373,3 mins,14 mins,23 mins,2 hours 6 mins,33 mins,32 mins,26 mins,9.4 km,9.1 km,9.2 km,9.7 km,10.4 km
+t1374,5 mins,6 mins,5 mins,20 mins,20 mins,6 mins,6 mins,1.3 km,1.4 km,1.4 km,1.8 km,1.8 km
+t1375,2 mins,3 mins,17 mins,1 hour 15 mins,34 mins,19 mins,16 mins,6.1 km,5.5 km,7.5 km,6.0 km,6.1 km
+t1376,3 mins,8 mins,5 mins,25 mins,14 mins,8 mins,6 mins,1.8 km,1.8 km,2.6 km,1.9 km,1.9 km
+t1377,8 mins,5 mins,16 mins,59 mins,25 mins,14 mins,12 mins,5.7 km,4.3 km,5.8 km,4.6 km,4.7 km
+t1378,2 mins,8 mins,16 mins,33 mins,27 mins,13 mins,17 mins,5.0 km,2.9 km,5.6 km,4.2 km,5.3 km
+t1379,3 mins,6 mins,7 mins,31 mins,21 mins,9 mins,9 mins,2.3 km,2.2 km,4.0 km,2.6 km,2.7 km
+t1380,7 mins,3 mins,13 mins,1 hour 4 mins,18 mins,15 mins,10 mins,4.8 km,4.6 km,4.4 km,4.5 km,4.5 km
+t1381,5 mins,6 mins,8 mins,41 mins,18 mins,11 mins,9 mins,3.2 km,3.0 km,4.3 km,3.0 km,3.0 km
+t1382,2 mins,6 mins,9 mins,35 mins,21 mins,11 mins,9 mins,3.2 km,2.5 km,4.3 km,2.7 km,2.7 km
+t1383,5 mins,5 mins,13 mins,1 hour 11 mins,34 mins,19 mins,15 mins,5.2 km,5.0 km,7.0 km,5.7 km,5.3 km
+t1384,8 mins,4 mins,21 mins,1 hour 43 mins,43 mins,26 mins,20 mins,9.1 km,7.4 km,11.8 km,7.7 km,8.4 km
+t1385,8 mins,3 mins,21 mins,1 hour 35 mins,31 mins,23 mins,19 mins,8.4 km,6.9 km,7.9 km,7.0 km,7.9 km
+t1386,7 mins,2 mins,13 mins,1 hour 3 mins,28 mins,17 mins,15 mins,4.9 km,4.5 km,6.4 km,5.0 km,5.9 km
+t1387,5 mins,5 mins,11 mins,57 mins,21 mins,15 mins,13 mins,4.1 km,4.1 km,4.8 km,4.4 km,4.4 km
+t1388,8 mins,8 mins,15 mins,45 mins,16 mins,11 mins,9 mins,5.3 km,3.2 km,4.9 km,3.3 km,3.4 km
+t1389,5 mins,5 mins,3 mins,11 mins,11 mins,2 mins,5 mins,0.9 km,0.8 km,0.8 km,0.8 km,1.3 km
+t1390,7 mins,13 mins,14 mins,48 mins,28 mins,13 mins,12 mins,4.3 km,3.4 km,5.0 km,3.6 km,4.0 km
+t1391,3 mins,7 mins,19 mins,45 mins,25 mins,14 mins,20 mins,5.5 km,3.7 km,6.0 km,4.3 km,5.9 km
+t1392,3 mins,4 mins,21 mins,1 hour 21 mins,30 mins,22 mins,19 mins,7.0 km,5.9 km,8.8 km,6.7 km,6.5 km
+t1393,6 mins,8 mins,8 mins,40 mins,19 mins,11 mins,9 mins,2.9 km,2.8 km,4.4 km,3.4 km,3.4 km
+t1394,7 mins,7 mins,14 mins,52 mins,21 mins,13 mins,17 mins,4.4 km,3.8 km,5.3 km,4.0 km,5.1 km
+t1395,4 mins,7 mins,10 mins,31 mins,15 mins,7 mins,9 mins,3.0 km,2.3 km,2.5 km,2.3 km,2.6 km
+t1396,7 mins,2 mins,7 mins,18 mins,12 mins,6 mins,5 mins,1.8 km,1.2 km,1.5 km,1.4 km,1.5 km
+t1397,7 mins,2 mins,7 mins,19 mins,15 mins,5 mins,6 mins,1.9 km,1.3 km,1.4 km,1.3 km,1.4 km
+t1398,6 mins,6 mins,16 mins,1 hour 7 mins,24 mins,16 mins,14 mins,5.7 km,4.9 km,5.8 km,5.1 km,4.9 km
+t1399,3 mins,4 mins,5 mins,1 min,1 min,1 min,1 min,0.9 km,13 m,13 m,13 m,13 m
+t1400,3 mins,4 mins,18 mins,1 hour 16 mins,22 mins,21 mins,17 mins,7.0 km,5.4 km,5.5 km,6.2 km,5.5 km
+t1401,4 mins,1 min,23 mins,1 hour 40 mins,41 mins,26 mins,22 mins,8.8 km,7.3 km,10.1 km,8.6 km,8.5 km
+t1402,7 mins,6 mins,14 mins,55 mins,25 mins,15 mins,13 mins,4.6 km,4.0 km,5.9 km,4.0 km,4.5 km
+t1403,6 mins,2 mins,25 mins,1 hour 51 mins,39 mins,29 mins,23 mins,10.2 km,8.0 km,11.4 km,8.7 km,7.9 km
+t1404,3 mins,2 mins,22 mins,1 hour 33 mins,32 mins,23 mins,19 mins,7.7 km,6.7 km,6.9 km,7.0 km,7.1 km
+t1405,7 mins,7 mins,18 mins,1 hour 36 mins,41 mins,23 mins,24 mins,7.0 km,7.0 km,13.3 km,7.3 km,8.1 km
+t1406,6 mins,7 mins,16 mins,1 hour 9 mins,23 mins,16 mins,15 mins,6.0 km,5.0 km,5.8 km,5.3 km,5.2 km
+t1407,6 mins,10 mins,24 mins,2 hours 10 mins,28 mins,33 mins,26 mins,10.2 km,9.3 km,9.6 km,10.4 km,10.5 km
+t1408,3 mins,5 mins,17 mins,1 hour 12 mins,31 mins,20 mins,20 mins,6.7 km,5.2 km,6.4 km,6.3 km,7.5 km
+t1409,8 mins,9 mins,18 mins,1 hour 26 mins,30 mins,22 mins,18 mins,6.4 km,6.3 km,10.9 km,6.2 km,6.5 km
+t1410,1 min,2 mins,6 mins,22 mins,11 mins,7 mins,6 mins,2.2 km,1.6 km,2.3 km,2.0 km,2.0 km
+t1411,1 min,6 mins,15 mins,1 hour 1 min,25 mins,16 mins,13 mins,4.7 km,4.4 km,6.2 km,4.7 km,4.7 km
+t1412,2 mins,8 mins,19 mins,1 hour 40 mins,33 mins,28 mins,20 mins,7.6 km,7.2 km,7.7 km,8.4 km,8.0 km
+t1413,1 min,11 mins,16 mins,1 hour 6 mins,25 mins,18 mins,13 mins,5.5 km,4.7 km,7.3 km,4.7 km,4.7 km
+t1414,2 mins,4 mins,15 mins,1 hour 7 mins,29 mins,19 mins,14 mins,5.3 km,4.8 km,6.5 km,5.6 km,5.0 km
+t1415,3 mins,3 mins,14 mins,1 hour 9 mins,23 mins,20 mins,13 mins,6.3 km,4.9 km,6.4 km,6.3 km,7.3 km
+t1416,1 min,5 mins,8 mins,31 mins,19 mins,10 mins,7 mins,2.8 km,2.2 km,3.4 km,3.0 km,2.3 km
+t1417,1 min,6 mins,23 mins,1 hour 52 mins,39 mins,32 mins,24 mins,9.1 km,8.0 km,9.1 km,9.4 km,9.4 km
+t1418,2 mins,1 min,23 mins,1 hour 59 mins,40 mins,31 mins,23 mins,9.7 km,8.6 km,12.6 km,9.3 km,10.0 km
+t1419,3 mins,2 mins,9 mins,31 mins,12 mins,9 mins,10 mins,2.9 km,2.3 km,2.8 km,2.7 km,5.1 km
+t1420,2 mins,9 mins,11 mins,1 hour 0 mins,26 mins,17 mins,13 mins,4.1 km,4.3 km,7.2 km,5.5 km,4.8 km
+t1421,8 mins,7 mins,15 mins,59 mins,27 mins,18 mins,13 mins,6.5 km,4.2 km,6.4 km,5.1 km,4.7 km
+t1422,1 min,4 mins,12 mins,59 mins,23 mins,16 mins,12 mins,4.2 km,4.2 km,5.4 km,4.6 km,4.6 km
+t1423,8 mins,6 mins,14 mins,55 mins,20 mins,16 mins,13 mins,4.5 km,3.9 km,5.9 km,4.6 km,4.0 km
+t1424,2 mins,1 min,18 mins,1 hour 16 mins,28 mins,21 mins,17 mins,6.1 km,5.4 km,8.4 km,6.1 km,6.1 km
+t1425,1 min,4 mins,20 mins,1 hour 30 mins,30 mins,26 mins,18 mins,7.5 km,6.4 km,7.8 km,7.5 km,7.5 km
+t1426,2 mins,4 mins,12 mins,56 mins,19 mins,14 mins,12 mins,4.3 km,4.1 km,5.8 km,4.3 km,4.3 km
+t1427,1 min,6 mins,16 mins,1 hour 24 mins,28 mins,22 mins,17 mins,6.0 km,6.1 km,9.3 km,6.6 km,6.5 km
+t1428,2 mins,1 min,19 mins,1 hour 40 mins,35 mins,25 mins,19 mins,7.6 km,7.1 km,11.5 km,7.8 km,7.9 km
+t1429,2 mins,5 mins,9 mins,59 mins,21 mins,15 mins,11 mins,3.8 km,4.2 km,5.7 km,4.4 km,4.4 km
+t1430,3 mins,4 mins,18 mins,1 hour 14 mins,31 mins,20 mins,18 mins,6.2 km,5.4 km,9.2 km,5.9 km,9.2 km
+t1431,2 mins,6 mins,6 mins,26 mins,19 mins,7 mins,5 mins,2.2 km,1.8 km,2.4 km,2.2 km,1.8 km
+t1432,5 mins,1 min,17 mins,1 hour 9 mins,27 mins,19 mins,16 mins,5.5 km,5.0 km,7.7 km,5.5 km,5.6 km
+t1433,5 mins,8 mins,23 mins,1 hour 43 mins,40 mins,29 mins,21 mins,8.7 km,7.4 km,9.4 km,8.2 km,8.2 km
+t1434,5 mins,4 mins,8 mins,28 mins,15 mins,8 mins,9 mins,2.5 km,2.1 km,3.1 km,2.6 km,2.8 km
+t1435,5 mins,6 mins,15 mins,1 hour 12 mins,32 mins,20 mins,15 mins,6.3 km,5.2 km,6.8 km,6.0 km,6.2 km
+t1436,5 mins,8 mins,10 mins,32 mins,14 mins,8 mins,7 mins,2.9 km,2.4 km,2.6 km,2.7 km,2.5 km
+t1437,5 mins,7 mins,10 mins,56 mins,18 mins,16 mins,14 mins,3.3 km,4.0 km,5.7 km,4.3 km,4.6 km
+t1438,5 mins,8 mins,6 mins,33 mins,20 mins,9 mins,9 mins,2.0 km,2.4 km,4.2 km,2.4 km,3.0 km
+t1439,5 mins,6 mins,9 mins,20 mins,12 mins,4 mins,4 mins,2.8 km,1.4 km,2.1 km,1.5 km,1.5 km
+t1440,5 mins,13 mins,24 mins,2 hours 24 mins,33 mins,36 mins,27 mins,10.6 km,10.5 km,11.2 km,10.7 km,11.5 km
+t1441,5 mins,9 mins,13 mins,58 mins,23 mins,18 mins,13 mins,6.1 km,4.2 km,5.9 km,5.4 km,5.8 km
+t1442,5 mins,6 mins,18 mins,1 hour 25 mins,32 mins,22 mins,20 mins,6.1 km,6.2 km,9.4 km,6.5 km,6.7 km
+t1443,5 mins,5 mins,6 mins,12 mins,7 mins,4 mins,4 mins,1.8 km,0.9 km,1.1 km,1.1 km,1.1 km
+t1444,5 mins,4 mins,17 mins,1 hour 7 mins,28 mins,20 mins,15 mins,5.7 km,4.8 km,8.1 km,5.6 km,5.4 km
+t1445,5 mins,5 mins,17 mins,1 hour 18 mins,29 mins,20 mins,16 mins,6.4 km,5.7 km,7.5 km,6.1 km,6.2 km
+t1446,4 mins,4 mins,15 mins,1 hour 11 mins,36 mins,19 mins,16 mins,5.6 km,5.1 km,10.7 km,5.8 km,5.4 km
+t1447,8 mins,2 mins,19 mins,1 hour 42 mins,33 mins,24 mins,19 mins,7.5 km,7.3 km,7.8 km,7.4 km,7.4 km
+t1448,4 mins,3 mins,17 mins,1 hour 18 mins,38 mins,20 mins,18 mins,6.3 km,5.6 km,10.0 km,5.8 km,5.7 km
+t1449,4 mins,1 min,11 mins,49 mins,24 mins,14 mins,12 mins,4.0 km,3.4 km,4.4 km,3.7 km,4.1 km
+t1450,4 mins,2 mins,6 mins,23 mins,19 mins,6 mins,7 mins,2.1 km,1.6 km,1.8 km,1.6 km,2.2 km
+t1451,4 mins,7 mins,19 mins,1 hour 19 mins,37 mins,21 mins,18 mins,5.9 km,5.7 km,7.6 km,6.1 km,6.0 km
+t1452,4 mins,5 mins,13 mins,1 hour 20 mins,30 mins,22 mins,14 mins,7.3 km,5.6 km,7.1 km,6.4 km,7.6 km
+t1453,8 mins,4 mins,15 mins,1 hour 10 mins,29 mins,19 mins,17 mins,5.0 km,5.0 km,6.0 km,5.3 km,5.4 km
+t1454,3 mins,4 mins,14 mins,1 hour 2 mins,30 mins,15 mins,13 mins,4.9 km,4.4 km,6.6 km,4.5 km,4.7 km
+t1455,4 mins,14 mins,23 mins,2 hours 5 mins,39 mins,31 mins,23 mins,9.5 km,9.0 km,12.9 km,9.5 km,12.7 km
+t1456,4 mins,1 min,10 mins,45 mins,23 mins,12 mins,11 mins,3.8 km,3.2 km,4.1 km,3.3 km,4.2 km
+t1457,3 mins,6 mins,18 mins,1 hour 21 mins,31 mins,18 mins,17 mins,6.4 km,5.8 km,6.9 km,5.7 km,5.8 km
+t1458,8 mins,7 mins,19 mins,1 hour 36 mins,37 mins,25 mins,20 mins,6.4 km,6.9 km,7.4 km,7.6 km,7.8 km
+t1459,4 mins,4 mins,17 mins,1 hour 14 mins,38 mins,19 mins,17 mins,5.2 km,5.4 km,10.0 km,5.6 km,5.4 km
+t1460,8 mins,5 mins,7 mins,29 mins,21 mins,8 mins,7 mins,2.2 km,2.1 km,2.2 km,2.1 km,2.0 km
+t1461,4 mins,7 mins,8 mins,36 mins,20 mins,9 mins,12 mins,2.3 km,2.6 km,4.5 km,2.7 km,3.2 km
+t1462,4 mins,2 mins,19 mins,1 hour 21 mins,39 mins,21 mins,19 mins,6.1 km,5.9 km,9.4 km,6.1 km,6.0 km
+t1463,8 mins,1 min,17 mins,1 hour 10 mins,33 mins,18 mins,18 mins,5.9 km,5.1 km,6.6 km,5.4 km,5.9 km
+t1464,4 mins,4 mins,21 mins,1 hour 45 mins,41 mins,30 mins,22 mins,10.6 km,7.5 km,14.4 km,8.9 km,9.1 km
+t1465,2 mins,11 mins,20 mins,1 hour 34 mins,37 mins,29 mins,20 mins,7.4 km,6.7 km,10.0 km,6.7 km,6.9 km
+t1466,4 mins,4 mins,11 mins,45 mins,15 mins,13 mins,11 mins,3.6 km,3.2 km,3.6 km,3.7 km,4.1 km
+t1467,4 mins,8 mins,29 mins,2 hours 12 mins,37 mins,33 mins,26 mins,10.8 km,9.5 km,12.0 km,10.4 km,10.2 km
+t1468,2 mins,7 mins,17 mins,1 hour 17 mins,27 mins,22 mins,16 mins,5.9 km,5.5 km,7.3 km,6.7 km,8.3 km
+t1469,5 mins,2 mins,16 mins,1 hour 10 mins,21 mins,18 mins,15 mins,6.3 km,5.0 km,5.6 km,5.3 km,5.1 km
+t1470,4 mins,1 min,13 mins,1 hour 0 mins,23 mins,17 mins,13 mins,4.6 km,4.3 km,6.4 km,4.3 km,4.4 km
+t1471,4 mins,5 mins,5 mins,29 mins,9 mins,9 mins,8 mins,1.7 km,2.1 km,2.1 km,2.3 km,2.9 km
+t1472,5 mins,4 mins,18 mins,1 hour 22 mins,30 mins,22 mins,18 mins,6.2 km,5.9 km,9.7 km,6.0 km,6.1 km
+t1473,5 mins,6 mins,20 mins,1 hour 27 mins,32 mins,23 mins,18 mins,7.2 km,6.3 km,12.6 km,6.3 km,6.5 km
+t1474,2 mins,9 mins,21 mins,1 hour 20 mins,31 mins,22 mins,16 mins,7.1 km,5.8 km,8.8 km,5.7 km,5.7 km
+t1475,4 mins,3 mins,16 mins,1 hour 10 mins,24 mins,21 mins,18 mins,5.6 km,5.0 km,6.2 km,6.2 km,7.3 km
+t1476,4 mins,7 mins,14 mins,1 hour 10 mins,19 mins,20 mins,16 mins,4.8 km,5.0 km,6.7 km,5.3 km,5.6 km
+t1477,4 mins,6 mins,24 mins,1 hour 48 mins,33 mins,31 mins,23 mins,9.1 km,7.7 km,9.8 km,9.0 km,9.3 km
+t1478,4 mins,7 mins,31 mins,2 hours 42 mins,33 mins,39 mins,29 mins,12.1 km,11.7 km,12.0 km,12.1 km,12.0 km
+t1479,2 mins,7 mins,13 mins,54 mins,16 mins,13 mins,11 mins,4.3 km,3.9 km,4.7 km,3.9 km,3.9 km
+t1480,5 mins,4 mins,16 mins,1 hour 9 mins,25 mins,17 mins,14 mins,6.4 km,5.0 km,5.6 km,5.2 km,5.1 km
+t1481,2 mins,5 mins,8 mins,39 mins,18 mins,10 mins,9 mins,2.8 km,2.8 km,5.7 km,3.0 km,3.0 km
+t1482,4 mins,2 mins,6 mins,16 mins,15 mins,4 mins,5 mins,1.7 km,1.2 km,1.7 km,1.4 km,1.4 km
+t1483,6 mins,12 mins,14 mins,56 mins,25 mins,15 mins,13 mins,4.4 km,4.0 km,4.7 km,4.3 km,4.2 km
+t1484,6 mins,2 mins,19 mins,1 hour 26 mins,30 mins,21 mins,17 mins,7.4 km,6.2 km,6.8 km,6.3 km,6.9 km
+t1485,2 mins,4 mins,10 mins,35 mins,25 mins,9 mins,9 mins,3.0 km,2.6 km,3.7 km,3.0 km,3.1 km
+t1486,4 mins,6 mins,23 mins,1 hour 50 mins,38 mins,27 mins,23 mins,8.9 km,8.0 km,9.6 km,8.3 km,9.0 km
+t1487,6 mins,1 min,9 mins,38 mins,12 mins,11 mins,8 mins,3.2 km,2.7 km,3.1 km,3.0 km,3.0 km
+t1488,2 mins,6 mins,3 mins,19 mins,13 mins,5 mins,4 mins,1.0 km,1.4 km,1.5 km,1.4 km,1.4 km
+t1489,4 mins,5 mins,12 mins,34 mins,20 mins,9 mins,10 mins,3.2 km,2.4 km,2.8 km,2.6 km,3.5 km
+t1490,2 mins,7 mins,18 mins,1 hour 18 mins,29 mins,20 mins,18 mins,5.9 km,5.7 km,8.1 km,5.9 km,6.1 km
+t1491,4 mins,3 mins,4 mins,14 mins,14 mins,3 mins,4 mins,1.2 km,1.0 km,1.0 km,1.1 km,1.2 km
+t1492,4 mins,7 mins,15 mins,1 hour 8 mins,27 mins,19 mins,16 mins,4.8 km,4.9 km,5.7 km,5.7 km,6.7 km
+t1493,4 mins,5 mins,12 mins,58 mins,18 mins,15 mins,14 mins,4.6 km,4.1 km,4.5 km,4.5 km,5.2 km
+t1494,6 mins,7 mins,7 mins,35 mins,17 mins,11 mins,8 mins,2.5 km,2.5 km,3.1 km,3.2 km,2.9 km
+t1495,2 mins,5 mins,11 mins,43 mins,21 mins,12 mins,11 mins,3.3 km,3.1 km,3.7 km,3.5 km,3.5 km
+t1496,2 mins,2 mins,20 mins,1 hour 40 mins,32 mins,25 mins,20 mins,7.6 km,7.3 km,8.5 km,7.3 km,7.3 km
+t1497,4 mins,6 mins,5 mins,22 mins,11 mins,6 mins,9 mins,1.6 km,1.6 km,1.9 km,1.9 km,2.9 km
+t1498,4 mins,6 mins,12 mins,46 mins,24 mins,13 mins,13 mins,3.8 km,3.3 km,4.9 km,3.6 km,4.5 km
+t1499,4 mins,4 mins,4 mins,18 mins,6 mins,6 mins,6 mins,1.1 km,1.3 km,1.4 km,1.5 km,2.4 km
+t1500,4 mins,4 mins,11 mins,43 mins,16 mins,12 mins,12 mins,4.0 km,3.1 km,4.5 km,3.7 km,4.3 km
+t1501,6 mins,5 mins,13 mins,1 hour 0 mins,23 mins,18 mins,12 mins,5.5 km,4.2 km,4.7 km,5.1 km,4.9 km
+t1502,5 mins,6 mins,9 mins,35 mins,16 mins,9 mins,9 mins,3.0 km,2.5 km,3.0 km,2.4 km,3.3 km
+t1503,6 mins,5 mins,17 mins,1 hour 14 mins,30 mins,17 mins,17 mins,5.6 km,5.4 km,7.4 km,5.6 km,5.8 km
+t1504,7 mins,6 mins,21 mins,1 hour 26 mins,33 mins,22 mins,20 mins,7.2 km,6.2 km,7.0 km,6.4 km,6.8 km
+t1505,7 mins,6 mins,16 mins,1 hour 2 mins,22 mins,17 mins,16 mins,5.5 km,4.5 km,6.4 km,4.7 km,5.0 km
+t1506,5 mins,4 mins,13 mins,45 mins,22 mins,12 mins,12 mins,4.5 km,3.2 km,4.1 km,3.8 km,4.3 km
+t1507,6 mins,8 mins,5 mins,17 mins,16 mins,5 mins,5 mins,1.4 km,1.2 km,2.5 km,1.5 km,1.5 km
+t1508,6 mins,6 mins,10 mins,46 mins,17 mins,12 mins,15 mins,3.1 km,3.3 km,4.8 km,3.9 km,4.5 km
+t1509,5 mins,4 mins,19 mins,1 hour 28 mins,29 mins,25 mins,20 mins,6.2 km,6.3 km,7.5 km,7.1 km,7.4 km
+t1510,6 mins,7 mins,18 mins,1 hour 13 mins,25 mins,18 mins,17 mins,6.2 km,5.3 km,7.0 km,6.0 km,5.9 km
+t1511,5 mins,4 mins,14 mins,59 mins,23 mins,17 mins,15 mins,4.9 km,4.2 km,6.9 km,5.3 km,5.0 km
+t1512,7 mins,6 mins,23 mins,1 hour 35 mins,31 mins,27 mins,21 mins,10.3 km,6.8 km,7.9 km,7.9 km,9.9 km
+t1513,5 mins,1 min,21 mins,1 hour 30 mins,33 mins,23 mins,20 mins,7.4 km,6.5 km,11.4 km,6.6 km,7.1 km
+t1514,5 mins,7 mins,9 mins,37 mins,21 mins,9 mins,8 mins,2.9 km,2.7 km,2.7 km,2.7 km,2.7 km
+t1515,6 mins,4 mins,8 mins,35 mins,20 mins,9 mins,8 mins,2.5 km,2.5 km,3.0 km,2.5 km,2.5 km
+t1516,6 mins,5 mins,8 mins,23 mins,15 mins,9 mins,6 mins,2.6 km,1.6 km,2.4 km,2.1 km,2.2 km
+t1517,5 mins,8 mins,10 mins,30 mins,16 mins,8 mins,7 mins,2.8 km,2.2 km,2.7 km,2.3 km,2.2 km
+t1518,7 mins,2 mins,5 mins,24 mins,15 mins,7 mins,6 mins,1.6 km,1.7 km,1.7 km,2.0 km,1.9 km
+t1519,5 mins,11 mins,18 mins,1 hour 27 mins,35 mins,27 mins,20 mins,6.1 km,6.2 km,9.5 km,6.5 km,6.8 km
+t1520,4 mins,12 mins,25 mins,2 hours 13 mins,31 mins,34 mins,26 mins,9.9 km,9.6 km,9.8 km,10.5 km,10.6 km
+t1521,6 mins,6 mins,15 mins,1 hour 9 mins,24 mins,19 mins,15 mins,5.0 km,4.9 km,7.0 km,5.9 km,5.2 km
+t1522,5 mins,6 mins,15 mins,1 hour 14 mins,30 mins,24 mins,20 mins,5.0 km,5.3 km,7.2 km,6.4 km,7.0 km
+t1523,2 mins,11 mins,7 mins,25 mins,15 mins,6 mins,5 mins,2.6 km,1.8 km,3.7 km,1.8 km,1.8 km
+t1524,2 mins,5 mins,17 mins,1 hour 18 mins,29 mins,20 mins,16 mins,6.7 km,5.7 km,7.5 km,6.1 km,6.2 km
+t1525,9 mins,3 mins,19 mins,1 hour 39 mins,42 mins,26 mins,20 mins,7.7 km,7.1 km,10.0 km,7.9 km,8.0 km
+t1526,9 mins,9 mins,10 mins,48 mins,23 mins,13 mins,11 mins,3.2 km,3.5 km,4.7 km,3.8 km,4.4 km
+t1527,1 min,5 mins,7 mins,47 mins,21 mins,12 mins,8 mins,3.7 km,3.4 km,5.0 km,3.8 km,4.0 km
+t1528,6 mins,4 mins,15 mins,1 hour 3 mins,26 mins,20 mins,15 mins,5.2 km,4.5 km,6.2 km,5.4 km,5.1 km
+t1529,9 mins,7 mins,10 mins,48 mins,23 mins,15 mins,10 mins,4.0 km,3.5 km,4.4 km,4.7 km,3.6 km
+t1530,2 mins,5 mins,10 mins,27 mins,15 mins,7 mins,9 mins,3.2 km,2.0 km,3.3 km,2.0 km,2.9 km
+t1531,1 min,5 mins,6 mins,19 mins,14 mins,5 mins,5 mins,1.6 km,1.4 km,2.4 km,1.4 km,1.4 km
+t1532,1 min,4 mins,10 mins,44 mins,16 mins,12 mins,10 mins,3.5 km,3.2 km,3.2 km,3.2 km,3.2 km
+t1533,9 mins,5 mins,12 mins,53 mins,21 mins,14 mins,12 mins,3.9 km,3.8 km,5.4 km,4.1 km,4.1 km
+t1534,10 mins,3 mins,13 mins,1 hour 0 mins,18 mins,18 mins,16 mins,5.7 km,4.3 km,5.0 km,5.2 km,5.2 km
+t1535,1 min,6 mins,9 mins,53 mins,18 mins,14 mins,11 mins,3.7 km,3.8 km,5.0 km,3.9 km,4.2 km
+t1536,1 min,6 mins,25 mins,1 hour 58 mins,34 mins,32 mins,24 mins,11.7 km,8.6 km,10.8 km,9.4 km,10.9 km
+t1537,9 mins,13 mins,16 mins,1 hour 6 mins,28 mins,18 mins,15 mins,5.7 km,4.7 km,6.4 km,5.3 km,5.3 km
+t1538,9 mins,4 mins,8 mins,30 mins,17 mins,8 mins,9 mins,2.5 km,2.2 km,3.5 km,2.5 km,2.9 km
+t1539,10 mins,3 mins,18 mins,1 hour 14 mins,29 mins,19 mins,16 mins,5.7 km,5.3 km,8.5 km,5.6 km,5.3 km
+t1540,2 mins,3 mins,22 mins,1 hour 37 mins,39 mins,26 mins,22 mins,7.4 km,7.1 km,8.3 km,7.3 km,7.8 km
+t1541,1 min,3 mins,16 mins,1 hour 16 mins,27 mins,22 mins,15 mins,7.4 km,5.5 km,7.2 km,6.8 km,7.2 km
+t1542,6 mins,5 mins,6 mins,41 mins,22 mins,12 mins,7 mins,2.8 km,2.9 km,3.4 km,3.4 km,4.3 km
+t1543,1 min,2 mins,17 mins,1 hour 13 mins,25 mins,21 mins,16 mins,6.1 km,5.3 km,7.9 km,5.8 km,6.0 km
+t1544,5 mins,6 mins,23 mins,1 hour 43 mins,33 mins,29 mins,21 mins,9.1 km,7.4 km,9.1 km,8.4 km,8.7 km
+t1545,5 mins,6 mins,26 mins,2 hours 7 mins,36 mins,34 mins,26 mins,10.9 km,9.2 km,11.1 km,9.9 km,9.9 km
+t1546,10 mins,9 mins,18 mins,1 hour 47 mins,38 mins,28 mins,24 mins,7.6 km,7.7 km,12.0 km,8.7 km,8.8 km
+t1547,1 min,9 mins,21 mins,1 hour 40 mins,34 mins,28 mins,21 mins,8.4 km,7.2 km,7.6 km,8.2 km,8.5 km
+t1548,10 mins,4 mins,13 mins,59 mins,20 mins,15 mins,14 mins,4.2 km,4.2 km,6.4 km,4.6 km,4.3 km
+t1549,3 mins,6 mins,17 mins,1 hour 11 mins,22 mins,17 mins,16 mins,6.7 km,5.2 km,6.1 km,5.3 km,5.3 km
+t1550,4 mins,5 mins,7 mins,17 mins,15 mins,5 mins,4 mins,2.0 km,1.2 km,1.6 km,1.6 km,1.6 km
+t1551,5 mins,7 mins,21 mins,1 hour 42 mins,36 mins,28 mins,23 mins,7.1 km,7.3 km,11.0 km,8.0 km,7.9 km
+t1552,5 mins,4 mins,17 mins,1 hour 8 mins,25 mins,20 mins,16 mins,5.5 km,4.9 km,7.1 km,5.5 km,5.0 km
+t1553,4 mins,9 mins,13 mins,1 hour 3 mins,24 mins,16 mins,14 mins,4.4 km,4.5 km,6.3 km,5.0 km,5.2 km
+t1554,3 mins,3 mins,25 mins,1 hour 57 mins,33 mins,30 mins,29 mins,10.5 km,8.4 km,10.5 km,9.0 km,9.9 km
+t1555,3 mins,8 mins,9 mins,32 mins,20 mins,7 mins,6 mins,2.9 km,2.3 km,4.2 km,2.3 km,2.3 km
+t1556,3 mins,2 mins,9 mins,44 mins,18 mins,11 mins,9 mins,3.2 km,3.2 km,3.3 km,3.3 km,3.3 km
+t1557,4 mins,7 mins,32 mins,2 hours 46 mins,38 mins,41 mins,29 mins,12.8 km,12.0 km,14.2 km,12.8 km,12.7 km
+t1558,4 mins,6 mins,17 mins,1 hour 18 mins,31 mins,21 mins,16 mins,7.8 km,5.5 km,7.1 km,6.3 km,6.6 km
+t1559,5 mins,2 mins,8 mins,39 mins,15 mins,11 mins,9 mins,2.7 km,2.9 km,2.9 km,3.1 km,3.1 km
+t1560,3 mins,7 mins,26 mins,2 hours 7 mins,48 mins,34 mins,26 mins,10.1 km,9.1 km,11.9 km,9.9 km,10.2 km
+t1561,4 mins,3 mins,17 mins,1 hour 16 mins,25 mins,22 mins,19 mins,6.7 km,5.4 km,7.7 km,6.5 km,7.8 km
+t1562,3 mins,8 mins,22 mins,1 hour 37 mins,28 mins,24 mins,22 mins,7.9 km,6.9 km,8.6 km,7.1 km,7.2 km
+t1563,4 mins,6 mins,8 mins,19 mins,15 mins,6 mins,5 mins,2.0 km,1.4 km,2.0 km,1.7 km,1.7 km
+t1564,3 mins,2 mins,24 mins,1 hour 54 mins,30 mins,30 mins,23 mins,9.4 km,8.3 km,10.2 km,8.9 km,8.4 km
+t1565,8 mins,8 mins,15 mins,54 mins,17 mins,15 mins,13 mins,5.1 km,3.9 km,5.3 km,4.2 km,4.2 km
+t1566,5 mins,7 mins,19 mins,1 hour 34 mins,31 mins,25 mins,20 mins,6.9 km,6.7 km,8.2 km,7.3 km,6.7 km
+t1567,5 mins,8 mins,26 mins,1 hour 44 mins,27 mins,27 mins,23 mins,9.1 km,7.5 km,9.1 km,8.1 km,8.0 km
+t1568,8 mins,4 mins,23 mins,1 hour 56 mins,37 mins,31 mins,24 mins,8.5 km,8.3 km,10.3 km,8.8 km,8.6 km
+t1569,5 mins,6 mins,8 mins,44 mins,17 mins,13 mins,10 mins,3.2 km,3.1 km,3.5 km,3.3 km,3.5 km
+t1570,5 mins,5 mins,18 mins,1 hour 7 mins,32 mins,17 mins,18 mins,6.6 km,4.8 km,6.3 km,5.1 km,6.2 km
+t1571,8 mins,4 mins,13 mins,1 hour 1 min,30 mins,14 mins,14 mins,5.1 km,4.4 km,6.7 km,4.5 km,5.4 km
+t1572,5 mins,7 mins,12 mins,1 hour 0 mins,22 mins,17 mins,14 mins,4.4 km,4.3 km,4.9 km,4.9 km,4.9 km
+t1573,8 mins,5 mins,18 mins,1 hour 24 mins,31 mins,23 mins,21 mins,6.5 km,6.0 km,7.3 km,6.8 km,7.2 km
+t1574,8 mins,7 mins,17 mins,1 hour 25 mins,24 mins,25 mins,18 mins,6.5 km,6.1 km,7.7 km,7.0 km,6.4 km
+t1575,5 mins,6 mins,11 mins,36 mins,22 mins,9 mins,9 mins,3.2 km,2.6 km,3.1 km,2.7 km,2.7 km
+t1576,5 mins,4 mins,11 mins,47 mins,18 mins,13 mins,10 mins,3.8 km,3.3 km,5.2 km,3.5 km,3.5 km
+t1577,5 mins,11 mins,7 mins,32 mins,14 mins,8 mins,7 mins,3.1 km,2.3 km,2.5 km,2.3 km,2.3 km
+t1578,5 mins,3 mins,21 mins,1 hour 23 mins,35 mins,21 mins,18 mins,7.1 km,6.0 km,8.1 km,6.5 km,6.2 km
+t1579,2 mins,6 mins,14 mins,1 hour 1 min,22 mins,16 mins,13 mins,5.4 km,4.4 km,6.1 km,4.6 km,4.6 km
+t1580,3 mins,1 min,7 mins,20 mins,10 mins,6 mins,5 mins,2.4 km,1.4 km,2.3 km,1.5 km,1.5 km
+t1581,1 min,3 mins,14 mins,50 mins,18 mins,14 mins,12 mins,5.1 km,3.6 km,4.1 km,4.0 km,4.1 km
+t1582,1 min,8 mins,12 mins,1 hour 4 mins,28 mins,16 mins,14 mins,5.1 km,4.6 km,5.7 km,4.9 km,5.5 km
+t1583,3 mins,6 mins,21 mins,1 hour 32 mins,40 mins,24 mins,20 mins,7.5 km,6.6 km,9.4 km,7.2 km,6.9 km
+t1584,3 mins,6 mins,15 mins,59 mins,20 mins,14 mins,14 mins,5.8 km,4.2 km,5.3 km,4.4 km,5.4 km
+t1585,2 mins,7 mins,9 mins,41 mins,15 mins,11 mins,9 mins,3.0 km,2.9 km,3.3 km,3.1 km,3.1 km
+t1586,2 mins,5 mins,9 mins,20 mins,11 mins,5 mins,5 mins,3.1 km,1.4 km,1.6 km,1.5 km,1.5 km
+t1587,2 mins,8 mins,20 mins,1 hour 35 mins,40 mins,26 mins,18 mins,8.5 km,6.9 km,12.3 km,8.5 km,7.7 km
+t1588,2 mins,4 mins,20 mins,1 hour 41 mins,39 mins,23 mins,18 mins,8.4 km,7.3 km,9.7 km,7.5 km,7.6 km
+t1589,3 mins,7 mins,18 mins,1 hour 20 mins,31 mins,18 mins,15 mins,6.9 km,5.9 km,7.2 km,5.8 km,6.4 km
+t1590,3 mins,2 mins,20 mins,1 hour 16 mins,34 mins,19 mins,20 mins,7.5 km,5.4 km,6.5 km,5.5 km,7.3 km
+t1591,1 min,1 min,14 mins,1 hour 6 mins,24 mins,19 mins,14 mins,5.4 km,4.7 km,5.8 km,5.6 km,5.4 km
+t1592,1 min,5 mins,23 mins,1 hour 46 mins,34 mins,26 mins,21 mins,9.9 km,7.6 km,9.4 km,8.2 km,8.6 km
+t1593,1 min,2 mins,18 mins,1 hour 27 mins,33 mins,24 mins,18 mins,7.6 km,6.3 km,8.3 km,7.6 km,7.6 km
+t1594,3 mins,3 mins,3 mins,4 mins,4 mins,1 min,2 mins,0.9 km,0.3 km,0.3 km,0.3 km,0.3 km
+t1595,3 mins,3 mins,11 mins,1 hour 2 mins,22 mins,16 mins,13 mins,4.3 km,4.5 km,5.2 km,4.6 km,4.6 km
+t1596,1 min,6 mins,13 mins,50 mins,19 mins,12 mins,10 mins,4.5 km,3.6 km,4.6 km,3.9 km,4.1 km
+t1597,1 min,1 min,24 mins,1 hour 43 mins,37 mins,27 mins,22 mins,9.0 km,7.4 km,9.7 km,7.8 km,7.9 km
+t1598,2 mins,2 mins,23 mins,2 hours 0 mins,35 mins,28 mins,22 mins,10.1 km,8.6 km,11.8 km,9.0 km,9.2 km
+t1599,1 min,4 mins,26 mins,1 hour 52 mins,33 mins,28 mins,23 mins,11.2 km,8.1 km,10.7 km,8.5 km,9.2 km
+t1600,1 min,3 mins,13 mins,44 mins,34 mins,11 mins,12 mins,5.4 km,3.2 km,5.9 km,3.4 km,5.1 km
+t1601,1 min,3 mins,21 mins,1 hour 45 mins,42 mins,28 mins,20 mins,9.3 km,7.6 km,11.0 km,8.5 km,21.7 km
+t1602,1 min,4 mins,23 mins,1 hour 47 mins,36 mins,27 mins,24 mins,9.0 km,7.7 km,10.7 km,8.0 km,8.5 km
+t1603,1 min,4 mins,19 mins,1 hour 42 mins,44 mins,24 mins,19 mins,8.1 km,7.5 km,11.5 km,7.8 km,8.2 km
+t1604,1 min,3 mins,14 mins,1 hour 6 mins,32 mins,17 mins,15 mins,6.2 km,4.9 km,6.9 km,5.3 km,6.3 km
+t1605,1 min,4 mins,12 mins,1 hour 13 mins,32 mins,18 mins,14 mins,5.7 km,5.4 km,7.1 km,5.7 km,6.2 km
+t1606,2 mins,5 mins,22 mins,1 hour 49 mins,49 mins,28 mins,22 mins,8.9 km,8.0 km,11.4 km,8.5 km,9.1 km
+t1607,1 min,4 mins,13 mins,1 hour 6 mins,25 mins,16 mins,13 mins,4.9 km,4.7 km,6.2 km,4.8 km,4.9 km
+t1608,1 min,5 mins,10 mins,50 mins,31 mins,11 mins,11 mins,4.7 km,3.7 km,6.6 km,3.8 km,5.2 km
+t1609,1 min,5 mins,16 mins,1 hour 15 mins,37 mins,19 mins,15 mins,6.6 km,5.5 km,8.2 km,5.9 km,6.2 km
+t1610,1 min,8 mins,12 mins,59 mins,33 mins,14 mins,15 mins,5.3 km,4.4 km,5.3 km,4.6 km,7.2 km
+t1611,2 mins,5 mins,19 mins,1 hour 20 mins,34 mins,21 mins,17 mins,6.7 km,5.8 km,8.5 km,6.2 km,6.2 km
+t1612,1 min,8 mins,20 mins,1 hour 33 mins,36 mins,24 mins,19 mins,8.3 km,6.8 km,10.2 km,7.3 km,7.9 km
+t1613,1 min,4 mins,14 mins,56 mins,26 mins,16 mins,13 mins,5.2 km,4.0 km,5.6 km,4.9 km,5.0 km
+t1614,1 min,4 mins,22 mins,1 hour 46 mins,37 mins,26 mins,23 mins,8.2 km,7.7 km,10.0 km,7.7 km,8.2 km
+t1615,1 min,10 mins,15 mins,1 hour 22 mins,29 mins,20 mins,17 mins,5.7 km,5.9 km,7.3 km,6.0 km,6.2 km
+t1616,1 min,5 mins,12 mins,49 mins,26 mins,11 mins,10 mins,4.1 km,3.6 km,6.2 km,3.6 km,3.8 km
+t1617,2 mins,10 mins,8 mins,54 mins,23 mins,16 mins,8 mins,3.8 km,4.0 km,4.7 km,4.6 km,5.1 km
+t1618,1 min,3 mins,17 mins,1 hour 20 mins,31 mins,22 mins,17 mins,6.7 km,5.8 km,8.2 km,6.7 km,6.8 km
+t1619,1 min,3 mins,15 mins,1 hour 10 mins,34 mins,19 mins,13 mins,6.2 km,5.1 km,7.4 km,5.8 km,5.9 km
+t1620,1 min,1 min,24 mins,1 hour 59 mins,44 mins,30 mins,25 mins,9.8 km,8.6 km,14.3 km,9.0 km,10.1 km
+t1621,3 mins,2 mins,18 mins,1 hour 39 mins,30 mins,28 mins,18 mins,8.3 km,7.2 km,9.3 km,8.3 km,8.4 km
+t1622,1 min,6 mins,21 mins,1 hour 34 mins,33 mins,25 mins,21 mins,7.8 km,6.8 km,9.9 km,7.3 km,7.6 km
+t1623,3 mins,9 mins,23 mins,1 hour 53 mins,38 mins,29 mins,24 mins,8.6 km,8.1 km,11.5 km,8.5 km,8.8 km
+t1624,1 min,4 mins,12 mins,47 mins,21 mins,11 mins,10 mins,3.7 km,3.4 km,4.1 km,3.5 km,3.5 km
+t1625,3 mins,5 mins,11 mins,57 mins,23 mins,16 mins,12 mins,4.2 km,4.2 km,5.2 km,4.4 km,4.4 km
+t1626,1 min,1 min,8 mins,26 mins,14 mins,7 mins,7 mins,2.7 km,1.9 km,2.7 km,1.9 km,2.6 km
+t1627,3 mins,7 mins,15 mins,1 hour 16 mins,25 mins,19 mins,16 mins,5.9 km,5.4 km,6.1 km,5.8 km,6.2 km
+t1628,1 min,3 mins,27 mins,2 hours 23 mins,40 mins,36 mins,26 mins,12.1 km,10.3 km,13.2 km,10.9 km,11.8 km
+t1629,1 min,6 mins,19 mins,1 hour 20 mins,36 mins,20 mins,19 mins,7.1 km,5.8 km,6.9 km,5.9 km,7.2 km
+t1630,3 mins,2 mins,16 mins,1 hour 24 mins,37 mins,23 mins,16 mins,7.2 km,6.1 km,9.1 km,7.2 km,7.2 km
+t1631,3 mins,1 min,24 mins,1 hour 53 mins,37 mins,29 mins,24 mins,8.9 km,8.1 km,11.4 km,8.6 km,9.1 km
+t1632,1 min,7 mins,13 mins,53 mins,25 mins,14 mins,11 mins,5.9 km,3.9 km,5.4 km,4.2 km,5.0 km
+t1633,3 mins,5 mins,22 mins,1 hour 16 mins,32 mins,20 mins,20 mins,7.8 km,5.5 km,7.5 km,5.7 km,7.1 km
+t1634,1 min,8 mins,11 mins,52 mins,18 mins,14 mins,11 mins,3.6 km,3.8 km,4.9 km,4.0 km,3.9 km
+t1635,3 mins,5 mins,19 mins,1 hour 4 mins,27 mins,16 mins,16 mins,6.6 km,4.6 km,9.0 km,4.8 km,5.6 km
+t1636,7 mins,4 mins,20 mins,1 hour 26 mins,26 mins,22 mins,20 mins,6.8 km,6.2 km,8.4 km,6.6 km,7.1 km
+t1637,5 mins,5 mins,18 mins,1 hour 23 mins,23 mins,20 mins,18 mins,6.0 km,6.0 km,7.5 km,6.9 km,6.5 km
+t1638,3 mins,5 mins,21 mins,1 hour 37 mins,30 mins,25 mins,21 mins,7.7 km,7.0 km,9.3 km,7.8 km,7.4 km
+t1639,2 mins,4 mins,9 mins,43 mins,22 mins,12 mins,11 mins,3.3 km,3.1 km,3.8 km,3.5 km,4.0 km
+t1640,3 mins,2 mins,17 mins,1 hour 12 mins,32 mins,18 mins,16 mins,5.9 km,5.3 km,8.1 km,5.6 km,5.5 km
+t1641,4 mins,3 mins,20 mins,1 hour 37 mins,31 mins,25 mins,20 mins,7.4 km,7.1 km,10.6 km,7.4 km,7.4 km
+t1642,3 mins,1 min,20 mins,1 hour 23 mins,24 mins,21 mins,18 mins,6.7 km,6.0 km,8.7 km,6.2 km,6.2 km
+t1643,2 mins,3 mins,18 mins,1 hour 10 mins,32 mins,18 mins,17 mins,6.3 km,5.1 km,8.0 km,5.7 km,6.0 km
+t1644,2 mins,7 mins,20 mins,1 hour 47 mins,37 mins,26 mins,19 mins,10.0 km,8.0 km,14.2 km,8.4 km,10.2 km
+t1645,7 mins,7 mins,22 mins,1 hour 37 mins,32 mins,27 mins,21 mins,7.8 km,7.0 km,11.4 km,7.4 km,7.6 km
+t1646,6 mins,5 mins,22 mins,2 hours 7 mins,33 mins,31 mins,25 mins,9.1 km,9.3 km,12.6 km,9.4 km,9.7 km
+t1647,4 mins,4 mins,23 mins,1 hour 49 mins,31 mins,28 mins,23 mins,8.3 km,7.9 km,9.3 km,8.5 km,8.4 km
+t1648,7 mins,3 mins,19 mins,1 hour 1 min,29 mins,15 mins,18 mins,7.0 km,4.4 km,4.6 km,4.9 km,7.8 km
+t1649,6 mins,5 mins,8 mins,32 mins,12 mins,8 mins,7 mins,2.7 km,2.3 km,2.9 km,2.5 km,2.7 km
+t1650,3 mins,2 mins,20 mins,1 hour 8 mins,27 mins,18 mins,19 mins,6.8 km,4.9 km,6.5 km,5.6 km,6.3 km
+t1651,2 mins,6 mins,6 mins,26 mins,13 mins,7 mins,6 mins,2.2 km,1.9 km,2.0 km,2.0 km,2.3 km
+t1652,5 mins,7 mins,14 mins,1 hour 1 min,22 mins,14 mins,15 mins,4.8 km,4.4 km,6.6 km,4.5 km,4.8 km
+t1653,7 mins,6 mins,9 mins,40 mins,21 mins,10 mins,9 mins,3.0 km,2.9 km,3.3 km,2.9 km,2.9 km
+t1654,4 mins,1 min,16 mins,1 hour 6 mins,25 mins,17 mins,16 mins,5.7 km,4.8 km,6.5 km,5.4 km,5.8 km
+t1655,6 mins,6 mins,13 mins,51 mins,16 mins,13 mins,14 mins,4.3 km,3.7 km,4.8 km,4.0 km,4.4 km
+t1656,4 mins,7 mins,3 mins,13 mins,6 mins,3 mins,4 mins,0.6 km,0.9 km,0.9 km,0.9 km,0.9 km
+t1657,6 mins,2 mins,10 mins,39 mins,14 mins,11 mins,10 mins,3.3 km,2.9 km,3.3 km,3.4 km,3.5 km
+t1658,2 mins,5 mins,21 mins,1 hour 33 mins,33 mins,25 mins,19 mins,7.7 km,6.8 km,10.8 km,7.3 km,6.9 km
+t1659,3 mins,6 mins,6 mins,29 mins,20 mins,7 mins,7 mins,2.1 km,2.1 km,3.1 km,2.1 km,2.4 km
+t1660,7 mins,3 mins,10 mins,44 mins,19 mins,10 mins,10 mins,3.5 km,3.2 km,4.8 km,3.4 km,3.6 km
+t1661,5 mins,9 mins,17 mins,1 hour 4 mins,37 mins,16 mins,12 mins,7.8 km,4.6 km,9.4 km,5.1 km,5.4 km
+t1662,8 mins,4 mins,17 mins,1 hour 27 mins,40 mins,22 mins,15 mins,7.9 km,6.4 km,14.0 km,7.2 km,8.2 km
+t1663,8 mins,6 mins,12 mins,54 mins,20 mins,12 mins,12 mins,4.2 km,3.9 km,4.3 km,4.0 km,3.9 km
+t1664,8 mins,8 mins,21 mins,1 hour 35 mins,25 mins,24 mins,23 mins,6.9 km,6.9 km,9.2 km,6.9 km,7.5 km
+t1665,8 mins,8 mins,11 mins,29 mins,13 mins,10 mins,8 mins,3.6 km,2.1 km,2.3 km,3.2 km,2.3 km
+t1666,8 mins,7 mins,19 mins,1 hour 38 mins,43 mins,22 mins,19 mins,8.2 km,7.3 km,9.3 km,7.5 km,7.5 km
+t1667,5 mins,4 mins,15 mins,1 hour 7 mins,19 mins,18 mins,16 mins,5.2 km,4.9 km,6.4 km,5.1 km,6.2 km
+t1668,5 mins,7 mins,24 mins,1 hour 34 mins,29 mins,26 mins,20 mins,9.0 km,6.7 km,8.6 km,7.1 km,7.1 km
+t1669,5 mins,5 mins,14 mins,54 mins,21 mins,13 mins,13 mins,4.6 km,4.0 km,5.7 km,4.3 km,5.0 km
+t1670,5 mins,7 mins,20 mins,1 hour 35 mins,33 mins,25 mins,15 mins,8.8 km,6.8 km,7.8 km,7.4 km,7.1 km
+t1671,5 mins,10 mins,19 mins,1 hour 10 mins,27 mins,18 mins,13 mins,7.1 km,5.1 km,6.9 km,6.0 km,5.8 km
+t1672,8 mins,3 mins,8 mins,28 mins,13 mins,7 mins,8 mins,2.2 km,2.0 km,2.4 km,2.0 km,2.0 km
+t1673,5 mins,8 mins,16 mins,1 hour 7 mins,20 mins,16 mins,12 mins,5.9 km,4.9 km,5.6 km,5.2 km,5.1 km
+t1674,5 mins,8 mins,27 mins,1 hour 57 mins,27 mins,29 mins,24 mins,9.3 km,8.4 km,9.4 km,9.8 km,9.7 km
+t1675,5 mins,11 mins,13 mins,42 mins,25 mins,11 mins,9 mins,4.5 km,3.0 km,4.8 km,3.2 km,3.2 km
+t1676,5 mins,5 mins,26 mins,1 hour 55 mins,32 mins,30 mins,24 mins,9.0 km,8.3 km,11.5 km,8.8 km,9.0 km
+t1677,10 mins,4 mins,7 mins,29 mins,20 mins,10 mins,5 mins,2.7 km,2.2 km,2.3 km,2.2 km,2.0 km
+t1678,8 mins,3 mins,7 mins,37 mins,16 mins,11 mins,9 mins,2.4 km,2.7 km,3.0 km,2.8 km,3.6 km
+t1679,10 mins,3 mins,13 mins,55 mins,30 mins,18 mins,12 mins,4.6 km,4.0 km,7.4 km,4.6 km,4.3 km
+t1680,10 mins,4 mins,9 mins,31 mins,22 mins,8 mins,9 mins,2.8 km,2.3 km,3.1 km,2.5 km,3.8 km
+t1681,10 mins,1 min,12 mins,57 mins,27 mins,15 mins,13 mins,4.9 km,4.1 km,5.4 km,5.1 km,5.0 km
+t1682,8 mins,4 mins,19 mins,1 hour 25 mins,29 mins,21 mins,17 mins,6.6 km,6.2 km,9.4 km,6.5 km,6.8 km
+t1683,7 mins,6 mins,13 mins,55 mins,20 mins,14 mins,13 mins,4.1 km,3.9 km,5.1 km,4.2 km,4.4 km
+t1684,7 mins,7 mins,19 mins,1 hour 6 mins,34 mins,17 mins,17 mins,6.7 km,4.8 km,7.9 km,5.4 km,7.3 km
+t1685,8 mins,4 mins,18 mins,1 hour 26 mins,30 mins,21 mins,16 mins,6.7 km,6.2 km,9.5 km,6.5 km,6.5 km
+t1686,10 mins,5 mins,21 mins,1 hour 35 mins,33 mins,28 mins,21 mins,7.6 km,6.9 km,11.5 km,7.9 km,7.8 km
+t1687,7 mins,12 mins,7 mins,33 mins,20 mins,8 mins,8 mins,2.4 km,2.4 km,2.8 km,2.6 km,2.8 km
+t1688,10 mins,5 mins,5 mins,31 mins,18 mins,9 mins,7 mins,1.7 km,2.3 km,2.5 km,2.3 km,2.3 km
+t1689,8 mins,4 mins,21 mins,1 hour 46 mins,34 mins,27 mins,21 mins,7.4 km,7.6 km,8.4 km,8.6 km,8.2 km
+t1690,8 mins,2 mins,22 mins,2 hours 0 mins,32 mins,29 mins,25 mins,8.1 km,8.7 km,10.4 km,9.7 km,9.9 km
+t1691,8 mins,10 mins,17 mins,1 hour 13 mins,24 mins,19 mins,16 mins,5.7 km,5.3 km,6.2 km,6.2 km,5.7 km
+t1692,9 mins,4 mins,18 mins,1 hour 20 mins,24 mins,19 mins,18 mins,5.8 km,5.8 km,7.7 km,6.4 km,6.6 km
+t1693,9 mins,5 mins,20 mins,1 hour 24 mins,26 mins,22 mins,20 mins,6.6 km,6.1 km,8.4 km,6.4 km,7.0 km
+t1694,8 mins,7 mins,19 mins,1 hour 43 mins,39 mins,25 mins,16 mins,9.7 km,7.6 km,14.7 km,8.4 km,9.3 km
+t1695,8 mins,6 mins,5 mins,32 mins,10 mins,7 mins,6 mins,1.9 km,2.3 km,2.5 km,2.4 km,2.4 km
+t1696,10 mins,7 mins,11 mins,43 mins,21 mins,14 mins,8 mins,3.7 km,3.3 km,3.5 km,3.3 km,3.1 km
+t1697,10 mins,3 mins,7 mins,25 mins,10 mins,7 mins,6 mins,2.5 km,1.8 km,2.6 km,1.9 km,2.0 km
+t1698,9 mins,7 mins,8 mins,30 mins,12 mins,7 mins,6 mins,2.5 km,2.1 km,2.3 km,2.0 km,2.0 km
+t1699,8 mins,5 mins,10 mins,53 mins,24 mins,14 mins,12 mins,3.5 km,3.8 km,3.9 km,4.0 km,3.9 km
+t1700,10 mins,3 mins,9 mins,48 mins,16 mins,11 mins,11 mins,3.2 km,3.5 km,4.6 km,3.7 km,3.9 km
+t1701,10 mins,12 mins,17 mins,1 hour 49 mins,33 mins,28 mins,17 mins,7.7 km,8.0 km,8.9 km,9.0 km,9.1 km
+t1702,10 mins,3 mins,12 mins,48 mins,16 mins,13 mins,11 mins,4.1 km,3.4 km,4.2 km,3.8 km,3.8 km
+t1703,8 mins,4 mins,21 mins,1 hour 30 mins,28 mins,23 mins,22 mins,7.1 km,6.5 km,10.1 km,7.1 km,7.4 km
+t1704,9 mins,5 mins,7 mins,32 mins,12 mins,8 mins,7 mins,2.4 km,2.3 km,2.9 km,2.5 km,2.7 km
+t1705,10 mins,7 mins,17 mins,1 hour 19 mins,30 mins,21 mins,19 mins,6.5 km,5.8 km,7.9 km,7.2 km,7.0 km
+t1706,11 mins,8 mins,8 mins,53 mins,25 mins,13 mins,12 mins,3.1 km,3.8 km,4.7 km,4.1 km,4.3 km
+t1707,3 mins,5 mins,19 mins,1 hour 16 mins,29 mins,19 mins,18 mins,6.6 km,5.5 km,6.0 km,5.8 km,6.5 km
+t1708,11 mins,7 mins,14 mins,1 hour 4 mins,26 mins,16 mins,13 mins,5.2 km,4.6 km,5.2 km,4.7 km,4.7 km
+t1709,3 mins,6 mins,22 mins,1 hour 48 mins,35 mins,27 mins,23 mins,7.8 km,7.9 km,8.3 km,8.4 km,8.1 km
+t1710,3 mins,2 mins,25 mins,2 hours 10 mins,35 mins,33 mins,26 mins,9.5 km,9.4 km,13.0 km,9.7 km,9.7 km
+t1711,3 mins,6 mins,14 mins,1 hour 3 mins,25 mins,15 mins,14 mins,4.8 km,4.5 km,5.9 km,4.8 km,4.8 km
+t1712,11 mins,5 mins,10 mins,54 mins,27 mins,14 mins,13 mins,3.5 km,3.9 km,4.6 km,4.4 km,4.6 km
+t1713,11 mins,1 min,10 mins,50 mins,26 mins,13 mins,12 mins,4.6 km,3.6 km,5.2 km,4.3 km,5.1 km
+t1714,3 mins,6 mins,12 mins,1 hour 5 mins,29 mins,16 mins,13 mins,4.8 km,4.8 km,5.4 km,4.9 km,5.1 km
+t1715,11 mins,4 mins,16 mins,1 hour 24 mins,31 mins,18 mins,17 mins,6.1 km,6.1 km,9.1 km,6.1 km,6.6 km
+t1716,11 mins,9 mins,15 mins,1 hour 18 mins,29 mins,19 mins,17 mins,5.3 km,5.6 km,6.4 km,6.1 km,5.8 km
+t1717,3 mins,6 mins,13 mins,1 hour 8 mins,29 mins,18 mins,14 mins,4.7 km,4.9 km,5.5 km,5.1 km,5.1 km
+t1718,3 mins,4 mins,17 mins,1 hour 25 mins,30 mins,22 mins,20 mins,5.9 km,6.2 km,6.5 km,6.4 km,7.0 km
+t1719,3 mins,3 mins,11 mins,54 mins,23 mins,12 mins,12 mins,4.0 km,3.9 km,4.5 km,4.0 km,4.3 km
+t1720,11 mins,3 mins,8 mins,49 mins,27 mins,13 mins,11 mins,3.0 km,3.5 km,4.5 km,3.6 km,3.6 km
+t1721,11 mins,3 mins,23 mins,1 hour 54 mins,38 mins,29 mins,24 mins,8.6 km,8.3 km,11.0 km,8.7 km,9.0 km
+t1722,7 mins,3 mins,6 mins,28 mins,9 mins,8 mins,7 mins,2.4 km,2.0 km,2.2 km,2.1 km,2.3 km
+t1723,7 mins,2 mins,17 mins,1 hour 13 mins,31 mins,19 mins,17 mins,5.8 km,5.3 km,11.7 km,5.4 km,5.5 km
+t1724,7 mins,2 mins,19 mins,1 hour 8 mins,34 mins,18 mins,19 mins,6.6 km,4.9 km,6.2 km,5.3 km,6.2 km
+t1725,8 mins,5 mins,24 mins,1 hour 36 mins,33 mins,28 mins,21 mins,8.1 km,7.0 km,11.5 km,7.9 km,7.9 km
+t1726,7 mins,1 min,9 mins,42 mins,17 mins,12 mins,11 mins,3.1 km,3.1 km,3.5 km,3.7 km,3.7 km
+t1727,7 mins,3 mins,9 mins,25 mins,10 mins,7 mins,7 mins,3.3 km,1.8 km,2.6 km,2.0 km,2.0 km
+t1728,8 mins,9 mins,10 mins,34 mins,10 mins,9 mins,8 mins,3.2 km,2.5 km,2.8 km,2.7 km,2.9 km
+t1729,8 mins,2 mins,21 mins,1 hour 33 mins,26 mins,24 mins,21 mins,7.2 km,6.8 km,9.0 km,6.8 km,7.4 km
+t1730,7 mins,6 mins,10 mins,35 mins,13 mins,9 mins,8 mins,3.2 km,2.6 km,2.9 km,2.9 km,3.0 km
+t1731,7 mins,2 mins,12 mins,36 mins,13 mins,11 mins,9 mins,4.3 km,2.6 km,3.6 km,3.0 km,2.9 km
+t1732,8 mins,8 mins,15 mins,1 hour 4 mins,19 mins,16 mins,14 mins,5.1 km,4.7 km,6.5 km,4.7 km,4.8 km
+t1733,7 mins,6 mins,22 mins,1 hour 48 mins,43 mins,27 mins,22 mins,10.5 km,7.8 km,11.9 km,8.5 km,8.8 km
+t1734,7 mins,1 min,12 mins,56 mins,28 mins,17 mins,14 mins,5.0 km,4.1 km,5.3 km,5.4 km,5.3 km
+t1735,8 mins,1 min,16 mins,1 hour 10 mins,24 mins,17 mins,15 mins,6.1 km,5.1 km,6.4 km,5.3 km,6.0 km
+t1736,8 mins,6 mins,22 mins,1 hour 33 mins,34 mins,22 mins,22 mins,8.1 km,6.7 km,8.1 km,7.6 km,8.2 km
+t1737,8 mins,5 mins,8 mins,31 mins,13 mins,9 mins,7 mins,3.0 km,2.3 km,2.8 km,2.6 km,2.2 km
+t1738,7 mins,7 mins,8 mins,37 mins,22 mins,11 mins,10 mins,2.9 km,2.7 km,4.5 km,3.0 km,3.3 km
+t1739,7 mins,7 mins,14 mins,56 mins,23 mins,16 mins,12 mins,5.2 km,4.0 km,5.2 km,4.5 km,4.9 km
+t1740,4 mins,8 mins,25 mins,1 hour 48 mins,33 mins,28 mins,23 mins,11.2 km,7.8 km,9.1 km,8.4 km,8.7 km
+t1741,6 mins,4 mins,6 mins,22 mins,6 mins,6 mins,5 mins,2.2 km,1.6 km,1.6 km,1.6 km,1.7 km
+t1742,4 mins,6 mins,16 mins,1 hour 5 mins,17 mins,16 mins,15 mins,5.6 km,4.7 km,5.5 km,5.0 km,5.3 km
+t1743,4 mins,6 mins,21 mins,1 hour 14 mins,25 mins,19 mins,20 mins,6.5 km,5.4 km,7.6 km,5.6 km,7.2 km
+t1744,4 mins,8 mins,12 mins,45 mins,15 mins,11 mins,10 mins,4.2 km,3.3 km,3.8 km,3.4 km,3.8 km
+t1745,6 mins,8 mins,25 mins,1 hour 39 mins,38 mins,24 mins,24 mins,8.9 km,7.2 km,8.9 km,7.9 km,8.7 km
+t1746,4 mins,4 mins,23 mins,1 hour 16 mins,22 mins,22 mins,22 mins,8.1 km,5.5 km,8.7 km,7.2 km,6.9 km
+t1747,6 mins,3 mins,7 mins,28 mins,10 mins,7 mins,6 mins,2.8 km,2.0 km,2.3 km,2.0 km,2.3 km
+t1748,4 mins,5 mins,6 mins,25 mins,8 mins,8 mins,5 mins,1.9 km,1.8 km,1.7 km,2.3 km,2.3 km
+t1749,4 mins,8 mins,10 mins,35 mins,12 mins,11 mins,9 mins,3.2 km,2.5 km,2.8 km,3.1 km,3.0 km
+t1750,4 mins,7 mins,21 mins,1 hour 18 mins,29 mins,19 mins,17 mins,9.2 km,5.7 km,11.8 km,6.1 km,6.7 km
+t1751,4 mins,3 mins,14 mins,41 mins,18 mins,10 mins,10 mins,4.6 km,3.0 km,4.6 km,3.0 km,3.7 km
+t1752,6 mins,7 mins,11 mins,39 mins,16 mins,12 mins,9 mins,4.0 km,2.8 km,4.7 km,3.2 km,3.2 km
+t1753,6 mins,12 mins,20 mins,1 hour 53 mins,36 mins,28 mins,17 mins,8.6 km,8.2 km,15.8 km,8.9 km,9.3 km
+t1754,7 mins,5 mins,13 mins,1 hour 12 mins,33 mins,17 mins,12 mins,5.9 km,5.2 km,7.7 km,5.4 km,5.8 km
+t1755,7 mins,3 mins,22 mins,1 hour 27 mins,47 mins,22 mins,21 mins,8.6 km,6.3 km,8.7 km,6.7 km,8.2 km
+t1756,2 mins,3 mins,11 mins,50 mins,21 mins,13 mins,12 mins,4.4 km,3.6 km,4.7 km,3.8 km,4.0 km
+t1757,7 mins,2 mins,19 mins,1 hour 25 mins,37 mins,21 mins,19 mins,8.3 km,6.2 km,8.7 km,6.6 km,8.3 km
+t1758,2 mins,8 mins,10 mins,57 mins,22 mins,15 mins,13 mins,4.3 km,4.2 km,4.5 km,4.2 km,4.8 km
+t1759,7 mins,9 mins,21 mins,1 hour 36 mins,52 mins,24 mins,21 mins,8.5 km,6.9 km,16.7 km,7.4 km,9.8 km
+t1760,2 mins,5 mins,8 mins,43 mins,15 mins,13 mins,8 mins,3.4 km,3.1 km,3.4 km,3.5 km,3.2 km
+t1761,2 mins,8 mins,5 mins,34 mins,20 mins,9 mins,10 mins,1.9 km,2.5 km,4.5 km,2.3 km,2.9 km
+t1762,2 mins,8 mins,20 mins,1 hour 39 mins,37 mins,25 mins,21 mins,9.0 km,7.2 km,10.5 km,7.7 km,9.0 km
+t1763,7 mins,6 mins,20 mins,1 hour 25 mins,37 mins,21 mins,19 mins,7.2 km,6.2 km,8.7 km,6.6 km,8.3 km
+t1764,7 mins,3 mins,6 mins,37 mins,12 mins,8 mins,6 mins,2.2 km,2.6 km,2.7 km,2.3 km,2.3 km
+t1765,2 mins,7 mins,21 mins,1 hour 46 mins,35 mins,28 mins,23 mins,7.9 km,7.7 km,9.3 km,8.4 km,10.1 km
+t1766,7 mins,5 mins,12 mins,57 mins,23 mins,14 mins,12 mins,4.3 km,4.2 km,5.5 km,4.2 km,4.2 km
+t1767,7 mins,11 mins,11 mins,37 mins,23 mins,9 mins,9 mins,5.0 km,2.7 km,3.0 km,2.5 km,3.8 km
+t1768,7 mins,4 mins,11 mins,59 mins,38 mins,15 mins,12 mins,4.5 km,4.3 km,10.2 km,4.6 km,4.7 km
+t1769,7 mins,7 mins,14 mins,1 hour 20 mins,34 mins,19 mins,19 mins,5.8 km,5.8 km,8.2 km,6.4 km,6.9 km
+t1770,2 mins,13 mins,15 mins,1 hour 15 mins,30 mins,18 mins,15 mins,5.7 km,5.5 km,7.8 km,5.8 km,5.8 km
+t1771,7 mins,4 mins,20 mins,1 hour 39 mins,32 mins,25 mins,21 mins,8.1 km,7.2 km,9.4 km,8.5 km,8.6 km
+t1772,2 mins,8 mins,18 mins,1 hour 14 mins,26 mins,20 mins,18 mins,6.5 km,5.4 km,6.4 km,5.7 km,5.9 km
+t1773,7 mins,6 mins,18 mins,1 hour 4 mins,25 mins,17 mins,17 mins,6.0 km,4.7 km,5.3 km,4.9 km,5.9 km
+t1774,2 mins,6 mins,14 mins,1 hour 1 min,27 mins,16 mins,13 mins,4.7 km,4.4 km,5.2 km,4.7 km,4.7 km
+t1775,2 mins,4 mins,8 mins,37 mins,14 mins,10 mins,8 mins,3.0 km,2.7 km,2.8 km,3.0 km,3.0 km
+t1776,2 mins,5 mins,6 mins,15 mins,11 mins,3 mins,3 mins,1.7 km,1.1 km,1.3 km,1.1 km,1.2 km
+t1777,7 mins,7 mins,25 mins,2 hours 6 mins,36 mins,31 mins,24 mins,9.9 km,9.1 km,13.4 km,9.3 km,9.7 km
+t1778,7 mins,7 mins,13 mins,1 hour 5 mins,19 mins,17 mins,15 mins,4.5 km,4.7 km,5.9 km,5.1 km,5.2 km
+t1779,7 mins,7 mins,5 mins,7 mins,7 mins,2 mins,3 mins,1.1 km,0.5 km,0.5 km,0.6 km,0.5 km
+t1780,2 mins,10 mins,19 mins,1 hour 36 mins,34 mins,24 mins,22 mins,7.2 km,6.9 km,12.0 km,7.1 km,7.7 km
+t1781,2 mins,5 mins,17 mins,1 hour 15 mins,28 mins,18 mins,17 mins,6.0 km,5.5 km,6.9 km,5.8 km,5.6 km
+t1782,6 mins,3 mins,25 mins,1 hour 41 mins,33 mins,25 mins,23 mins,8.3 km,7.3 km,8.0 km,7.6 km,8.2 km
+t1783,7 mins,6 mins,16 mins,1 hour 20 mins,28 mins,20 mins,16 mins,6.0 km,5.7 km,5.9 km,6.8 km,7.0 km
+t1784,7 mins,7 mins,16 mins,1 hour 10 mins,23 mins,16 mins,14 mins,5.3 km,5.1 km,5.7 km,5.4 km,5.5 km
+t1785,5 mins,6 mins,22 mins,1 hour 56 mins,32 mins,28 mins,22 mins,9.3 km,8.4 km,9.9 km,8.6 km,9.8 km
+t1786,8 mins,5 mins,24 mins,1 hour 44 mins,35 mins,27 mins,20 mins,8.8 km,7.6 km,8.7 km,8.7 km,9.1 km
+t1787,4 mins,11 mins,9 mins,47 mins,29 mins,17 mins,10 mins,2.8 km,3.4 km,4.4 km,3.9 km,3.7 km
+t1788,4 mins,5 mins,20 mins,1 hour 34 mins,42 mins,20 mins,20 mins,7.8 km,6.9 km,8.2 km,6.9 km,8.4 km
+t1789,5 mins,2 mins,26 mins,1 hour 56 mins,37 mins,28 mins,24 mins,9.1 km,8.4 km,9.1 km,8.9 km,8.6 km
+t1790,6 mins,4 mins,13 mins,1 hour 1 min,19 mins,14 mins,10 mins,4.7 km,4.3 km,4.6 km,4.4 km,4.4 km
+t1791,7 mins,7 mins,21 mins,1 hour 38 mins,33 mins,24 mins,20 mins,7.2 km,7.1 km,8.0 km,7.7 km,7.5 km
+t1792,6 mins,2 mins,14 mins,1 hour 5 mins,28 mins,19 mins,14 mins,4.9 km,4.7 km,6.6 km,5.3 km,5.1 km
+t1793,7 mins,7 mins,25 mins,1 hour 50 mins,36 mins,25 mins,19 mins,8.9 km,8.0 km,9.0 km,8.5 km,8.8 km
+t1794,6 mins,4 mins,11 mins,48 mins,27 mins,15 mins,10 mins,4.4 km,3.5 km,5.4 km,4.7 km,4.5 km
+t1795,4 mins,5 mins,17 mins,1 hour 15 mins,30 mins,19 mins,15 mins,5.8 km,5.5 km,6.9 km,5.7 km,5.7 km
+t1796,6 mins,4 mins,27 mins,2 hours 13 mins,44 mins,31 mins,25 mins,10.4 km,9.6 km,11.6 km,10.6 km,11.4 km
+t1797,5 mins,9 mins,14 mins,1 hour 2 mins,27 mins,15 mins,14 mins,5.0 km,4.5 km,4.8 km,4.8 km,4.9 km
+t1798,6 mins,10 mins,13 mins,1 hour 6 mins,25 mins,14 mins,12 mins,4.4 km,4.8 km,5.3 km,4.9 km,4.9 km
+t1799,7 mins,6 mins,23 mins,1 hour 59 mins,37 mins,28 mins,21 mins,8.8 km,8.5 km,9.4 km,8.9 km,9.4 km
+t1800,5 mins,5 mins,11 mins,44 mins,16 mins,12 mins,8 mins,4.2 km,3.2 km,3.1 km,3.5 km,3.6 km
+t1801,4 mins,6 mins,26 mins,2 hours 22 mins,46 mins,34 mins,25 mins,10.4 km,10.2 km,15.5 km,10.8 km,11.0 km
+t1802,5 mins,5 mins,18 mins,1 hour 24 mins,31 mins,20 mins,18 mins,6.7 km,6.2 km,6.8 km,6.2 km,6.5 km
+t1803,4 mins,3 mins,15 mins,1 hour 15 mins,32 mins,18 mins,14 mins,5.6 km,5.4 km,6.9 km,5.4 km,5.6 km
+t1804,3 mins,1 min,13 mins,1 hour 7 mins,30 mins,20 mins,13 mins,5.1 km,4.8 km,6.5 km,6.1 km,5.0 km
+t1805,4 mins,3 mins,21 mins,1 hour 37 mins,29 mins,27 mins,20 mins,9.8 km,7.0 km,10.9 km,8.2 km,9.2 km
+t1806,3 mins,1 min,21 mins,1 hour 41 mins,33 mins,25 mins,20 mins,9.7 km,7.3 km,11.2 km,7.6 km,9.5 km
+t1807,4 mins,8 mins,13 mins,45 mins,13 mins,12 mins,10 mins,5.6 km,3.3 km,3.2 km,3.7 km,3.7 km
+t1808,3 mins,13 mins,22 mins,2 hours 37 mins,33 mins,39 mins,20 mins,22.7 km,11.5 km,13.5 km,12.3 km,22.2 km
+t1809,3 mins,5 mins,19 mins,1 hour 38 mins,31 mins,26 mins,17 mins,8.6 km,7.1 km,9.3 km,7.9 km,8.0 km
+t1810,2 mins,8 mins,19 mins,1 hour 39 mins,19 mins,25 mins,19 mins,8.2 km,7.2 km,7.7 km,7.5 km,8.1 km
+t1811,4 mins,3 mins,20 mins,1 hour 30 mins,14 mins,24 mins,20 mins,8.8 km,6.5 km,6.8 km,6.9 km,8.6 km
+t1812,2 mins,7 mins,19 mins,1 hour 34 mins,26 mins,24 mins,18 mins,8.6 km,6.8 km,9.0 km,7.5 km,7.6 km
+t1813,4 mins,4 mins,5 mins,14 mins,8 mins,4 mins,4 mins,1.4 km,1.0 km,1.2 km,1.0 km,1.0 km
+t1814,2 mins,6 mins,22 mins,2 hours 0 mins,20 mins,30 mins,22 mins,9.6 km,8.7 km,9.2 km,8.6 km,9.2 km
+t1815,4 mins,4 mins,21 mins,1 hour 57 mins,19 mins,28 mins,21 mins,9.8 km,8.4 km,9.1 km,8.3 km,9.2 km
+t1816,4 mins,3 mins,12 mins,51 mins,17 mins,14 mins,12 mins,4.6 km,3.7 km,4.1 km,4.2 km,4.6 km
+t1817,3 mins,6 mins,17 mins,1 hour 54 mins,34 mins,28 mins,18 mins,8.2 km,8.2 km,9.7 km,8.5 km,8.5 km
+t1818,2 mins,7 mins,13 mins,1 hour 0 mins,20 mins,17 mins,15 mins,4.9 km,4.3 km,4.3 km,4.9 km,5.4 km
+t1819,2 mins,4 mins,10 mins,47 mins,11 mins,11 mins,10 mins,3.5 km,3.4 km,3.0 km,3.4 km,3.6 km
+t1820,4 mins,5 mins,14 mins,55 mins,22 mins,16 mins,11 mins,4.8 km,4.0 km,6.4 km,4.7 km,4.7 km
+t1821,3 mins,4 mins,12 mins,53 mins,19 mins,14 mins,11 mins,4.7 km,3.8 km,4.7 km,4.4 km,4.1 km
+t1822,3 mins,6 mins,9 mins,28 mins,21 mins,9 mins,6 mins,2.8 km,2.0 km,4.3 km,2.4 km,2.0 km
+t1823,3 mins,5 mins,21 mins,1 hour 32 mins,35 mins,27 mins,19 mins,9.0 km,6.7 km,10.4 km,8.0 km,8.3 km
+t1824,4 mins,7 mins,23 mins,1 hour 42 mins,31 mins,25 mins,20 mins,9.9 km,7.5 km,10.1 km,7.6 km,8.9 km
+t1825,4 mins,7 mins,10 mins,52 mins,25 mins,14 mins,10 mins,4.2 km,3.8 km,4.3 km,4.3 km,4.3 km
+t1826,4 mins,5 mins,15 mins,1 hour 19 mins,26 mins,21 mins,16 mins,6.2 km,5.6 km,6.1 km,6.5 km,5.9 km
+t1827,4 mins,10 mins,11 mins,1 hour 5 mins,27 mins,18 mins,14 mins,4.3 km,4.7 km,5.0 km,5.6 km,4.9 km
+t1828,4 mins,5 mins,24 mins,2 hours 1 min,25 mins,29 mins,23 mins,10.1 km,8.8 km,9.8 km,8.8 km,9.9 km
+t1829,4 mins,13 mins,22 mins,1 hour 44 mins,31 mins,28 mins,23 mins,9.4 km,7.6 km,8.3 km,8.2 km,9.6 km
+t1830,4 mins,1 min,20 mins,1 hour 53 mins,34 mins,29 mins,19 mins,8.3 km,8.1 km,8.8 km,8.2 km,8.1 km
+t1831,4 mins,5 mins,13 mins,1 hour 13 mins,25 mins,19 mins,13 mins,5.6 km,5.2 km,6.0 km,5.7 km,5.4 km
+t1832,4 mins,3 mins,5 mins,25 mins,16 mins,7 mins,5 mins,2.0 km,1.8 km,2.4 km,1.9 km,1.9 km
+t1833,4 mins,6 mins,11 mins,50 mins,16 mins,13 mins,10 mins,4.6 km,3.6 km,3.9 km,3.7 km,3.7 km
+t1834,4 mins,1 min,6 mins,25 mins,16 mins,7 mins,5 mins,2.2 km,1.8 km,2.4 km,1.9 km,1.9 km
+t1835,4 mins,6 mins,12 mins,42 mins,23 mins,11 mins,8 mins,4.0 km,2.9 km,5.0 km,2.9 km,3.1 km
+t1836,4 mins,5 mins,20 mins,1 hour 53 mins,41 mins,29 mins,24 mins,9.1 km,8.2 km,11.4 km,8.8 km,10.0 km
+t1837,4 mins,7 mins,27 mins,2 hours 0 mins,33 mins,30 mins,28 mins,11.0 km,8.7 km,10.0 km,9.1 km,11.4 km
+t1838,3 mins,13 mins,17 mins,1 hour 33 mins,33 mins,26 mins,18 mins,7.3 km,6.7 km,8.2 km,7.6 km,8.0 km
+t1839,3 mins,3 mins,12 mins,1 hour 12 mins,34 mins,19 mins,13 mins,5.6 km,5.2 km,8.8 km,5.5 km,5.9 km
+t1840,7 mins,7 mins,7 mins,46 mins,18 mins,10 mins,6 mins,2.8 km,3.3 km,4.0 km,3.0 km,3.0 km
+t1841,9 mins,5 mins,17 mins,1 hour 8 mins,23 mins,17 mins,13 mins,7.3 km,5.0 km,4.9 km,5.1 km,5.8 km
+t1842,3 mins,6 mins,11 mins,54 mins,28 mins,14 mins,11 mins,5.2 km,4.0 km,5.3 km,4.4 km,4.9 km
+t1843,7 mins,3 mins,10 mins,36 mins,16 mins,11 mins,10 mins,4.4 km,2.6 km,2.9 km,3.4 km,3.8 km
+t1844,7 mins,1 min,10 mins,45 mins,22 mins,16 mins,11 mins,3.6 km,3.2 km,5.6 km,4.9 km,3.8 km
+t1845,7 mins,8 mins,11 mins,59 mins,21 mins,16 mins,11 mins,5.1 km,4.3 km,4.3 km,4.7 km,5.3 km
+t1846,3 mins,7 mins,13 mins,1 hour 3 mins,30 mins,16 mins,14 mins,4.2 km,4.6 km,5.9 km,4.9 km,6.0 km
+t1847,3 mins,8 mins,9 mins,42 mins,15 mins,11 mins,8 mins,3.1 km,3.0 km,3.7 km,3.4 km,3.1 km
+t1848,9 mins,5 mins,7 mins,35 mins,20 mins,9 mins,7 mins,3.2 km,2.6 km,3.1 km,2.8 km,3.0 km
+t1849,9 mins,6 mins,7 mins,26 mins,17 mins,7 mins,7 mins,2.5 km,1.9 km,2.3 km,2.1 km,2.7 km
+t1850,9 mins,3 mins,12 mins,50 mins,22 mins,13 mins,11 mins,4.7 km,3.7 km,4.0 km,3.9 km,4.2 km
+t1851,3 mins,4 mins,13 mins,1 hour 22 mins,36 mins,22 mins,15 mins,6.1 km,5.9 km,7.4 km,6.5 km,6.4 km
+t1852,7 mins,4 mins,17 mins,1 hour 28 mins,38 mins,27 mins,19 mins,9.3 km,6.4 km,10.2 km,7.7 km,9.5 km
+t1853,3 mins,3 mins,19 mins,1 hour 30 mins,42 mins,26 mins,20 mins,8.6 km,6.5 km,9.0 km,8.2 km,8.5 km
+t1854,3 mins,5 mins,17 mins,1 hour 34 mins,34 mins,23 mins,16 mins,7.9 km,6.9 km,10.1 km,6.9 km,7.5 km
+t1855,7 mins,8 mins,14 mins,57 mins,28 mins,17 mins,15 mins,6.3 km,4.1 km,5.8 km,4.9 km,6.5 km
+t1856,7 mins,4 mins,17 mins,1 hour 32 mins,36 mins,23 mins,17 mins,7.7 km,6.7 km,7.8 km,6.7 km,7.4 km
+t1857,4 mins,6 mins,14 mins,53 mins,20 mins,15 mins,12 mins,4.8 km,3.9 km,5.4 km,4.3 km,4.3 km
+t1858,3 mins,10 mins,12 mins,51 mins,24 mins,13 mins,11 mins,5.4 km,3.7 km,4.2 km,3.8 km,3.8 km
+t1859,7 mins,2 mins,14 mins,1 hour 14 mins,33 mins,19 mins,14 mins,5.8 km,5.3 km,5.8 km,5.5 km,5.6 km
+t1860,7 mins,11 mins,13 mins,44 mins,21 mins,12 mins,10 mins,4.3 km,3.2 km,4.6 km,3.6 km,3.7 km
+t1861,6 mins,3 mins,21 mins,1 hour 38 mins,36 mins,27 mins,20 mins,8.6 km,7.1 km,9.4 km,8.0 km,8.1 km
+t1862,6 mins,3 mins,18 mins,1 hour 21 mins,32 mins,21 mins,19 mins,7.7 km,5.9 km,7.2 km,6.2 km,7.6 km
+t1863,3 mins,3 mins,22 mins,1 hour 48 mins,38 mins,29 mins,21 mins,9.9 km,7.8 km,9.0 km,8.9 km,9.7 km
+t1864,6 mins,3 mins,4 mins,14 mins,7 mins,4 mins,3 mins,1.6 km,1.1 km,1.2 km,1.1 km,1.1 km
+t1865,3 mins,4 mins,17 mins,1 hour 11 mins,30 mins,19 mins,14 mins,5.8 km,5.1 km,6.6 km,5.4 km,5.1 km
+t1866,6 mins,7 mins,17 mins,1 hour 13 mins,34 mins,20 mins,16 mins,6.7 km,5.3 km,6.9 km,5.4 km,6.5 km
+t1867,6 mins,2 mins,25 mins,2 hours 27 mins,33 mins,37 mins,25 mins,11.4 km,10.7 km,11.6 km,11.0 km,11.2 km
+t1868,7 mins,7 mins,24 mins,2 hours 47 mins,40 mins,43 mins,23 mins,22.9 km,12.3 km,15.0 km,13.5 km,23.1 km
+t1869,3 mins,6 mins,14 mins,1 hour 5 mins,24 mins,17 mins,13 mins,5.7 km,4.7 km,5.2 km,4.8 km,4.8 km
+t1870,6 mins,4 mins,25 mins,2 hours 27 mins,38 mins,38 mins,25 mins,11.8 km,10.7 km,12.7 km,11.0 km,11.5 km
+t1871,3 mins,8 mins,22 mins,2 hours 13 mins,33 mins,32 mins,23 mins,9.8 km,9.6 km,10.5 km,9.5 km,10.0 km
+t1872,7 mins,6 mins,7 mins,27 mins,8 mins,8 mins,5 mins,2.7 km,1.9 km,2.2 km,1.9 km,1.9 km
+t1873,6 mins,6 mins,13 mins,1 hour 1 min,27 mins,17 mins,13 mins,5.1 km,4.4 km,5.3 km,4.5 km,4.6 km
+t1874,6 mins,3 mins,8 mins,40 mins,12 mins,10 mins,8 mins,2.7 km,2.9 km,3.0 km,3.0 km,3.0 km
+t1875,6 mins,5 mins,15 mins,1 hour 4 mins,23 mins,20 mins,16 mins,5.2 km,4.6 km,7.6 km,5.7 km,5.8 km
+t1876,6 mins,1 min,7 mins,47 mins,17 mins,12 mins,9 mins,3.0 km,3.4 km,4.9 km,3.4 km,3.6 km
+t1877,6 mins,3 mins,21 mins,1 hour 49 mins,28 mins,30 mins,21 mins,8.3 km,7.8 km,10.0 km,8.3 km,8.8 km
+t1878,6 mins,6 mins,14 mins,1 hour 6 mins,24 mins,16 mins,13 mins,4.6 km,4.8 km,8.8 km,4.6 km,4.6 km
+t1879,6 mins,8 mins,11 mins,49 mins,14 mins,12 mins,10 mins,3.7 km,3.6 km,3.7 km,3.7 km,3.7 km
+t1880,6 mins,8 mins,8 mins,39 mins,20 mins,11 mins,11 mins,3.3 km,2.8 km,3.0 km,2.9 km,3.3 km
+t1881,6 mins,7 mins,20 mins,1 hour 41 mins,35 mins,25 mins,22 mins,8.7 km,7.3 km,7.9 km,7.8 km,7.6 km
+t1882,6 mins,6 mins,5 mins,35 mins,16 mins,10 mins,8 mins,2.2 km,2.5 km,3.2 km,2.5 km,2.6 km
+t1883,6 mins,3 mins,14 mins,1 hour 8 mins,34 mins,19 mins,14 mins,5.2 km,4.9 km,9.1 km,5.3 km,6.0 km
+t1884,6 mins,5 mins,14 mins,57 mins,24 mins,15 mins,13 mins,4.7 km,4.1 km,5.7 km,4.3 km,4.2 km
+t1885,6 mins,3 mins,9 mins,40 mins,21 mins,10 mins,9 mins,3.6 km,2.9 km,3.8 km,2.9 km,3.1 km
+t1886,6 mins,2 mins,11 mins,55 mins,17 mins,15 mins,13 mins,4.3 km,4.0 km,4.7 km,4.0 km,4.1 km
+t1887,6 mins,1 min,11 mins,46 mins,30 mins,11 mins,9 mins,4.0 km,3.3 km,6.9 km,3.5 km,3.6 km
+t1888,6 mins,7 mins,3 mins,19 mins,12 mins,7 mins,4 mins,0.8 km,1.3 km,1.4 km,1.6 km,1.3 km
+t1889,6 mins,4 mins,11 mins,45 mins,21 mins,12 mins,12 mins,3.2 km,3.2 km,3.6 km,3.4 km,3.5 km
+t1890,6 mins,4 mins,12 mins,48 mins,25 mins,13 mins,13 mins,3.6 km,3.5 km,3.9 km,3.7 km,3.8 km
+t1891,6 mins,6 mins,12 mins,46 mins,24 mins,14 mins,12 mins,3.4 km,3.3 km,4.2 km,3.7 km,4.4 km
+t1892,6 mins,6 mins,7 mins,22 mins,13 mins,7 mins,7 mins,1.8 km,1.6 km,2.0 km,1.9 km,1.9 km
+t1893,6 mins,7 mins,7 mins,25 mins,19 mins,7 mins,7 mins,2.2 km,1.8 km,2.3 km,2.1 km,2.3 km
+t1894,6 mins,8 mins,9 mins,22 mins,14 mins,5 mins,6 mins,2.1 km,1.6 km,2.4 km,1.7 km,2.1 km
+t1895,6 mins,4 mins,12 mins,1 hour 5 mins,34 mins,15 mins,13 mins,4.5 km,4.7 km,5.6 km,4.8 km,4.9 km
+t1896,6 mins,5 mins,17 mins,1 hour 20 mins,36 mins,22 mins,19 mins,6.0 km,5.7 km,9.7 km,6.7 km,6.4 km
+t1897,6 mins,6 mins,9 mins,40 mins,21 mins,11 mins,10 mins,2.9 km,2.9 km,4.1 km,3.4 km,3.4 km
+t1898,6 mins,5 mins,16 mins,1 hour 14 mins,34 mins,20 mins,15 mins,5.7 km,5.4 km,6.4 km,5.9 km,6.2 km
+t1899,6 mins,3 mins,13 mins,43 mins,28 mins,12 mins,11 mins,4.6 km,3.1 km,5.2 km,3.4 km,4.3 km
+t1900,6 mins,8 mins,11 mins,40 mins,18 mins,11 mins,10 mins,3.2 km,2.8 km,3.8 km,2.8 km,3.6 km
+t1901,6 mins,6 mins,9 mins,47 mins,19 mins,12 mins,10 mins,3.1 km,3.4 km,4.8 km,3.4 km,3.4 km
+t1902,7 mins,7 mins,7 mins,20 mins,13 mins,6 mins,8 mins,1.8 km,1.4 km,1.7 km,1.5 km,2.2 km
+t1903,7 mins,12 mins,17 mins,1 hour 33 mins,20 mins,25 mins,18 mins,7.1 km,6.7 km,8.1 km,7.3 km,8.8 km
+t1904,6 mins,3 mins,12 mins,54 mins,17 mins,13 mins,12 mins,4.3 km,3.9 km,6.7 km,3.9 km,4.1 km
+t1905,7 mins,5 mins,10 mins,32 mins,13 mins,8 mins,7 mins,3.2 km,2.3 km,2.2 km,2.3 km,2.3 km
+t1906,6 mins,9 mins,9 mins,21 mins,14 mins,5 mins,6 mins,2.5 km,1.5 km,1.6 km,1.6 km,1.7 km
+t1907,6 mins,3 mins,11 mins,40 mins,19 mins,10 mins,8 mins,3.8 km,2.8 km,4.4 km,3.1 km,3.3 km
+t1908,7 mins,6 mins,15 mins,1 hour 24 mins,34 mins,25 mins,17 mins,7.0 km,6.0 km,7.4 km,6.8 km,7.1 km
+t1909,7 mins,6 mins,10 mins,21 mins,13 mins,6 mins,9 mins,2.7 km,1.5 km,2.2 km,1.6 km,2.2 km
+t1910,6 mins,1 min,11 mins,33 mins,15 mins,10 mins,8 mins,3.4 km,2.5 km,3.4 km,2.8 km,2.9 km
+t1911,7 mins,3 mins,16 mins,1 hour 21 mins,29 mins,20 mins,18 mins,6.9 km,5.9 km,9.5 km,6.0 km,6.6 km
+t1912,7 mins,10 mins,6 mins,34 mins,19 mins,10 mins,9 mins,2.0 km,2.5 km,4.8 km,2.9 km,2.9 km
+t1913,7 mins,6 mins,7 mins,29 mins,14 mins,7 mins,11 mins,2.2 km,2.1 km,2.3 km,2.2 km,3.1 km
+t1914,7 mins,2 mins,11 mins,52 mins,24 mins,14 mins,13 mins,3.5 km,3.8 km,4.5 km,4.2 km,4.2 km
+t1915,6 mins,1 min,12 mins,1 hour 0 mins,26 mins,16 mins,13 mins,4.5 km,4.3 km,7.1 km,4.9 km,4.6 km
+t1916,7 mins,11 mins,12 mins,41 mins,24 mins,13 mins,12 mins,3.8 km,3.0 km,4.8 km,3.7 km,3.6 km
+t1917,3 mins,6 mins,7 mins,32 mins,14 mins,8 mins,8 mins,2.1 km,2.3 km,3.2 km,2.3 km,2.3 km
+t1918,2 mins,3 mins,9 mins,41 mins,16 mins,10 mins,9 mins,3.1 km,3.0 km,3.1 km,3.1 km,3.1 km
+t1919,2 mins,3 mins,13 mins,1 hour 4 mins,26 mins,16 mins,15 mins,4.3 km,4.6 km,5.9 km,4.8 km,4.6 km
+t1920,7 mins,10 mins,10 mins,32 mins,22 mins,8 mins,7 mins,3.3 km,2.3 km,2.7 km,2.4 km,2.3 km
+t1921,7 mins,7 mins,8 mins,39 mins,17 mins,10 mins,11 mins,2.7 km,2.8 km,3.3 km,3.0 km,3.9 km
+t1922,4 mins,1 min,22 mins,1 hour 44 mins,26 mins,28 mins,21 mins,8.7 km,7.5 km,8.8 km,8.2 km,8.4 km
+t1923,2 mins,4 mins,15 mins,1 hour 8 mins,32 mins,17 mins,15 mins,5.1 km,4.9 km,6.3 km,5.0 km,5.3 km
+t1924,4 mins,3 mins,12 mins,27 mins,27 mins,7 mins,10 mins,4.3 km,1.9 km,1.9 km,2.0 km,3.9 km
+t1925,4 mins,6 mins,16 mins,1 hour 22 mins,30 mins,22 mins,17 mins,6.7 km,5.9 km,8.5 km,6.0 km,6.9 km
+t1926,3 mins,3 mins,22 mins,1 hour 46 mins,31 mins,26 mins,21 mins,7.6 km,7.6 km,9.4 km,7.8 km,7.6 km
+t1927,3 mins,6 mins,9 mins,40 mins,25 mins,10 mins,8 mins,3.0 km,2.9 km,8.7 km,3.3 km,2.9 km
+t1928,7 mins,2 mins,8 mins,35 mins,15 mins,12 mins,12 mins,2.7 km,2.5 km,4.1 km,2.8 km,3.3 km
+t1929,7 mins,7 mins,7 mins,13 mins,13 mins,5 mins,5 mins,1.9 km,0.9 km,0.9 km,1.1 km,1.3 km
+t1930,7 mins,3 mins,6 mins,24 mins,19 mins,8 mins,7 mins,1.7 km,1.7 km,2.7 km,2.1 km,1.8 km
+t1931,7 mins,4 mins,12 mins,44 mins,16 mins,13 mins,13 mins,3.8 km,3.2 km,4.7 km,3.6 km,3.8 km
+t1932,7 mins,1 min,11 mins,44 mins,23 mins,11 mins,10 mins,3.8 km,3.2 km,3.9 km,3.8 km,3.8 km
+t1933,4 mins,12 mins,7 mins,27 mins,13 mins,9 mins,7 mins,1.9 km,1.9 km,2.0 km,2.0 km,2.0 km
+t1934,2 mins,4 mins,14 mins,44 mins,18 mins,13 mins,13 mins,4.3 km,3.2 km,3.8 km,4.0 km,4.3 km
+t1935,6 mins,8 mins,11 mins,30 mins,8 mins,7 mins,12 mins,3.6 km,2.1 km,2.2 km,2.0 km,3.1 km
+t1936,10 mins,2 mins,7 mins,31 mins,15 mins,8 mins,6 mins,2.2 km,2.2 km,2.6 km,2.3 km,2.3 km
+t1937,10 mins,2 mins,6 mins,32 mins,13 mins,8 mins,7 mins,1.9 km,2.3 km,2.8 km,2.3 km,2.3 km
+t1938,6 mins,2 mins,11 mins,59 mins,24 mins,16 mins,12 mins,4.6 km,4.3 km,6.6 km,4.3 km,4.6 km
+t1939,9 mins,7 mins,15 mins,1 hour 41 mins,32 mins,24 mins,16 mins,7.9 km,7.3 km,13.7 km,7.7 km,8.7 km
+t1940,9 mins,6 mins,19 mins,1 hour 29 mins,24 mins,25 mins,19 mins,8.0 km,6.4 km,6.6 km,6.8 km,7.4 km
+t1941,9 mins,2 mins,19 mins,1 hour 26 mins,25 mins,22 mins,19 mins,6.7 km,6.2 km,7.4 km,6.4 km,6.5 km
+t1942,6 mins,6 mins,21 mins,1 hour 37 mins,26 mins,25 mins,23 mins,7.7 km,7.0 km,8.3 km,7.5 km,8.7 km
+t1943,6 mins,5 mins,15 mins,1 hour 6 mins,16 mins,18 mins,15 mins,5.8 km,4.7 km,5.6 km,4.7 km,5.0 km
+t1944,6 mins,1 min,17 mins,1 hour 29 mins,35 mins,26 mins,18 mins,7.7 km,6.4 km,7.6 km,7.6 km,11.0 km
+t1945,6 mins,4 mins,7 mins,27 mins,12 mins,8 mins,7 mins,1.9 km,1.9 km,2.7 km,1.9 km,2.2 km
+t1946,10 mins,8 mins,14 mins,1 hour 1 min,22 mins,16 mins,13 mins,5.1 km,4.4 km,5.0 km,4.6 km,5.0 km
+t1947,9 mins,3 mins,14 mins,30 mins,27 mins,7 mins,12 mins,5.4 km,2.1 km,5.6 km,2.1 km,4.4 km
+t1948,10 mins,8 mins,9 mins,28 mins,13 mins,8 mins,7 mins,2.8 km,2.0 km,2.8 km,2.1 km,2.3 km
+t1949,6 mins,4 mins,13 mins,49 mins,18 mins,11 mins,12 mins,4.5 km,3.6 km,7.1 km,3.6 km,3.9 km
+t1950,6 mins,5 mins,12 mins,42 mins,8 mins,12 mins,11 mins,3.8 km,3.0 km,2.9 km,3.1 km,3.3 km
+t1951,9 mins,5 mins,21 mins,1 hour 22 mins,23 mins,22 mins,20 mins,7.4 km,5.9 km,8.6 km,6.5 km,6.4 km
+t1952,6 mins,11 mins,8 mins,27 mins,17 mins,13 mins,8 mins,2.5 km,1.9 km,3.0 km,2.0 km,2.4 km
+t1953,4 mins,3 mins,13 mins,54 mins,26 mins,13 mins,13 mins,4.4 km,4.0 km,5.0 km,4.2 km,5.2 km
+t1954,4 mins,6 mins,3 mins,9 mins,9 mins,3 mins,3 mins,0.8 km,0.6 km,0.6 km,0.9 km,0.8 km
+t1955,4 mins,8 mins,9 mins,41 mins,19 mins,13 mins,11 mins,2.9 km,3.0 km,3.1 km,3.3 km,3.5 km
+t1956,4 mins,9 mins,4 mins,10 mins,9 mins,5 mins,5 mins,1.2 km,0.7 km,0.8 km,1.1 km,1.3 km
+t1957,4 mins,5 mins,7 mins,32 mins,13 mins,9 mins,8 mins,2.4 km,2.3 km,2.7 km,2.5 km,2.3 km
+t1958,4 mins,6 mins,9 mins,32 mins,12 mins,9 mins,8 mins,2.5 km,2.3 km,3.9 km,2.3 km,2.3 km
+t1959,6 mins,4 mins,5 mins,12 mins,7 mins,4 mins,5 mins,1.2 km,0.9 km,0.9 km,1.4 km,1.4 km
+t1960,6 mins,3 mins,16 mins,1 hour 21 mins,21 mins,21 mins,17 mins,6.1 km,5.8 km,7.9 km,5.9 km,7.0 km
+t1961,4 mins,6 mins,5 mins,16 mins,13 mins,4 mins,6 mins,1.4 km,1.1 km,1.6 km,1.1 km,1.5 km
+t1962,6 mins,3 mins,8 mins,34 mins,16 mins,10 mins,9 mins,2.4 km,2.4 km,4.2 km,2.5 km,2.5 km
+t1963,4 mins,4 mins,10 mins,36 mins,15 mins,11 mins,10 mins,3.1 km,2.6 km,3.8 km,3.2 km,3.2 km
+t1964,6 mins,2 mins,12 mins,48 mins,13 mins,12 mins,9 mins,3.8 km,3.5 km,4.6 km,3.8 km,3.8 km
+t1965,4 mins,4 mins,9 mins,34 mins,18 mins,9 mins,9 mins,2.7 km,2.5 km,3.2 km,2.6 km,2.7 km
+t1966,4 mins,14 mins,9 mins,31 mins,13 mins,10 mins,9 mins,2.6 km,2.2 km,2.5 km,3.0 km,3.0 km
+t1967,4 mins,2 mins,15 mins,1 hour 21 mins,31 mins,20 mins,17 mins,5.8 km,5.8 km,9.1 km,6.2 km,6.1 km
+t1968,6 mins,7 mins,10 mins,55 mins,19 mins,14 mins,14 mins,3.3 km,4.0 km,5.2 km,4.0 km,4.0 km
+t1969,6 mins,3 mins,12 mins,58 mins,11 mins,16 mins,13 mins,3.9 km,4.2 km,6.1 km,4.3 km,4.3 km
+t1970,7 mins,1 min,18 mins,1 hour 11 mins,32 mins,20 mins,17 mins,6.2 km,5.1 km,8.6 km,5.9 km,6.0 km
+t1971,7 mins,5 mins,14 mins,57 mins,21 mins,16 mins,13 mins,5.4 km,4.1 km,5.3 km,4.2 km,4.4 km
+t1972,7 mins,4 mins,8 mins,23 mins,13 mins,7 mins,6 mins,2.4 km,1.6 km,2.1 km,1.6 km,1.8 km
+t1973,7 mins,5 mins,16 mins,1 hour 4 mins,29 mins,16 mins,15 mins,5.0 km,4.6 km,5.3 km,4.8 km,4.7 km
+t1974,8 mins,1 min,14 mins,38 mins,23 mins,12 mins,11 mins,4.3 km,2.7 km,4.0 km,3.6 km,3.6 km
+t1975,8 mins,6 mins,18 mins,1 hour 29 mins,31 mins,26 mins,17 mins,7.7 km,6.3 km,6.7 km,7.1 km,7.9 km
+t1976,8 mins,9 mins,6 mins,5 mins,5 mins,1 min,1 min,1.5 km,0.4 km,0.4 km,0.4 km,0.4 km
+t1977,8 mins,6 mins,8 mins,28 mins,18 mins,8 mins,7 mins,2.3 km,2.0 km,2.6 km,2.0 km,2.1 km
+t1978,8 mins,7 mins,18 mins,1 hour 23 mins,35 mins,20 mins,16 mins,7.6 km,5.9 km,6.7 km,6.2 km,6.4 km
+t1979,8 mins,3 mins,11 mins,47 mins,20 mins,11 mins,9 mins,4.1 km,3.4 km,3.6 km,3.4 km,3.8 km
+t1980,8 mins,5 mins,12 mins,34 mins,14 mins,9 mins,9 mins,3.4 km,2.4 km,2.6 km,2.5 km,2.7 km
+t1981,8 mins,4 mins,14 mins,1 hour 8 mins,28 mins,17 mins,12 mins,5.5 km,4.9 km,6.3 km,5.3 km,5.3 km
+t1982,7 mins,2 mins,14 mins,52 mins,24 mins,14 mins,13 mins,4.4 km,3.8 km,6.7 km,3.8 km,4.0 km
+t1983,7 mins,8 mins,12 mins,56 mins,19 mins,14 mins,11 mins,4.1 km,4.1 km,4.2 km,4.3 km,4.1 km
+t1984,5 mins,2 mins,14 mins,56 mins,21 mins,16 mins,14 mins,4.8 km,4.0 km,6.2 km,4.7 km,4.9 km
+t1985,5 mins,6 mins,21 mins,1 hour 39 mins,29 mins,25 mins,20 mins,7.4 km,7.1 km,8.6 km,7.2 km,7.3 km
+t1986,5 mins,1 min,12 mins,50 mins,22 mins,14 mins,12 mins,4.3 km,3.7 km,5.9 km,4.3 km,4.4 km
+t1987,5 mins,1 min,19 mins,1 hour 30 mins,31 mins,25 mins,19 mins,7.4 km,6.5 km,6.8 km,6.8 km,7.7 km
+t1988,8 mins,5 mins,18 mins,1 hour 15 mins,24 mins,20 mins,16 mins,6.4 km,5.3 km,6.8 km,5.7 km,5.8 km
+t1989,5 mins,8 mins,13 mins,54 mins,19 mins,15 mins,13 mins,5.3 km,3.8 km,5.4 km,4.3 km,4.7 km
+t1990,8 mins,4 mins,7 mins,34 mins,17 mins,10 mins,9 mins,2.2 km,2.4 km,4.3 km,2.6 km,2.6 km
+t1991,5 mins,4 mins,16 mins,1 hour 19 mins,27 mins,20 mins,16 mins,5.5 km,5.7 km,6.7 km,5.7 km,5.9 km
+t1992,5 mins,3 mins,3 mins,9 mins,6 mins,3 mins,3 mins,0.8 km,0.6 km,0.7 km,0.6 km,0.6 km
+t1993,8 mins,6 mins,13 mins,54 mins,21 mins,14 mins,12 mins,4.0 km,3.9 km,3.9 km,3.7 km,3.9 km
+t1994,5 mins,5 mins,10 mins,34 mins,18 mins,9 mins,8 mins,3.2 km,2.4 km,2.7 km,2.6 km,2.6 km
+t1995,5 mins,5 mins,15 mins,1 hour 2 mins,29 mins,19 mins,16 mins,5.4 km,4.4 km,7.7 km,5.8 km,5.4 km
+t1996,8 mins,4 mins,6 mins,30 mins,19 mins,7 mins,9 mins,1.7 km,2.1 km,3.0 km,2.2 km,2.7 km
+t1997,8 mins,2 mins,15 mins,1 hour 12 mins,24 mins,18 mins,16 mins,5.5 km,5.2 km,8.1 km,5.2 km,5.8 km
