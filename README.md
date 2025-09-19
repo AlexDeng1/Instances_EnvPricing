@@ -29,6 +29,8 @@ The folder stores the relevant data associated with each instance.
 # Map_visualization
 The folder contains three files for visualizing the maps of the studied carsharing system, which are
 * [heatmap_cus_density.html](/Map_visualization/heatmap_cus_density.html): It shows the overall distribution of CS stations and the customer densities among stations.
-* [Map_data_visualization.ipynb](/Map_visualization/Map_data_visualization.ipynb): We show the locations of obtained POIs in the map. Also, taking a case with 200 customers as an example, we show the geographic distribution of these customers.
+* [Map_data_visualization.ipynb](/Map_visualization/Map_data_visualization.ipynb): We show the locations of obtained POIs in the map
+  ![cs_station_map](css_map_with100stations.png)
+Taking a case with 200 customers as an example, we show the origin and destination of each customer.
+  ![cs_station_map_with200cus](200_customers.png)
 * [route_map.html](/Map_visualization/route_map.html): We show the real-world transport routes associated with a specific customer (represented by its origin and destination points in the map). Different colors distinguish the type of transport modes the traveller can take.
-
